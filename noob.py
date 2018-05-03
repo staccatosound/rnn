@@ -11,6 +11,9 @@ NUM_EXAMPLES = 10000
 
 train_input = ['{0:020b}'.format(i) for i in range(2**20)]
 shuffle(train_input)
+
+print(train_input)
+
 train_input = [map(int,i) for i in train_input]
 ti  = []
 for i in train_input:
@@ -19,6 +22,7 @@ for i in train_input:
             temp_list.append([j])
     ti.append(np.array(temp_list))
 train_input = ti
+
 
 train_output = []
 for i in train_input:

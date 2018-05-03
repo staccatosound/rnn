@@ -23,9 +23,9 @@ def build_lstm_graph_with_config(config=None):
     lstm_graph = tf.Graph()
     
     with lstm_graph.as_default():
-        inputs = tf.placeholder(tf.float32, [None, config.num_steps, config.input_size])
-        targets = tf.placeholder(tf.float32, [None, config.input_size])
-        learning_rate = tf.placeholder(tf.float32, None)
+        inputs = tf.placeholder("float", [None, config.num_steps, config.input_size])
+        targets = tf.placeholder("float", [None, config.input_size])
+        learning_rate = tf.placeholder("float", None)
     
         def _create_one_cell():
             lstm_cell = tf.contrib.rnn.LSTMCell(config.lstm_size, state_is_tuple=True)
@@ -83,36 +83,44 @@ def train_lstm_graph(xs, ys, lstm_graph, loss, minimize, config=DEFAULT_CONFIG):
         for epoch_step in range(config.max_epoch):
             current_lr = learning_rates_to_use[epoch_step]
      
+        print("--savepoint--")
         
-        x = tf.placeholder(tf.float32, [1, config.window_size], name="x")
-        y_ = tf.placeholder(tf.float32, [1, 3])
-        
+        x = tf.placeholder("float", [None, config.window_size], name="x")
+        y_ = tf.placeholder("float", [None, 3])
+#        
         num_batch = int (len(xs) / config.window_size)
         
         batch_y = []    
         batch_x = []
-            
+                  
         for b in range(num_batch):
             fr = b * config.window_size 
             to = fr + config.window_size
             m_x = xs[fr:to]
+            m_x = list(m_x)
             batch_x = np.reshape(m_x, (1,5))
+            print(type(batch_x[0][0]))
         
-            m_y = np.zeros(3)
-            m_y[ys[b]] = 1.0
+            m_y = [float(0.1) for i in range(0,3)]
+            m_y[ys[b]] = float(1.1)
             m_y = list(m_y)
             batch_y = np.reshape(m_y, (1,3))
-
+            print(type(batch_y[0][0]))
+              
+            temp = batch_x.tolist()[0]
+            temp = temp[:3]
+            temp = np.reshape(temp, (1,3))
+            print(temp)
             
-#            batch_x = np.arange(1.0).reshape((1, 5))
-            print(batch_x)
-            print(batch_y)            
-            train_loss, _ = sess.run([loss, minimize], feed_dict={x: batch_x, y_: batch_y})
-                        
-            
-        saver = tf.train.Saver()
-        saver.save(sess, "your_awesome_model_path_and_name", global_step=config.max_epoch_step)
-            
+#            batch_x = batch_x.astype(float)
+#            batch_y = batch_y.astype(float)
+            print(batch_x, batch_y)            
+            train_loss, _ = sess.run([loss, minimize], feed_dict={x: batch_x, y_: temp})
+#                        
+#            
+#        saver = tf.train.Saver()
+#        saver.save(sess, "your_awesome_model_path_and_name", global_step=config.max_epoch_step)
+#            
     
 def main(config=DEFAULT_CONFIG):    
     df = pd.read_csv('intermediate/x.csv')

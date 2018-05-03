@@ -19,10 +19,10 @@ df = df[df['Date'] >= datetime.date(2017,4,1)]
 df = df.set_index('Date')
 
 df['SMA(5)'] = df['Price'].rolling(5).mean()
-#df['SMA(20)'] = df['Price'].rolling(20).mean()
+df['SMA(20)'] = df['Price'].rolling(20).mean()
 df['SMA(30)'], df['BB-Upper'], df['BB-Lower'] = bbands(df['Price'])
 
-#df.plot(figsize=(10,5));
+df.plot(figsize=(20,10));
 
 
 price = df['Price'] 

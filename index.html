@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body {
+  background-color: #F1F3F3    
+}
+.axis {
+	font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #D4D8DA;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: #3399ff;
+  stroke-width: 1px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: #F1F3F3;
+  stroke: black;
+  stroke-width: 2px;
+}
+  
+.hover-line {
+  stroke: black;
+  stroke-width: 2px;
+  stroke-dasharray: 3,3;
+}
+
+</style>
+<body>
+	<div>
+		<a href="#" onclick="render('bitcoin')">bitcoin</a>
+		<a href="#" onclick="render('ethereum')">ethereum</a>
+		<a href="#" onclick="render('bitcoin-cash')">bitcoin-cash</a>
+		<a href="#" onclick="render('nem')">nem</a>
+		<a href="#" onclick="render('ripple')">ripple</a>
+		<a href="#" onclick="render('litecoin')">litecoin</a>
+		<a href="#" onclick="render('lisk')">lisk</a>
+		<a href="#" onclick="render('neo')">neo</a>
+		<a href="#" onclick="render('iota')">iota</a>
+		<a href="#" onclick="render('cardano')">cardano</a>
+		<a href="#" onclick="render('stellar')">stellar</a>
+	</div>
+	<div>
+		<a href="#" onclick="setPeriod('7')">7days</a>
+		<a href="#" onclick="setPeriod('30')">1month</a>
+		<a href="#" onclick="setPeriod('90')">3months</a>
+		<a href="#" onclick="setPeriod('365')">1year</a>
+		<a href="#" onclick="setPeriod('1000')">all</a>
+	</div>	
+	<h3 id="coin-id">Coin</h3>
+	<div>
+		<svg width="1300" height="400"></svg>
+	</div>
+</body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="moment.min.js"></script>
+
+<script>
+
+var margin = {top: 20, right: 200, bottom: 30, left: 40},
+    width = 1300 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
+
+var parseTime = d3.timeParse("%Y%m%d")
+    bisectDate = d3.bisector(function(d) { return d.date; }).left;
+
+var x = d3.scaleTime().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+
+var xAxis, yAxis, gX, gY, focus;
+
+var gtransform = {x:0, y:0, k:1};
+
+var zoom = d3.zoom()
+	.scaleExtent([0.6,1.5])
+	.extent([[0,0],[width, height]])
+	.on("zoom", doZoom);
+
+var svg = d3.select("svg").call(zoom);
+    
+svg.append("svg:clipPath")
+	.attr("id", "clip")
+	.append("svg:rect")
+	.attr("x", 0)
+	.attr("y", 0)
+	.attr("width", width)
+	.attr("height", height);
+
+var cdata = [];
+
+var line = d3.line()
+	.x(function(d) { return x(d.date); })
+	.y(function(d) { return y(d.close); });
+
+var g = svg.append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var gcoin = "bitcoin-cash";
+var gperiod = 90;
+
+var setPeriod = function(days){
+	gperiod = days;
+	render(gcoin);
+}
+
+var render = function(coin){
+	gcoin = coin;
+	document.getElementById("coin-id").innerHTML = coin;
+
+	g.selectAll("*").remove();
+	var source = "data/" + coin + ".csv";
+
+	d3.csv(source, function(error, data) {
+	if (error) throw error;
+
+  data.reverse();
+
+	for(var i=0; i<data.length; i++){
+		data[i].date = parseTime(data[i].date);
+		data[i].close = +data[i].close;
+
+		if(i < data.length-1)
+			data[i].diff = data[i+1].close - data[i].close;
+	}
+
+	cdata = data;	
+	var today = new Date();
+	var from = moment(today).add(-gperiod, 'days').toDate();
+
+	x.domain([from, today]);
+	y.domain([d3.min(data, function(d) { return d.close; }) / 1.001, d3.max(data, function(d) { return d.close; }) * 1.005]);
+
+	xAxis = d3.axisBottom(x).tickFormat(d3.timeFormat("%Y/%m"));
+	yAxis = d3.axisLeft(y).ticks(6).tickFormat(function(d) { return parseInt(d); });
+
+	gX = g.append("g")
+		.attr("class", "axis axis--x")
+		.attr("transform", "translate(0," + height + ")")
+		.call(xAxis);
+
+	gY = g.append("g")
+		.attr("class", "axis axis--y")
+		.call(yAxis);
+
+	gY.append("text")
+		.attr("class", "axis-title")
+		.attr("transform", "rotate(-90)")
+		.attr("y", 6)
+		.attr("dy", ".71em")
+		.style("text-anchor", "end")
+		.attr("fill", "#5D6971");
+
+	// g.append("path")
+	// 	.datum(data)
+	// 	.attr("class", "line")
+	// 	.attr("d", line)
+	// 	.attr("clip-path", "url(#clip)");
+
+	g.selectAll("ohlc").data(cdata)
+		.enter()
+		.append("line")
+		.attr("class", "ohlc")
+		.style("stroke", function(d){ return d.open < d.close? "green":"red";})
+		.attr("x1", function(d){ return x(d.date); })
+		.attr("x2", function(d){ return x(d.date); })
+		.attr("y1", function(d){ return y(d.high); })
+		.attr("y2", function(d){ return y(d.low); })
+		.attr("clip-path", "url(#clip)");
+
+	g.selectAll("ohlc").data(cdata)
+		.enter()			
+		.append("line")
+		.attr("class", "ohlc")
+		.style("stroke", function(d){ return d.open < d.close? "green":"red";})
+		.attr("x1", function(d){ return x(d.date); })
+		.attr("x2", function(d){ return x(d.date) + 2; })
+		.attr("y1", function(d){ return y(d.close); })
+		.attr("y2", function(d){ return y(d.close); })
+		.attr("clip-path", "url(#clip)");		
+
+	g.selectAll("ohlc").data(cdata)
+		.enter()			
+		.append("line")
+		.attr("class", "ohlc")
+		.style("stroke", function(d){ return d.open < d.close? "green":"red";})
+		.attr("x1", function(d){ return x(d.date) - 2; })
+		.attr("x2", function(d){ return x(d.date); })
+		.attr("y1", function(d){ return y(d.open); })
+		.attr("y2", function(d){ return y(d.open); })
+		.attr("clip-path", "url(#clip)");
+
+	focus = g.append("g")
+		.attr("class", "focus")
+		.style("display", "none");
+
+	constructFocus(focus);
+
+	svg.append("rect")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+		.attr("class", "overlay")
+		.attr("width", width)
+		.attr("height", height)
+
+		.on("mouseover", function() { focus.style("display", null); })
+		.on("mouseout", function() { focus.style("display", "none"); })
+		.on("mousemove", mouseMove);
+
+	});
+};
+
+render(gcoin);
+
+function constructFocus(focus){
+	focus.append("line")
+		.attr("class", "x-hover-line hover-line")
+		.attr("y1", 0)
+		.attr("y2", height);
+
+	focus.append("line")
+		.attr("class", "y-hover-line hover-line")
+		.attr("x1", width)
+		.attr("x2", width);
+
+	focus.append("circle")
+		.attr("r", 2.0);
+
+	focus.append("text")
+		.attr("class", "tooltip-date")
+		.style("font-weight", "bold")
+		.attr("x", -50)
+		.attr("dy", "0px");
+
+	focus.append("text")
+		.attr("class", "tooltip-close")
+		.style("font-weight", "bold")
+		.attr("x", 15)
+		.attr("dy", "0px");
+
+	focus.append("text")
+		.attr("class", "tooltip-open")
+		.attr("x", 15)
+		.attr("dy", "20px");
+
+	focus.append("text")
+		.attr("class", "tooltip-high")
+		.attr("x", 15)
+		.attr("dy", "40px");
+
+	focus.append("text")
+		.attr("class", "tooltip-low")
+		.attr("x", 15)
+		.attr("dy", "60px");
+
+	focus.append("text")
+		.attr("class", "tooltip-close")
+		.attr("x", 15)
+		.attr("dy", "80px");
+		
+	};
+
+function mouseMove() {
+	var mouse_x = d3.mouse(this)[0];
+	var x_rel = (mouse_x - gtransform.x) / gtransform.k;
+
+	var x0 = x.invert(x_rel),
+			i = bisectDate(cdata, x0, 1),
+			d0 = cdata[i - 1],
+			d1 = cdata[i],
+			d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+
+	var dx = x(d.date) * gtransform.k + gtransform.x;
+	var dy = y(d.close) * gtransform.k;
+
+	focus.selectAll(".tooltip-date").text(function() { return moment(d.date).format("M/D"); });	
+	focus.selectAll(".tooltip-close").text(function() { return d.close });
+
+	focus.selectAll(".tooltip-open").text(function() { return d.open; });
+	focus.selectAll(".tooltip-high").text(function() { return d.high; });
+	focus.selectAll(".tooltip-low").text(function() { return d.low; });
+	focus.selectAll(".tooltip-close").text(function() { return d.close; });
+
+	focus.attr("transform", "translate(" + dx + "," + dy + ")");
+	focus.attr("visibility", "visible");
+};
+
+function doZoom(){
+	focus.attr("visibility", "hidden");
+
+	var transform = d3.event.transform;
+	transform.y = 0;
+
+	gtransform = {x: transform.x, y: transform.y, k: transform.k};
+
+	svg.selectAll(".line, .circle-red, .circle-green")
+		.attr("transform", transform);
+
+	svg.select("#clip > rect")
+		.attr("x", -transform.x / transform.k)
+		.attr("width", width / transform.k);		
+
+	gX.call(xAxis.scale(d3.event.transform.rescaleX(x)));
+	gY.call(yAxis.scale(d3.event.transform.rescaleY(y)));
+};
+
+</script>

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body {
+  background-color: #F1F3F3    
+}
+.axis {
+	font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #D4D8DA;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: #3399ff;
+  stroke-width: 1px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: #F1F3F3;
+  stroke: black;
+  stroke-width: 2px;
+}
+  
+.hover-line {
+  stroke: black;
+  stroke-width: 2px;
+  stroke-dasharray: 3,3;
+}
+
+</style>
+<body>
+<div>
+	<input type ="range" max="3" min="0.1"
+			oninput="changeThreshold(this.value)"
+			onchange="changeThreshold(this.value)"
+			step="0.1" name="rangeVal" id="rangeVal" value="2">
+	</input>
+	<em id="rangeValLabel" style="font-style: normal;">2</em>
+</fieldset>
+
+<div>
+	<svg width="1300" height="400"></svg>
+</div>
+</body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="moment.min.js"></script>
+
+<script>
+
+var margin = {top: 20, right: 200, bottom: 30, left: 40},
+    width = 1300 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
+
+var parseTime = d3.timeParse("%Y%m%d")
+    bisectDate = d3.bisector(function(d) { return d.Date; }).left;
+
+var x = d3.scaleTime().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+
+var xAxis, yAxis, gX, gY, focus;
+
+var gtransform = {x:0, y:0, k:1};
+
+var zoom = d3.zoom()
+	.scaleExtent([0.6,1.5])
+	.extent([[0,0],[width, height]])
+	.on("zoom", doZoom);
+
+var svg = d3.select("svg").call(zoom);
+    
+svg.append("svg:clipPath")
+	.attr("id", "clip")
+	.append("svg:rect")
+	.attr("x", 0)
+	.attr("y", 0)
+	.attr("width", width)
+	.attr("height", height);
+
+var cdata = [];
+
+var line = d3.line()
+	.x(function(d) { return x(d.Date); })
+	.y(function(d) { return y(d.Rate); });
+
+var g = svg.append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+d3.json("data_2017.json", function(error, data) {
+	if (error) throw error;
+
+  data.reverse();
+
+	for(var i=0; i<data.length; i++){
+		data[i].Date = parseTime(data[i].Date);
+		data[i].Rate = +data[i].Rate;
+
+		if(i < data.length-1)
+			data[i].Diff = data[i+1].Rate - data[i].Rate;
+	}
+
+	cdata = data;	
+
+	x.domain([new Date(2017,1,1), new Date(2017,12,31)]);
+	y.domain([d3.min(data, function(d) { return d.Rate; }) / 1.001, d3.max(data, function(d) { return d.Rate; }) * 1.005]);
+
+	xAxis = d3.axisBottom(x).tickFormat(d3.timeFormat("%Y/%m"));
+	yAxis = d3.axisLeft(y).ticks(6).tickFormat(function(d) { return parseInt(d); });
+
+	gX = g.append("g")
+		.attr("class", "axis axis--x")
+		.attr("transform", "translate(0," + height + ")")
+		.call(xAxis);
+
+	gY = g.append("g")
+		.attr("class", "axis axis--y")
+		.call(yAxis);
+
+	gY.append("text")
+		.attr("class", "axis-title")
+		.attr("transform", "rotate(-90)")
+		.attr("y", 6)
+		.attr("dy", ".71em")
+		.style("text-anchor", "end")
+		.attr("fill", "#5D6971");
+
+	g.append("path")
+		.datum(data)
+		.attr("class", "line")
+		.attr("d", line)
+		.attr("clip-path", "url(#clip)");
+
+	plotDots(2);
+
+	focus = g.append("g")
+		.attr("class", "focus")
+		.style("display", "none");
+
+	constructFocus(focus);
+
+	svg.append("rect")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+		.attr("class", "overlay")
+		.attr("width", width)
+		.attr("height", height)
+
+		.on("mouseover", function() { focus.style("display", null); })
+		.on("mouseout", function() { focus.style("display", "none"); })
+		.on("mousemove", mouseMove);
+});
+
+function constructFocus(focus){
+	focus.append("line")
+		.attr("class", "x-hover-line hover-line")
+		.attr("y1", 0)
+		.attr("y2", height);
+
+	focus.append("line")
+		.attr("class", "y-hover-line hover-line")
+		.attr("x1", width)
+		.attr("x2", width);
+
+	focus.append("circle")
+		.attr("r", 2.0);
+
+	focus.append("text")
+		.attr("class", "tooltip-date")
+		.style("font-weight", "bold")
+		.attr("x", -50)
+		.attr("dy", "0px");
+
+	focus.append("text")
+		.attr("class", "tooltip-rate")
+		.style("font-weight", "bold")
+		.attr("x", 15)
+		.attr("dy", "0px");
+
+	focus.append("text")
+		.attr("class", "tooltip-0")
+		.attr("x", 15)
+		.attr("dy", "20px");
+
+	focus.append("text")
+		.attr("class", "tooltip-1")
+		.attr("x", 15)
+		.attr("dy", "40px");
+
+	focus.append("text")
+		.attr("class", "tooltip-2")
+		.attr("x", 15)
+		.attr("dy", "60px");
+
+	focus.append("text")
+		.attr("class", "tooltip-3")
+		.attr("x", 15)
+		.attr("dy", "80px");
+
+	focus.append("text")
+		.attr("class", "tooltip-4")
+		.attr("x", 15)
+		.attr("dy", "100px");
+
+	focus.append("text")
+		.attr("class", "tooltip-5")
+		.attr("x", 15)
+		.attr("dy", "120px");
+
+	focus.append("text")
+		.attr("class", "tooltip-6")
+		.attr("x", 15)
+		.attr("dy", "140px");
+
+	focus.append("text")
+		.attr("class", "tooltip-7")
+		.attr("x", 15)
+		.attr("dy", "160px");
+
+	focus.append("text")
+		.attr("class", "tooltip-8")
+		.attr("x", 15)
+		.attr("dy", "18	0px");
+		
+	};
+
+function changeThreshold(val){
+	document.getElementById('rangeValLabel').innerHTML = val;
+	plotDots(val);
+};
+
+function plotDots(val){
+	d3.selectAll("circle").remove();
+
+	g.selectAll("circle-red").data(cdata)
+		.enter()
+		.append("circle")
+		.attr("class", "circle-red")
+		.filter(function(d){ return d.Diff < -val})
+		.style("fill", "red")
+		.attr("cx", function(d){ return x(d.Date); })
+		.attr("cy", function(d){ return y(d.Rate); })
+		.attr("r", 2)
+		.attr("clip-path", "url(#clip)");
+
+	g.selectAll("circle-green").data(cdata)
+		.enter()
+		.append("circle")
+		.attr("class", "circle-green")
+		.filter(function(d){ return d.Diff > val})
+		.style("fill", "green")
+		.attr("cx", function(d){ return x(d.Date); })
+		.attr("cy", function(d){ return y(d.Rate); })
+		.attr("r", 2)
+		.attr("clip-path", "url(#clip)");
+
+	svg.selectAll(".circle-green, .circle-red")
+		.attr("transform", "translate(" + gtransform.x + ",0)scale(" + gtransform.k + ")");
+};
+
+function mouseMove() {
+	var mouse_x = d3.mouse(this)[0];
+	var x_rel = (mouse_x - gtransform.x) / gtransform.k;
+
+	var x0 = x.invert(x_rel),
+			i = bisectDate(cdata, x0, 1),
+			d0 = cdata[i - 1],
+			d1 = cdata[i],
+			d = x0 - d0.Date > d1.Date - x0 ? d1 : d0;
+
+	var dx = x(d.Date) * gtransform.k + gtransform.x;
+	var dy = y(d.Rate) * gtransform.k;
+
+	focus.selectAll(".tooltip-date").text(function() { return moment(d.Date).format("M/D"); });	
+	focus.selectAll(".tooltip-rate").text(function() { return d.Rate });
+
+	for(var i=0; i<d.Facts.length; i++)
+	{
+		focus.selectAll(".tooltip-" + i).text(function() { return d.Facts[i].Title; });
+	}
+
+	focus.attr("transform", "translate(" + dx + "," + dy + ")");
+	focus.attr("visibility", "visible");
+};
+
+function doZoom(){
+	focus.attr("visibility", "hidden");
+
+	var transform = d3.event.transform;
+	transform.y = 0;
+
+	gtransform = {x: transform.x, y: transform.y, k: transform.k};
+
+	svg.selectAll(".line, .circle-red, .circle-green")
+		.attr("transform", transform);
+
+	svg.select("#clip > rect")
+		.attr("x", -transform.x / transform.k)
+		.attr("width", width / transform.k);		
+
+	gX.call(xAxis.scale(d3.event.transform.rescaleX(x)));
+	gY.call(yAxis.scale(d3.event.transform.rescaleY(y)));
+};
+
+</script>

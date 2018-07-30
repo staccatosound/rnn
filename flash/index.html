@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<body>
+	<div id="kanji"></div>
+	<div id="katakana"></div>
+	<div id="meaning"></div>
+</body>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var url_string = window.location.href
+var url = new URL(url_string);
+var file = url.searchParams.get("file");
+
+var show_meaning = true;
+
+d3.tsv(file, function(error, data) {
+	if (error) throw error;
+	
+	i = Math.floor((Math.random() * data.length) + 1);
+
+	setInterval(function () {
+		voc = data[i];
+		d3.select("#kanji").text(voc.kanji);
+		if(show_meaning){
+			d3.select("#katakana").text(voc.katakana);
+		}
+		else{
+			d3.select("#katakana").text("");
+		}				
+
+		d3.select("body")
+			.on("keydown", function() {
+				//show_meaning = !show_meaning;		
+				if(show_meaning){
+					d3.select("#katakana").text(voc.katakana);
+					d3.select("#meaning").text(voc.meaning);		
+				}
+				else{
+					d3.select("#katakana").text("");
+					d3.select("#meaning").text("");				
+				}				
+			});
+		
+		i++;
+	}, 10000);
+
+});
+
+</script>

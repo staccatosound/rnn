@@ -1,0 +1,2700 @@
+kanji	katakana	meaning	
+愛想	あいそう	sociability	 
+間柄	あいだがら	relationship	 
+合間	あいま	interval	 
+敢えて	あえて	dare (to do), venture (to do), challenge (to do)	  marked
+仰ぐ	あおぐ	to look up (to), to respect; to ask for	 
+垢	あか	dirt, filth	 
+赤字	あかじ	deficit, go in the red	 
+明かす	あかす	to reveal; to stay up	 
+赤らむ	あからむ	to become red, to blush	 
+上がり	あがり	ascent; income; completion, stop	 
+諦め	あきらめ	resignation, reconciliation, consolation	 
+アクセル	アクセル	(abbr.) accelerator	 
+あくどい	あくどい	gaudy vicious	 
+顎	あご	chin	 
+憧れ	あこがれ	yearning, longing, aspiration	Intermediate_Japanese Intermediate_Japanese_Ln.8  
+麻	あさ	hemp	 
+あざ	あざ	birthmark, bruise	 
+浅ましい	あさましい	shameful, mean, despicable	 
+欺く	あざむく	to deceive	 
+鮮やか	あざやか	vivid, clear	 
+嘲笑う	あざわらう	to sneer at, to ridicule	 
+悪しからず	あしからず	don't take me wrong, but..., I'm sorry	 
+味わい	あじわい	flavor, relish	 
+焦る	あせる	to be in a hurry, to be impatient	 
+あせる (こえが～)	あせる (こえが～)	to fade, to discolor	 
+値	あたい	value, price, worth	 
+値する	あたいする	to be worth, to deserve	 
+悪化	あっか	deterioration, worsen	 
+扱い	あつかい	treatment, service	 
+呆気ない	あっけない	not enough, too quick (short, long, etc.)	 
+あっさり	あっさり	easily, readily, quickly	 
+斡旋	あっせん	kind offices, mediation	 
+圧倒	あっとう	overwhelm, overpower	 
+圧迫	あっぱく	pressure, coercion, oppression	 
+あつらえる	あつらえる	to give an order, to place an order	 
+圧力	あつりょく	stress, pressure	 
+当て	あて	expectations; depend	 
+～宛	～あて	for…(e.g., In a letter)	 
+当て字	あてじ	phonetic-equivalent character, substitute character	 
+跡継ぎ	あとつぎ	heir, successor	 
+後回し	あとまわし	putting off, postponing	 
+油絵	あぶらえ	oil painting	 
+アプローチ	アプローチ	approach (in golf)	 
+あべこべ	あべこべ	contrary, opposite, inverse	 
+甘える	あまえる	to behave like a spoiled child, to fawn on	 
+雨具	あまぐ	rain gear	 
+甘口	あまくち	sweet flavor	 
+アマチュア	アマチュア	amateur	 
+網	あみ	net	 
+操る	あやつる	to manipulate, to operate, to pull strings	 
+危ぶむ	あやぶむ	to fear, to have misgivings, to be doubtful	 MediaMissing 
+あやふや	あやふや	uncertain, vague, ambiguous	 MediaMissing 
+過ち	あやまち	fault, error, indiscretion	 MediaMissing 
+誤る	あやまる	to make a mistake	 MediaMissing 
+歩み	あゆみ	step, progress, history	 MediaMissing 
+歩む	あゆむ	to walk	 MediaMissing 
+予め	あらかじめ	in advance, previously	 MediaMissing 
+荒らす	あらす	to damage; to invade	 MediaMissing 
+争い	あらそい	dispute, quarrel, conflict	 MediaMissing 
+改まる	あらたまる	to be renewed; to be formal	 MediaMissing 
+荒っぽい	あらっぽい	rough, rude	 MediaMissing 
+アラブ	アラブ	Arab	 MediaMissing 
+霰	あられ	hail (e.g., falling ice balls)	 MediaMissing 
+有り様	ありさま	state, condition	 MediaMissing 
+ありのまま	ありのまま	the truth, as it is, frankly	 MediaMissing 
+ありふれる	ありふれる	common, ordinary, routine	 MediaMissing 
+アルカリ	アルカリ	alkali	 MediaMissing 
+アルミ	アルミ	aluminum (Al, aluminum)	 MediaMissing 
+アワー	アワー	hour	 MediaMissing 
+合わす	あわす	to join together, to face, to unite	 MediaMissing 
+～合せ	～あわせ	in all	 MediaMissing 
+アンコール	アンコール	encore	 MediaMissing 
+暗殺	あんさつ	assassination	 MediaMissing 
+暗算	あんざん	mental arithmetic	 MediaMissing 
+暗示	あんじ	hint, suggestion	 MediaMissing 
+案じる	あんじる	to be anxious, to ponder	 MediaMissing 
+安静	あんせい	rest	 MediaMissing 
+案の定	あんのじょう	sure enough, as usual	 MediaMissing 
+いい加減	いいかげん	random, irresponsible	 MediaMissing 
+言い訳	いいわけ	excuse, explanation	 MediaMissing 
+イェス	イェス	yes; Jesus	 MediaMissing 
+家出	いえで	running away from home	 MediaMissing 
+生かす	いかす	to keep something alive; to make use of	 MediaMissing 
+いかに	いかに	how, in what way	 MediaMissing 
+いかにも	いかにも	truly (same as 実に (じつに))	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+異議	いぎ	objection, dissent, protest	 MediaMissing 
+生き甲斐	いきがい	something one lives for, very important	 MediaMissing 
+行き違い	いきちがい	misunderstanding, disagreement	 MediaMissing 
+意気込む	いきごむ	to be enthusiastic about	 MediaMissing 
+育成	いくせい	rearing, training, cultivation	 MediaMissing 
+幾多	いくた	many, numerous	 MediaMissing 
+(花を〜) 生ける, 活ける	(はなを～) いける	to arrange (flowers)	 MediaMissing 
+異見	いけん	different opinion, objection	 MediaMissing 
+意向	いこう	intention, idea, inclination	 MediaMissing 
+移行	いこう	switching over to	 MediaMissing 
+いざ	いざ	now, come (now), crucial moment	 MediaMissing 
+移住	いじゅう	migration, immigration	 MediaMissing 
+衣装	いしょう	clothing, costume, outfit	 MediaMissing 
+いじる	いじる	to touch, to tamper with	 MediaMissing 
+異性	いせい	the opposite sex	 MediaMissing 
+遺跡	いせき	historic ruins	 MediaMissing 
+依存	いぞん	dependence, dependent, reliance	 MediaMissing 
+委託	いたく	consign (goods (for sale) to a firm), entrust	 MediaMissing 
+いたって	いたって	very much, exceedingly, extremely	 MediaMissing 
+いたわる	いたわる	to sympathize with, to console, to care for	 MediaMissing 
+一概に	いちがいに	unconditionally, necessarily	 MediaMissing 
+著しい	いちじるしい	remarkable, considerable	 MediaMissing 
+一同	いちどう	all present, all concerned, all of us	 MediaMissing 
+一部分	いちぶぶん	a part, a portion	 MediaMissing 
+一別	いちべつ	parting	 MediaMissing 
+一面	いちめん	one side, the other hand	 MediaMissing 
+一目	いちもく	a glance, a look, a glimpse	 MediaMissing 
+一様	いちよう	uniform, similar, equal	 MediaMissing 
+一律	いちりつ	even, uniform, equal	 MediaMissing 
+一連	いちれん	a series, a chain, a ream (of paper)	 MediaMissing 
+一括	いっかつ	all together, batch	 MediaMissing 
+一気	いっき	at one push, in one gulp	 MediaMissing 
+一挙に	いっきょに	at a stroke, with a single swoop	 MediaMissing 
+一見	いっけん	a look, a glimpse, glance; first meeting	 MediaMissing 
+一切	いっさい	without exception, the whole	 MediaMissing 
+一心	いっしん	one mind, with rapt attention	 MediaMissing 
+いっそ	いっそ	rather, sooner, might as well	 MediaMissing 
+一変	いっぺん	complete change	 MediaMissing 
+意図	いと	intention, aim, design	 MediaMissing 
+営む	いとなむ	to carry on (e.g., in ceremony), to run a business	 MediaMissing 
+挑む	いどむ	to challenge	 MediaMissing 
+稲光	いなびかり	(flash of) lightning	 MediaMissing 
+祈り	いのり	prayer, supplication	 MediaMissing 
+いびき	いびき	snoring	 MediaMissing 
+今更	いまさら	now, again	 MediaMissing 
+未だ	いまだ	yet, still	 MediaMissing 
+移民	いみん	emigrant, immigrant	 MediaMissing 
+嫌々	いやいや	reluctantly, by no means, unwillingly	 MediaMissing 
+卑しい	いやしい	greedy, vulgar, shabby	 MediaMissing 
+いやに	いやに	awfully, terribly	 MediaMissing 
+いやらしい	いやらしい	unpleasant, disgusting, indecent	 MediaMissing 
+意欲	いよく	will, desire, ambition	 MediaMissing 
+威力	いりょく	power, might, authority	 MediaMissing 
+衣類	いるい	clothes, clothing, garments	 MediaMissing 
+異論	いろん	different opinion, objection	 MediaMissing 
+印鑑	いんかん	stamp, seal	 MediaMissing 
+陰気	いんき	gloom, melancholy	 MediaMissing 
+隠居	いんきょ	retirement; retired person	 MediaMissing 
+インターチェンジ	インターチェンジ	interchange	 MediaMissing 
+インターナショナル	インターナショナル	international	 MediaMissing 
+インターフォン	インターフォン	entry phone, intercom	 MediaMissing 
+インテリ	インテリ	(abbr.) egghead, intelligentsia	 MediaMissing 
+インフォメーション	インフォメーション	information	 MediaMissing 
+インフレ	インフレ	(abbr.) inflation	 MediaMissing 
+受かる	うかる	to pass (examination)	 MediaMissing 
+受け入れ	うけいれ	receiving, acceptance	 MediaMissing 
+受け入れる	うけいれる	to accept, to receive	 MediaMissing 
+受け継ぐ	うけつぐ	to inherit, to succeed	 MediaMissing 
+受け付ける	うけつける	to be accepted, to receive (an application)	 MediaMissing 
+受け止める	うけとめる	to catch, to react to, to take	 MediaMissing 
+受身	うけみ	passive, passive voice	 MediaMissing 
+受持ち	うけもち	charge (of something), matter in one's charge	 MediaMissing 
+動き	うごき	movement, activity, trend	 MediaMissing 
+埋める	うずめる	to bury, to fill	 MediaMissing 
+嘘つき	うそつき	liar	 MediaMissing 
+うたた寝	うたたね	dozing, napping	 MediaMissing 
+打ち明ける	うちあける	to confess, to be open	 MediaMissing 
+打ち切る	うちきる	to stop, to abort, to discontinue, to close	 MediaMissing 
+打ち消し	うちけし	(gram) negation, denial, negative	 MediaMissing 
+打ち込む	うちこむ	to devote oneself to, to shoot into	 MediaMissing 
+団扇	うちわ	fan	 MediaMissing 
+内訳	うちわけ	the items, breakdown, classification	 MediaMissing 
+写し	うつし	copy, duplicate	 MediaMissing 
+訴え	うったえ	lawsuit, complaint	 MediaMissing 
+うっとうしい	うっとうしい	weary, annoying	 MediaMissing 
+うつむく	うつむく	to look downward, to stoop	 MediaMissing 
+空ろ	うつろ	blank, hollow, empty	 MediaMissing 
+器	うつわ	bowl, vessel, container	 MediaMissing 
+腕前	うでまえ	ability, skill, facility	 MediaMissing 
+雨天	うてん	rainy weather	 MediaMissing 
+促す	うながす	to urge, to suggest, to demand	 MediaMissing 
+うぬぼれ	うぬぼれ	pretension, conceit, hubris	 MediaMissing 
+生まれつき	うまれつき	by nature, by birth, native	 MediaMissing 
+埋め込む	うめこむ	to embed, implant	 MediaMissing 
+梅干し	うめぼし	dried plum	 MediaMissing 
+裏返し	うらがえし	inside out, reverse	 MediaMissing 
+売り出し	うりだし	(bargain) sale	 MediaMissing 
+売り出す	うりだす	to put on sale, to market	 MediaMissing 
+潤う	うるおう	to be moist; to profit by	 MediaMissing 
+浮気	うわき	affair, to cheat	 MediaMissing 
+上回る	うわまわる	to exceed	 MediaMissing 
+植わる	うわる	to be planted	 MediaMissing 
+運営	うんえい	management, administration, operation	 MediaMissing 
+うんざり	うんざり	tedious, boring, being fed up with	 MediaMissing 
+運送	うんそう	shipping, freight	 MediaMissing 
+運賃	うんちん	freight rates, shipping expenses, (passenger) fare	 MediaMissing  Intermediate_Japanese_Ln.10 Intermediate_Japanese
+云々	うんぬん	and so on, and so forth	 MediaMissing 
+運搬	うんぱん	transport, carriage	 MediaMissing 
+運命	うんめい	fate	 MediaMissing 
+運輸	うんゆ	transportation	 MediaMissing 
+運用	うんよう	making use of, application, practical use	 MediaMissing 
+エアメール	エアメール	air mail	 MediaMissing 
+～営	～えい	~ run	 MediaMissing 
+英字	えいじ	English letter (character)	 MediaMissing 
+映写	えいしゃ	projection	 MediaMissing 
+映像	えいぞう	reflection, image	 MediaMissing 
+英雄	えいゆう	hero, great man	 MediaMissing 
+液	えき	liquid, fluid	 MediaMissing 
+閲覧	えつらん	inspection, reference, browse	 MediaMissing 
+獲物	えもの	game, spoils, trophy	 MediaMissing 
+襟	えり	neck, collar	 MediaMissing 
+エレガント	エレガント	elegant	 MediaMissing 
+円滑	えんかつ	harmony, smoothness	 MediaMissing 
+縁側	えんがわ	veranda, porch, balcony, open corridor	 MediaMissing 
+沿岸	えんがん	coast, shore	 MediaMissing 
+婉曲	えんきょく	euphemistic, indirect, insinuating	 MediaMissing 
+演出	えんしゅつ	production (erg. play, direction)	 MediaMissing 
+エンジニア	エンジニア	engineer	 MediaMissing 
+演じる	えんじる	to perform, to play (a part), to act	 MediaMissing 
+演ずる	えんずる	to perform, to play (a part), to act	 MediaMissing 
+沿線	えんせん	along railway line	 MediaMissing 
+縁談	えんだん	marriage proposal	 MediaMissing 
+遠方	えんぽう	long way, distant place	 MediaMissing 
+円満	えんまん	harmony, peace, smoothness	 MediaMissing 
+追い込む	おいこむ	to herd, to corner, to drive	 MediaMissing 
+追い出す	おいだす	to expel, to drive out	 MediaMissing 
+於いて	おいて	at, in, on	 MediaMissing 
+老いる	おいる	to age, to grow old	 MediaMissing 
+応急	おうきゅう	emergency	 MediaMissing 
+黄金	おうごん	gold	 MediaMissing 
+往診	おうしん	doctor's visit, house call	 MediaMissing 
+応募	おうぼ	subscription, application	 MediaMissing 
+おおい (かん)	おおい (かん)	hey	 MediaMissing 
+大方	おおかた	almost all, majority	 MediaMissing 
+大柄	おおがら	large build, large pattern	 MediaMissing 
+おおげさ	おおげさ	grandiose, exaggerated	 MediaMissing 
+大筋	おおすじ	outline, summary	 MediaMissing 
+大空	おおぞら	heaven, the sky	 MediaMissing 
+オートマチック	オートマチック	automatic	 MediaMissing 
+大幅	おおはば	full width, large scale, drastic	  MediaMissing
+おおまかな	おおまかな	rough, approximate	 MediaMissing 
+大水	おおみず	flood	 MediaMissing 
+公	おおやけ	public	 MediaMissing 
+犯す	おかす	to perpetrate, to violate	 MediaMissing 
+侵す	おかす	to invade, to raid, to trespass	 MediaMissing 
+臆病	おくびょう	cowardice, timidity	 MediaMissing 
+遅らす	おくらす	to retard, to delay	 MediaMissing 
+厳か	おごそか	majestic, dignified	 MediaMissing 
+行い	おこない	conduct, behavior, action	 MediaMissing 
+おごる (ゆうしょくを～)	おごる (ゆうしょくを～)	to give (someone) a treat	 MediaMissing 
+収まる	おさまる	to settle into; to be obtained	 MediaMissing 
+納まる	おさまる	to settle into; to be obtained	 MediaMissing 
+治まる	おさまる	to be at peace, to calm down	 MediaMissing 
+お産	おさん	(giving) birth	 MediaMissing 
+押し切る	おしきる	to have one's own way	 MediaMissing 
+押し込む	おしこむ	to push into, to crowd into	 MediaMissing 
+惜しむ	おしむ	to be frugal, to value, to regret	 MediaMissing 
+押し寄せる	おしよせる	to push aside, to advance on	 MediaMissing 
+雄	おす	male (animal)	 MediaMissing 
+御世辞	おせじ	flattery, compliment	 MediaMissing 
+襲う	おそう	to attack	 MediaMissing 
+遅くとも	おそくとも	at the latest	 MediaMissing 
+恐れ	おそれ	fear, horror	 MediaMissing 
+恐れ入る	おそれいる	to be filled with awe, to feel small	 MediaMissing 
+おだてる	おだてる	to flatter	 MediaMissing 
+落ち込む	おちこむ	to get depressed	 Genki_Ln.16  MediaMissing Genki
+落ち着き	おちつき	calm, composure	 MediaMissing 
+落葉	おちば	fallen leaves	 MediaMissing 
+乙	おつ	2nd in rank	 MediaMissing 
+お使い	おつかい	errand	 MediaMissing 
+おっかない	おっかない	frightening, scary	 MediaMissing 
+お手上げ	おてあげ	given in, given up hope	 MediaMissing 
+おどおど	おどおど	coweringly, hesitantly	 MediaMissing 
+脅す	おどす	to threaten, to menace	 MediaMissing 
+訪れる	おとずれる	to visit	 MediaMissing 
+お供	おとも	attendant, companion	 MediaMissing 
+衰える	おとろえる	to become weak, to decline	 MediaMissing 
+同い年	おないどし	of the same age	 MediaMissing 
+自ずから	おのずから	naturally, as a matter of course	 MediaMissing 
+怯える	おびえる	to become frightened	 MediaMissing 
+おびただしい	おびただしい	abundantly, innumerably	 MediaMissing 
+脅かす	おびやかす	to threaten, to coerce	 MediaMissing 
+帯びる	おびる	to bear, to carry, to be entrusted	 MediaMissing 
+お袋	おふくろ	mother	 MediaMissing 
+覚え	おぼえ	memory, sense, experience	 MediaMissing 
+おまけ	おまけ	a discount; something additional	 MediaMissing 
+お宮	おみや	Shinto shrine	 MediaMissing 
+おむつ	おむつ	diaper, nappy	 MediaMissing 
+思い付き	おもいつき	plan, idea, suggestion	 MediaMissing 
+趣	おもむき	flavor, appearance, quaint	 MediaMissing 
+赴く	おもむく	to go, to proceed	 MediaMissing 
+重んじる	おもんじる	to respect, to honor, to esteem, to prize	 MediaMissing 
+重んずる	おもんずる	to honor, to respect, to value	 MediaMissing 
+親父	おやじ	one's father, old man, one's boss	 MediaMissing 
+及び	および	and, as well as	 MediaMissing 
+及ぶ	およぶ	to reach, to extend	 MediaMissing 
+折	おり	chance, occasion	 MediaMissing 
+檻	おり	cage, pen, jail cell	 MediaMissing 
+オリエンテーション	オリエンテーション	orientation	 MediaMissing 
+折り返す	おりかえす	to turn up, to fold back	 MediaMissing 
+織物	おりもの	textile, fabric	 MediaMissing 
+俺	おれ	I (ego) (boastful first-person pronoun)	 MediaMissing 
+愚か	おろか	foolish, stupid	 MediaMissing 
+おろそか	おろそか	neglect, negligence, carelessness	 MediaMissing 
+おんぶ	おんぶ	carrying on one's back (erg. Baby)	 MediaMissing 
+オンライン	オンライン	on-line	 MediaMissing 
+温和	おんわ	gentle, mild, moderate	 MediaMissing 
+我	が～	ego	 MediaMissing 
+カーペット	カーペット	carpet	 MediaMissing 
+～界	～かい	world, circle, kingdom	 MediaMissing 
+～街	～がい	town	 MediaMissing 
+改悪	かいあく	deterioration, changing for the worse	 MediaMissing 
+海運	かいうん	marine transportation	 MediaMissing 
+外貨	がいか	foreign money	 MediaMissing 
+改革	かいかく	reform, reformation, innovation	 MediaMissing 
+貝殻	かいがら	shell	 MediaMissing 
+外観	がいかん	appearance, exterior, facade	 MediaMissing 
+階級	かいきゅう	class, rank, grade	 MediaMissing 
+海峡	かいきょう	channel	 MediaMissing 
+会見	かいけん	interview, conference	 MediaMissing 
+介護	かいご	nursing	 MediaMissing 
+開催	かいさい	holding a meeting, open an exhibition	 MediaMissing 
+回収	かいしゅう	collection, recovery	 MediaMissing 
+改修	かいしゅう	repair, improvement	 MediaMissing 
+怪獣	かいじゅう	monster	 MediaMissing 
+解除	かいじょ	cancellation, release, cancel	 MediaMissing 
+外相	がいしょう	Foreign Minister	 MediaMissing 
+害する	がいする	to harm, to offend	 MediaMissing 
+概説	がいせつ	general statement, outline	 MediaMissing 
+回送	かいそう	forwarding	 MediaMissing 
+階層	かいそう	class, level, stratum, hierarchy	 MediaMissing 
+開拓	かいたく	cultivation, pioneer	 MediaMissing 
+会談	かいだん	conversation, interview	 MediaMissing 
+改定	かいてい	reform	 MediaMissing 
+改訂	かいてい	revision	 MediaMissing 
+ガイド	ガイド	guide	 MediaMissing 
+街道	かいどう	highway	 MediaMissing 
+該当	がいとう	corresponding, answering to, coming under	 MediaMissing 
+街頭	がいとう	in the street	 MediaMissing 
+ガイドブック	ガイドブック	guidebook	 MediaMissing 
+介入	かいにゅう	intervention	 MediaMissing 
+概念	がいねん	general idea, concept, notion	 MediaMissing 
+開発	かいはつ	development, exploitation	 MediaMissing 
+海抜	かいばつ	height above sea level	 MediaMissing 
+介抱	かいほう	nursing, looking after	 MediaMissing 
+解剖	かいぼう	dissection, autopsy	 MediaMissing 
+外来	がいらい	(abbr.) imported, outpatient clinic	 MediaMissing 
+回覧	かいらん	circulation	 MediaMissing 
+概略	がいりゃく	outline, summary, gist	 MediaMissing 
+海流	かいりゅう	ocean current	 MediaMissing 
+改良	かいりょう	improvement, reform	 MediaMissing 
+回路	かいろ	circuit (electric)	 MediaMissing 
+海路	かいろ	sea route	 MediaMissing 
+省みる	かえりみる	to reflect	 MediaMissing 
+顧みる	かえりみる	to look back, to turn around, to review	 MediaMissing 
+顔付き	かおつき	facial expression	 MediaMissing 
+課外	かがい	extracurricular	 MediaMissing 
+掲げる	かかげる	to hoist, to fly (a sail), to float (a flag)	 MediaMissing 
+かかと	かかと	shoe heel	 MediaMissing 
+書き取る	かきとる	to write down, to take dictation	 MediaMissing 
+掻き回す	かきまわす	to stir up, to churn, to disturb	 MediaMissing 
+かく (はじを)	かく (はじを)	to humiliate oneself	 MediaMissing 
+～画	～かく	~ strokes	 MediaMissing 
+学芸	がくげい	arts and sciences, liberal arts	 MediaMissing 
+格差	かくさ	difference, disparity	 MediaMissing 
+拡散	かくさん	scattering, diffusion	 MediaMissing 
+学士	がくし	university graduate	 MediaMissing 
+各種	かくしゅ	every kind, all sorts	 MediaMissing 
+隔週	かくしゅう	every other week	 MediaMissing 
+確信	かくしん	conviction, confidence	 MediaMissing 
+革新	かくしん	reform, innovation	 MediaMissing 
+学説	がくせつ	theory	 MediaMissing 
+確定	かくてい	fixed, decision	 MediaMissing 
+カクテル	カクテル	cocktail	 MediaMissing 
+獲得	かくとく	acquisition, possession	 MediaMissing 
+楽譜	がくふ	score (music, sheet music)	 MediaMissing 
+確保	かくほ	guarantee, insure, secure	 MediaMissing 
+革命	かくめい	revolution	 MediaMissing 
+確立	かくりつ	establishment	 MediaMissing 
+賭	かけ	betting, gambling, a gamble	 MediaMissing 
+掛～	かけ～	credit	 MediaMissing 
+～掛け	～かけ	rack, hanger	 MediaMissing 
+崖	がけ	cliff	 MediaMissing 
+駆け足	かけあし	running fast, double time	 MediaMissing 
+家計	かけい	household economy, family finances	 MediaMissing 
+駆けっこ	かけっこ	(foot) race	 MediaMissing 
+加工	かこう	manufacturing, processing, treatment	 MediaMissing 
+化合	かごう	chemical combination	 MediaMissing 
+かさばる	かさばる	to be bulky	 MediaMissing 
+かさむ	かさむ	to pile up, to increase	 MediaMissing 
+箇条書	かじょうがき	itemized form, itemization	 MediaMissing 
+頭	かしら	head, chief	 MediaMissing 
+微か	かすか	faint, dim, weak	 MediaMissing 
+霞む	かすむ	to grow hazy, to be misty	 MediaMissing 
+擦る	かする	to rub, to chafe	 MediaMissing 
+火星	かせい	Mars	 MediaMissing 
+化石	かせき	fossil, petrifaction, fossilization	 MediaMissing 
+河川	かせん	rivers	 MediaMissing 
+化繊	かせん	synthetic fibers	 MediaMissing 
+過疎	かそ	depopulation	 MediaMissing 
+片～	かた～	single ~	 MediaMissing 
+片言	かたこと	broken (in reference to speaking style, e.g., Japanese)	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+傾ける	かたむける	to incline, to tilt, to bend	 MediaMissing 
+固める	かためる	to harden, to freeze, to fortify	 MediaMissing 
+傍ら	かたわら	beside(s, while, nearby	 MediaMissing 
+花壇	かだん	flower bed	 MediaMissing 
+家畜	かちく	domestic animals, livestock, cattle	 MediaMissing 
+且つ	かつ	yet, and	 MediaMissing 
+がっくり	がっくり	heartbroken	 MediaMissing 
+合唱	がっしょう	chorus, singing in a chorus	 MediaMissing 
+がっしり	がっしり	firmly, solidly, tough	 MediaMissing 
+合致	がっち	agreement, concurrence, conforming to	 MediaMissing 
+がっちり	がっちり	solidly built, tightly	 MediaMissing 
+かつて	かつて	once, before, formerly	 MediaMissing 
+勝手	かって	kitchen; one's way, selfishness	 MediaMissing 
+カット	カット	cut, cutting	 MediaMissing 
+活発	かっぱつ	vigor, active	 MediaMissing 
+合併	がっぺい	combination, amalgamation, merger	 MediaMissing 
+カテゴリー	カテゴリー	category	 MediaMissing 
+叶う	かなう	to come true	 MediaMissing 
+叶える	かなえる	to grant (request, wish)	 MediaMissing 
+金槌	かなづち	(iron) hammer	 MediaMissing 
+かなわない	かなわない	be beyond one's power, be unable	 MediaMissing 
+加入	かにゅう	becoming a member, admission	 MediaMissing 
+予て	かねて	previously, already, lately	 MediaMissing 
+庇う	かばう	to protect someone, to&nbsp;&nbsp;cover up for someone	 MediaMissing 
+株式	かぶしき	stock	 MediaMissing 
+かぶれる	かぶれる	to react to; to be influenced by	 MediaMissing 
+花粉	かふん	pollen	 MediaMissing 
+貨幣	かへい	money, currency, coinage	 MediaMissing 
+構える	かまえる	to set up	 MediaMissing 
+過密	かみつ	crowded	 MediaMissing 
+噛み切る	かみきる	to bite off, to gnaw through	 MediaMissing 
+カムバック	カムバック	comeback	 MediaMissing 
+カメラマン	カメラマン	cameraman	 MediaMissing 
+粥	かゆ	rice porridge	 MediaMissing 
+体付き	からだつき	body build, figure	 MediaMissing 
+絡む	からむ	to entangle, to entwine	 MediaMissing 
+かりに	かりに	temporarily; if, for argument's sake	 MediaMissing 
+カルテ	カルテ	clinical records (GER: Karte)	 MediaMissing 
+ガレージ	ガレージ	garage (at house)	 MediaMissing 
+過労	かろう	overwork, strain	 MediaMissing 
+かろうじて	かろうじて	barely, narrowly	 MediaMissing 
+交す	かわす	to exchange	 MediaMissing 
+代る代る	かわるがわる	alternately	 MediaMissing 
+簡易	かんい	simplicity, easiness, quasi-	 MediaMissing 
+灌漑	かんがい	irrigation	 MediaMissing 
+眼科	がんか	ophthalmology	 MediaMissing 
+眼球	がんきゅう	eyeball	 MediaMissing 
+玩具	がんぐ	toy	 MediaMissing 
+簡潔	かんけつ	brevity, concise, simple	 MediaMissing 
+還元	かんげん	resolution, reduction, return	 MediaMissing 
+看護	かんご	nursing	 MediaMissing 
+漢語	かんご	Chinese word, Sino-Japanese word	 MediaMissing 
+頑固	がんこ	stubbornness, obstinacy	 MediaMissing 
+勧告	かんこく	advice, counsel	 MediaMissing 
+換算	かんさん	conversion, change, exchange	 MediaMissing 
+監視	かんし	observation, guarding, surveillance	 MediaMissing 
+慣習	かんしゅう	usual (historical) custom	 MediaMissing 
+観衆	かんしゅう	spectators, audience	 MediaMissing 
+願書	がんしょ	application form	 MediaMissing 
+干渉	かんしょう	interference, intervention	 MediaMissing 
+頑丈	がんじょう	solid, firm, strong	 MediaMissing 
+感触	かんしょく	sense of touch, feeling, sensation	 MediaMissing 
+肝心	かんじん	essential, fundamental, crucial	 MediaMissing 
+肝腎	かんじん	essential, fundamental, crucial	 MediaMissing 
+関税	かんぜい	customs, duty, tariff	 MediaMissing 
+岩石	がんせき	rock	 MediaMissing 
+感染	かんせん	infection, contagion	 MediaMissing 
+幹線	かんせん	main line, trunk line	 MediaMissing 
+簡素	かんそ	simplicity, plain	 MediaMissing 
+観点	かんてん	point of view	 MediaMissing 
+感度	かんど	sensitivity, severity (quake)	 MediaMissing 
+カンニング	カンニング	cunning, cheat	 MediaMissing 
+元年	がんねん	first year (of a specific reign)	 MediaMissing 
+幹部	かんぶ	management, executive	 MediaMissing 
+完ぺき	かんぺき	perfection, completeness, flawless	 MediaMissing 
+勘弁	かんべん	pardon, forgiveness, forbearance	 MediaMissing 
+感無量	かんむりょう	deep feeling, filled with emotion	 MediaMissing 
+勧誘	かんゆう	invitation, canvassing, inducement	 Intermediate_Japanese_Ln.5  MediaMissing Intermediate_Japanese
+関与	かんよ	participation, taking part in	 MediaMissing 
+寛容	かんよう	forbearance, tolerance, generosity, involvement	 MediaMissing 
+元来	がんらい	originally, naturally	 MediaMissing 
+観覧	かんらん	viewing	 MediaMissing 
+慣例	かんれい	custom, precedent, of convention	 MediaMissing 
+還暦	かんれき	60th birthday	 MediaMissing 
+貫禄	かんろく	presence, dignity	 MediaMissing 
+緩和	かんわ	relief, mitigation	 MediaMissing 
+議案	ぎあん	legislative bill	 MediaMissing 
+危害	きがい	injury, harm, danger	 MediaMissing 
+企画	きかく	planning, project	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+規格	きかく	standard, norm	 MediaMissing 
+着飾る	きかざる	to dress up	 MediaMissing 
+気兼ね	きがね	hesitance, diffidence, feeling constraint	 MediaMissing 
+気軽	きがる	cheerful, buoyant, lighthearted	 MediaMissing 
+危機	きき	crisis	 MediaMissing 
+聞き取り	ききとり	listening comprehension	 MediaMissing 
+効き目	ききめ	effect, virtue, efficacy	 MediaMissing 
+帰京	ききょう	returning to Tokyo	 MediaMissing 
+戯曲	ぎきょく	play, drama	 MediaMissing 
+基金	ききん	fund, foundation	 MediaMissing 
+喜劇	きげき	comedy, funny show	 MediaMissing 
+議決	ぎけつ	resolution, decision, vote	 MediaMissing 
+棄権	きけん	abstain from voting, renunciation of a right	 MediaMissing 
+既婚	きこん	married	 MediaMissing 
+気障	きざ	affectation, conceit, snobbery	 MediaMissing 
+記載	きさい	mention, entry	 MediaMissing 
+兆	きざし	sign, omen, indication	 MediaMissing 
+気質	きしつ	character, trait, temperament	 MediaMissing 
+期日	きじつ	fixed date, settlement date	 MediaMissing 
+きしむ	きしむ	to jar, to creak, to grate	 MediaMissing 
+議事堂	ぎじどう	Diet building	 MediaMissing 
+記述	きじゅつ	describing, descriptor	 MediaMissing 
+気象	きしょう	weather, climate	 MediaMissing 
+傷付く	きずつく	to be hurt, to be wounded, to get injured	 MediaMissing 
+傷付ける	きずつける	to wound, to hurt someone's feelings	 MediaMissing 
+犠牲	ぎせい	sacrifice	 MediaMissing 
+汽船	きせん	steamship	 MediaMissing 
+寄贈	きぞう	donation, presentation	 MediaMissing 
+偽造	ぎぞう	forgery, fabrication, counterfeiting	 MediaMissing 
+貴族	きぞく	noble, aristocrat	 MediaMissing 
+議題	ぎだい	topic of discussion, agenda	 MediaMissing 
+鍛える	きたえる	to forge, to train, to discipline	 MediaMissing 
+気立て	きだて	good-natured, kind-hearted	 MediaMissing 
+来る	きたる	to come, to approach,	 MediaMissing 
+きちっと	きちっと	exactly, perfectly	 MediaMissing 
+几帳面	きちょうめん	methodical, punctual, steady	 MediaMissing 
+きっかり	きっかり	exactly, precisely	 MediaMissing 
+きっちり	きっちり	precisely, tightly	 MediaMissing 
+きっぱり	きっぱり	clearly, plainly, distinctly	 MediaMissing 
+規定	きてい	regulation, provisions	 MediaMissing 
+起点	きてん	starting point	 MediaMissing 
+軌道	きどう	orbit; track	 MediaMissing 
+技能	ぎのう	technical skill, ability, capacity	 MediaMissing 
+規範	きはん	model, standard, example	 MediaMissing 
+気品	きひん	grace, elegance	 MediaMissing 
+気風	きふう	character, traits, ethos	 MediaMissing 
+起伏	きふく	undulation	 MediaMissing 
+規模	きぼ	scale, scope, plan, structure	 MediaMissing 
+気まぐれ	きまぐれ	whim, caprice, uneven temper	 MediaMissing 
+生真面目	きまじめ	serious, sincerity	 MediaMissing 
+期末	きまつ	(end of the season or term)	 MediaMissing 
+きまりわるい	きまりわるい	feeling awkward, being ashamed	 MediaMissing 
+記名	きめい	signature, register	 MediaMissing 
+規約	きやく	agreement, rules, code	 MediaMissing 
+脚色	きゃくしょく	dramatization (e.g., film	 MediaMissing 
+逆転	ぎゃくてん	(sudden) change, reversal, turn-around	 MediaMissing 
+脚本	きゃくほん	scenario	 MediaMissing 
+華奢	きゃしゃ	delicate, slender	 MediaMissing 
+客観	きゃっかん	objective	 MediaMissing 
+キャッチ	キャッチ	catch	 MediaMissing 
+キャリア	キャリア	career, career government employee	 MediaMissing 
+救援	きゅうえん	relief, rescue, reinforcement	 MediaMissing 
+休学	きゅうがく	temporary absence from school, suspension	 MediaMissing 
+究極	きゅうきょく	ultimate, final, eventual	 MediaMissing 
+窮屈	きゅうくつ	narrow, tight, formal	 MediaMissing 
+球根	きゅうこん	(plant) bulb	 MediaMissing 
+救済	きゅうさい	relief, aid, rescue	 MediaMissing 
+給仕	きゅうじ	waiter	 MediaMissing 
+給食	きゅうしょく	school lunch, providing a meal	 MediaMissing 
+休戦	きゅうせん	truce, armistice	 MediaMissing 
+宮殿	きゅうでん	palace	 MediaMissing 
+旧知	きゅうち	old friend, old friendship	 MediaMissing 
+窮乏	きゅうぼう	poverty	 MediaMissing 
+寄与	きよ	contribution, service	 MediaMissing 
+強	きょう	strong	 MediaMissing 
+～狂	～きょう	maniac, fan, freak	 MediaMissing 
+驚異	きょうい	wonder, miracle	 MediaMissing 
+教科	きょうか	subject, curriculum	 MediaMissing 
+協会	きょうかい	association, society, organization	 MediaMissing 
+共学	きょうがく	coeducation	 MediaMissing 
+共感	きょうかん	sympathy, response	 MediaMissing 
+境遇	きょうぐう	environment, circumstances	 MediaMissing 
+教訓	きょうくん	lesson, precept, moral instruction	 MediaMissing 
+強行	きょうこう	forcing, enforcement	 MediaMissing 
+強硬	きょうこう	firm, vigorous, stubborn	 MediaMissing 
+教材	きょうざい	teaching materials	 MediaMissing 
+凶作	きょうさく	bad harvest, poor crop	 MediaMissing 
+業者	ぎょうしゃ	trader, merchant	 MediaMissing 
+教習	きょうしゅう	training, instruction	 MediaMissing 
+郷愁	きょうしゅう	nostalgia, homesickness	 MediaMissing 
+教職	きょうしょく	teaching profession	 MediaMissing 
+興じる	きょうじる	to amuse oneself, to make merry	 MediaMissing 
+強制	きょうせい	obligation, compulsion, enforcement	 MediaMissing 
+行政	ぎょうせい	administration	 MediaMissing 
+業績	ぎょうせき	achievement, work, contribution	 MediaMissing 
+共存	きょうぞん	coexistence	 MediaMissing 
+協定	きょうてい	arrangement, pact, agreement	 MediaMissing 
+郷土	きょうど	homeland	 MediaMissing 
+脅迫	きょうはく	threat, coercion	 MediaMissing 
+業務	ぎょうむ	business, duties, work	 MediaMissing 
+共鳴	きょうめい	resonance, sympathy	 MediaMissing 
+郷里	きょうり	birth-place, home town	 MediaMissing 
+強烈	きょうれつ	strong, intense, severe	 MediaMissing 
+共和	きょうわ	republicanism, cooperation	 MediaMissing 
+局限	きょくげん	limit, localize	 MediaMissing 
+極端	きょくたん	extreme, extremity	 MediaMissing 
+居住	きょじゅう	residence	 MediaMissing 
+拒絶	きょぜつ	refusal, rejection	 MediaMissing 
+漁船	ぎょせん	fishing boat	 MediaMissing 
+漁村	ぎょそん	fishing village	 MediaMissing 
+拒否	きょひ	denial, rejection, refusal	 MediaMissing 
+許容	きょよう	permission, pardon	 MediaMissing 
+清らか	きよらか	clean, pure, chaste	 MediaMissing 
+きらびやか	きらびやか	gorgeous, gaudy, dazzling	 MediaMissing 
+～きり	～きり	only	 MediaMissing 
+義理	ぎり	debt of gratitude, obligation	 MediaMissing 
+切替	きりかえ	exchange, conversion, switchover	 MediaMissing 
+気流	きりゅう	atmospheric current	 MediaMissing 
+切れ目	きれめ	break, pause, gap	 MediaMissing 
+疑惑	ぎわく	doubt, misgivings, suspicion	 MediaMissing 
+極めて	きわめて	exceedingly, extremely (written expression)	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+近眼	きんがん	nearsightedness	 MediaMissing 
+緊急	きんきゅう	urgent, pressing, emergency	 MediaMissing 
+近郊	きんこう	suburbs, outskirts	 MediaMissing 
+均衡	きんこう	equilibrium, balance	 MediaMissing 
+禁じる	きんじる	to prohibit	 MediaMissing 
+勤勉	きんべん	industry, diligence	 MediaMissing 
+吟味	ぎんみ	examination, careful investigation	 MediaMissing 
+勤務	きんむ	service, duty, work	 MediaMissing 
+禁物	きんもつ	taboo, forbidden thing	 MediaMissing 
+勤労	きんろう	labor, exertion, diligent service	 MediaMissing 
+クイズ	クイズ	quiz	 MediaMissing 
+食い違う	くいちがう	to cross each other, to differ	 MediaMissing 
+空間	くうかん	space, room, airspace	 MediaMissing 
+空腹	くうふく	hunger	 MediaMissing 
+区画	くかく	division, section, area	 MediaMissing 
+区間	くかん	section	 MediaMissing 
+茎	くき	stalk	 MediaMissing 
+区切り	くぎり	an end, a stop, punctuation	 MediaMissing 
+くぐる	くぐる	to pass through; to go around	 MediaMissing 
+くじ (～をひく)	くじ (～をひく)	lottery, lot	 MediaMissing 
+くじびき	くじびき	lottery, drawn lot	 MediaMissing 
+くすぐったい	くすぐったい	ticklish	 MediaMissing 
+愚痴	ぐち	idle complaint, grumble	 MediaMissing 
+口吟む	くちずさむ	to humble	 MediaMissing 
+嘴	くちばし	beak, bill	 MediaMissing 
+朽ちる	くちる	to rot	 MediaMissing 
+覆す	くつがえす	to overturn, to upset, to overthrow	 MediaMissing 
+くっきり	くっきり	distinctly, clearly, boldly	 MediaMissing 
+屈折	くっせつ	bending, indentation, refraction	 MediaMissing 
+ぐっと	ぐっと	firmly, fast, more	 MediaMissing 
+首飾り	くびかざり	necklace	 MediaMissing 
+首輪	くびわ	necklace, choker	 MediaMissing 
+組み込む	くみこむ	to insert, to include, to cut in (printing)	 MediaMissing 
+組み合わせる	くみあわせる	to join together, to combine, to join up	 MediaMissing 
+蔵	くら	warehouse, cellar	 MediaMissing 
+グレー	グレー	grey, gray	 MediaMissing 
+クレーン	クレーン	crane	 MediaMissing 
+玄人	くろうと	expert, professional	 MediaMissing 
+黒字	くろじ	balance (figure) in the black	 MediaMissing 
+軍艦	ぐんかん	warship, battleship	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+軍事	ぐんじ	military affairs	 MediaMissing 
+君主	くんしゅ	ruler, monarch	 MediaMissing 
+群集	ぐんしゅう	(social) group, crowd, mob	 MediaMissing 
+群衆	ぐんしゅう	(social) group, crowd, mob	 MediaMissing 
+軍備	ぐんび	armaments, military preparations	 MediaMissing 
+軍服	ぐんぷく	military or naval uniform	 MediaMissing 
+芸	げい	art, accomplishment, performance	 MediaMissing 
+経過	けいか	passage, progress	 MediaMissing 
+軽快	けいかい	lively, casual, light	 MediaMissing 
+警戒	けいかい	warning, admonition, vigilance	 MediaMissing 
+敬具	けいぐ	Sincerely (used at the end of letter)	Intermediate_Japanese_Ln.4   MediaMissing Intermediate_Japanese
+軽減	けいげん	reduction, lessening	 MediaMissing 
+掲載	けいさい	appearance (e.g., article in paper)	 MediaMissing 
+傾斜	けいしゃ	inclination, slope, dip	 MediaMissing 
+形成	けいせい	formation	 MediaMissing 
+形勢	けいせい	condition, situation, prospects	 MediaMissing 
+軽率	けいそつ	thoughtless, careless, hasty	 MediaMissing 
+刑罰	けいばつ	judgment, penalty, punishment	 MediaMissing 
+経費	けいひ	expenses, cost, outlay	 MediaMissing 
+警部	けいぶ	police inspector	 MediaMissing 
+軽蔑	けいべつ	scorn, disdain	 MediaMissing 
+経歴	けいれき	personal history, career	 MediaMissing 
+経路	けいろ	course, route, channel	 MediaMissing 
+けがらわしい	けがらわしい	filthy, unfair	 MediaMissing 
+劇団	げきだん	troupe, theatrical company	 MediaMissing 
+激励	げきれい	encouragement	 MediaMissing 
+ゲスト	ゲスト	guest	 MediaMissing 
+獣	けだもの	beast, brute	 MediaMissing 
+決	けつ	decision, vote	 MediaMissing 
+決意	けつい	decision, determination	 MediaMissing 
+結核	けっかく	tuberculosis	 MediaMissing 
+決議	けつぎ	resolution, vote, decision	 MediaMissing 
+結合	けつごう	combination, union	 MediaMissing 
+決算	けっさん	balance sheet, settlement of accounts	 MediaMissing 
+月謝	げっしゃ	monthly tuition fee	 MediaMissing 
+決勝	けっしょう	finals (in sports)	 MediaMissing 
+結晶	けっしょう	crystal, crystallization	 MediaMissing 
+結成	けっせい	formation	 MediaMissing 
+結束	けっそく	union, unity	 MediaMissing 
+げっそり	げっそり	being disheartened, losing weight	 MediaMissing 
+決断	けつだん	decision, determination	 MediaMissing 
+月賦	げっぷ	monthly installment	 MediaMissing 
+欠乏	けつぼう	shortage	 MediaMissing 
+蹴飛ばす	けとばす	to kick away, to kick (someone)	 MediaMissing 
+けなす	けなす	to speak ill of	 MediaMissing 
+煙たい	けむたい	smoky, feeling awkward	 MediaMissing 
+煙る	けむる	to smoke (e.g., fire)	 MediaMissing 
+獣	けもの	beast, brute	 MediaMissing 
+家来	けらい	retainer, retinue, servant	 MediaMissing 
+下痢	げり	diarrhea	 MediaMissing  Intermediate_Japanese_Ln.12 Intermediate_Japanese
+権威	けんい	authority, power, influence	 MediaMissing 
+兼業	けんぎょう	holding two jobs at the same time	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+原形	げんけい	original form, base form	 MediaMissing 
+原型	げんけい	prototype, model, archetypal	 MediaMissing 
+権限	けんげん	power, authority, jurisdiction	 MediaMissing 
+現行	げんこう	present, current, in operation	 MediaMissing 
+健在	けんざい	in good health, well	 MediaMissing 
+原作	げんさく	original work	 MediaMissing 
+検事	けんじ	public prosecutor	 MediaMissing 
+原子	げんし	atom	 MediaMissing 
+元首	げんしゅ	ruler, sovereign	 MediaMissing 
+原書	げんしょ	original document	 MediaMissing 
+懸賞	けんしょう	offering prizes, winning, reward	 MediaMissing 
+健全	けんぜん	health, soundness, wholesome	 MediaMissing 
+元素	げんそ	element	 MediaMissing 
+現像	げんぞう	developing (film)	 MediaMissing 
+原則	げんそく	principle, general rule	 MediaMissing 
+見地	けんち	point of view	 MediaMissing 
+現地	げんち	actual place, local	 MediaMissing 
+限定	げんてい	limit, restriction	 MediaMissing 
+原点	げんてん	origin (coordinates, starting point)	 MediaMissing 
+原典	げんてん	original, source	 MediaMissing 
+原爆	げんばく	atomic bomb	 MediaMissing 
+原文	げんぶん	the text, original	 MediaMissing 
+厳密	げんみつ	strict, close	 MediaMissing 
+賢明	けんめい	wisdom, intelligence, prudence	 MediaMissing 
+倹約	けんやく	thrift, economy, frugality	 MediaMissing 
+原油	げんゆ	crude oil	 MediaMissing 
+兼用	けんよう	multi-use, combined use	 MediaMissing 
+権力	けんりょく	(political) power, authority, influence	 MediaMissing 
+言論	げんろん	discussion, speech	 MediaMissing 
+故～	こ～	deceased, late	 MediaMissing 
+語彙	ごい	vocabulary, glossary	 MediaMissing 
+恋する	こいする	to fall in love with, to love	 MediaMissing 
+甲	こう	1st in rank; shell	 MediaMissing 
+～光	～こう	light	 MediaMissing 
+好意	こうい	good will, favor, courtesy	 MediaMissing 
+行為	こうい	act, deed, conduct	 MediaMissing 
+合意	ごうい	agreement, consent, mutual understanding	 MediaMissing 
+工学	こうがく	engineering	 MediaMissing 
+抗議	こうぎ	protest, objection	 MediaMissing 
+合議	ごうぎ	consultation, conference	 MediaMissing 
+皇居	こうきょ	Imperial Palace	 MediaMissing 
+好況	こうきょう	prosperous conditions, healthy economy	 MediaMissing 
+鉱業	こうぎょう	mining industry	 MediaMissing 
+興業	こうぎょう	starting a business; industry	 MediaMissing 
+高原	こうげん	tableland, plateau	 MediaMissing 
+交互	こうご	mutual, reciprocal, alternate	 MediaMissing 
+煌々と	こうこうと	brightly	 MediaMissing 
+考古学	こうこがく	archeology	 MediaMissing 
+工作	こうさく	handicraft, maneuvering	 MediaMissing 
+耕作	こうさく	cultivation, farming	 MediaMissing 
+鉱山	こうざん	mine	 MediaMissing 
+講習	こうしゅう	short course, training	 MediaMissing 
+口述	こうじゅつ	verbal statement	 MediaMissing 
+控除	こうじょ	subsidy, deduction	 MediaMissing 
+交渉	こうしょう	negotiation	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+高尚	こうしょう	high, noble, refined	 MediaMissing 
+向上	こうじょう	rise, improvement, progress	 MediaMissing 
+行進	こうしん	march, parade	 MediaMissing 
+香辛料	こうしんりょう	spices	 MediaMissing 
+降水	こうすい	rainfall, precipitation	 MediaMissing 
+洪水	こうずい	flood	 MediaMissing 
+合成	ごうせい	synthetic, mixed	 MediaMissing 
+公然	こうぜん	openly	 MediaMissing 
+抗争	こうそう	dispute, resistance	 MediaMissing 
+構想	こうそう	plan, plot, idea, conception	 MediaMissing 
+後退	こうたい	retreat, backspace	 MediaMissing 
+光沢	こうたく	luster, glossy finish (of photographs)	 MediaMissing 
+公団	こうだん	public corporation	 MediaMissing 
+好調	こうちょう	satisfactory, in good shape	 MediaMissing 
+口頭	こうとう	oral	 MediaMissing 
+講読	こうどく	reading	 MediaMissing 
+購読	こうどく	subscription	 MediaMissing 
+購入	こうにゅう	purchase, buy	 MediaMissing 
+公認	こうにん	official recognition, authorization	 MediaMissing 
+光熱費	こうねつひ	cost of fuel and light	 MediaMissing 
+購買	こうばい	purchase, buy	 MediaMissing 
+好評	こうひょう	popularity, favorable reputation	 MediaMissing 
+交付	こうふ	delivering, furnishing (with copies)	 MediaMissing 
+公募	こうぼ	public appeal, public contribution	 MediaMissing 
+巧妙	こうみょう	ingenious, skillful, clever	 MediaMissing 
+公用	こうよう	government business, public use, public expense	 MediaMissing 
+小売	こうり	retail	 MediaMissing 
+効率	こうりつ	efficiency	 MediaMissing 
+公立	こうりつ	public institution	 MediaMissing 
+護衛	ごえい	guard, convoy, escort	 MediaMissing 
+コーナー	コーナー	corner	 MediaMissing 
+小柄	こがら	small, diminutive	 MediaMissing 
+小切手	こぎって	cheque, check	 MediaMissing 
+国産	こくさん	domestic products	 MediaMissing 
+国定	こくてい	state-sponsored, national	 MediaMissing 
+告白	こくはく	confession, acknowledgment	 MediaMissing 
+国防	こくぼう	national defense	 MediaMissing 
+国有	こくゆう	national ownership	 MediaMissing 
+極楽	ごくらく	paradise	 MediaMissing 
+国連	こくれん	U.N., United Nations	 MediaMissing 
+焦げ茶	こげちゃ	dark brown	 MediaMissing 
+語源	ごげん	word root, word derivation, etymology	 MediaMissing 
+心地	ここち	feeling, sensation, mood	 MediaMissing 
+心得	こころえ	knowledge, information	 MediaMissing 
+心掛け	こころがけ	readiness, intention, aim	 MediaMissing 
+心掛ける	こころがける	to bear in mind, to aim to do	 MediaMissing 
+志	こころざし	will, intention, motive	 MediaMissing 
+志す	こころざす	to plan, to intend, to aspire to	 MediaMissing 
+心強い	こころづよい	heartening, reassuring	 MediaMissing 
+心細い	こころぼそい	helpless, hopeless, discouraging	 MediaMissing 
+試み	こころみ	trial, experiment	 MediaMissing 
+試みる	こころみる	to try, to test	 MediaMissing 
+快い	こころよい	pleasant, agreeable	 MediaMissing 
+誤差	ごさ	error	 MediaMissing 
+ございます (かん)	ございます (かん)	to be (polite, to exist)	 MediaMissing 
+孤児	こじ	orphan	 MediaMissing 
+こじれる	こじれる	to get complicated, to grow worse	 MediaMissing 
+こす (みずを～)	こす (みずを～)	to strain, to filter	 MediaMissing 
+梢	こずえ	treetop	 MediaMissing 
+個性	こせい	individuality, personality, idiosyncrasy	 MediaMissing 
+戸籍	こせき	census, family register	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+古代	こだい	ancient times	 MediaMissing 
+こたつ	こたつ	table with heater, (originally) charcoal brazier in a floor well	 MediaMissing 
+こだわる	こだわる	to fuss over, to be particular about	 MediaMissing 
+誇張	こちょう	exaggeration	 MediaMissing 
+こつ (をつかむ)	こつ (をつかむ)	secret, trick, hang	 MediaMissing 
+滑稽	こっけい	funny, humorous, comical	 MediaMissing 
+国交	こっこう	diplomatic relations	 MediaMissing 
+骨董品	こっとうひん	curio	 MediaMissing 
+固定	こてい	fixation, fixing (e.g., salary, capital)	 MediaMissing 
+事柄	ことがら	matter, thing, affair, circumstance	 MediaMissing 
+孤独	こどく	isolation, loneliness, solitude	 MediaMissing 
+ことごとく	ことごとく	altogether, entirely	 MediaMissing 
+言付け	ことづけ	to leave a message	 MediaMissing 
+殊に	ことに	especially, above all	 MediaMissing 
+粉々	こなごな	in very small pieces	 MediaMissing 
+好ましい	このましい	nice, likable, desirable	 MediaMissing 
+碁盤	ごばん	Go board	 MediaMissing 
+個別	こべつ	particular case	 MediaMissing 
+ごまかす	ごまかす	to deceive, to falsify, to misrepresent	 MediaMissing 
+細やか	こまやか	meager, modest	 MediaMissing 
+コマーシャル	コマーシャル	a commercial	 MediaMissing 
+込める	こめる	to include, to put into	 MediaMissing 
+コメント	コメント	comment	 MediaMissing 
+籠もる	こもる	to seclude oneself, to be confined in	 MediaMissing 
+固有	こゆう	characteristic, tradition, peculiar	 MediaMissing 
+暦	こよみ	calendar, almanac	 MediaMissing 
+凝らす	こらす	to concentrate, to devote, to peer into	 MediaMissing 
+ごらんなさい (かん)	ごらんなさい (かん)	look, (please) try to do	 MediaMissing 
+孤立	こりつ	isolation, helplessness	 MediaMissing 
+懲りる	こりる	to learn by experience, to be disgusted with	 MediaMissing 
+凝る	こる	to stiffen, to harden	 MediaMissing 
+根気	こんき	patience; perseverance, energy	 MediaMissing 
+根拠	こんきょ	basis, foundation	 MediaMissing 
+混血	こんけつ	mixed race, mixed parentage	 MediaMissing 
+コンタクト (レンズ)	コンタクト (レンズ)	contact; contact lens	 MediaMissing 
+昆虫	こんちゅう	insect, bug	 MediaMissing 
+根底	こんてい	root, basis, foundation	 MediaMissing 
+混同	こんどう	confusion, mixing, merger	 MediaMissing 
+コントラスト	コントラスト	contrast	 MediaMissing 
+コントロール	コントロール	control	 MediaMissing 
+コンパス	コンパス	compass	 MediaMissing 
+根本	こんぽん	foundation, root, base	 MediaMissing 
+財	ざい	fortune, riches	 MediaMissing 
+再会	さいかい	meeting again, reunion	 MediaMissing 
+災害	さいがい	calamity, disaster, misfortune	 MediaMissing 
+細菌	さいきん	bacillus, bacterium, germ	 MediaMissing 
+細工	さいく	work, craftsmanship, trick	 MediaMissing 
+採掘	さいくつ	mining	 MediaMissing 
+サイクル	サイクル	cycle	 MediaMissing 
+採決	さいけつ	vote, roll call	 MediaMissing 
+再建	さいけん	(temple or shrine) rebuilding	 MediaMissing 
+再現	さいげん	reproduction, return, revival	 MediaMissing 
+財源	ざいげん	source of funds, resources, finances	 MediaMissing 
+在庫	ざいこ	stockpile, stock	 MediaMissing 
+採算	さいさん	profit	 MediaMissing 
+サイズ	サイズ	size	 MediaMissing 
+再生	さいせい	playback, regeneration, resuscitation	 MediaMissing 
+財政	ざいせい	economy, financial affairs	 MediaMissing 
+最善	さいぜん	the very best	 MediaMissing 
+採択	さいたく	adoption, selection, choice	 MediaMissing 
+栽培	さいばい	cultivation	 MediaMissing 
+再発	さいはつ	return, relapse, reoccurrence	 MediaMissing 
+細胞	さいぼう	cell	 MediaMissing 
+採用	さいよう	use, adopt	 MediaMissing 
+遮る	さえぎる	to interrupt, to intercept, to obstruct	 MediaMissing 
+さえずる	さえずる	to sing, to chirp, to twitter	 MediaMissing 
+冴える	さえる	to be clear, to be bright, to be skillful	 MediaMissing 
+竿	さお	rod, pole (e.g., for drying laundry)	 MediaMissing 
+栄える	さかえる	to flourish, to prosper, to thrive	 MediaMissing 
+差額	さがく	balance, difference, margin	 MediaMissing 
+杯	さかずき	wine cup	 MediaMissing 
+逆立ち	さかだち	handstand, headstand	 MediaMissing 
+さきに (いぜん)	さきに (いぜん)	before, earlier than, previously	 MediaMissing 
+詐欺	さぎ	fraud, swindle	 MediaMissing 
+削減	さくげん	cut, reduction	 MediaMissing 
+錯誤	さくご	mistake	 MediaMissing 
+作戦	さくせん	military operations, tactics, strategy	 MediaMissing 
+叫び	さけび	shout, scream, outcry	 MediaMissing 
+捧げる	ささげる	to lift up, to give, to offer	 MediaMissing 
+差し掛かる	さしかかる	to come near to, to approach	 MediaMissing 
+指図	さしず	instruction, mandate	 MediaMissing 
+差し出す	さしだす	to present, to submit, to hold out	 MediaMissing 
+差し支える	さしつかえる	to interfere, to hinder	 MediaMissing 
+授ける	さずける	to grant, to award, to teach	 MediaMissing 
+摩する	さする	to rub, to stroke	 MediaMissing 
+さぞ (さぞや。さぞかし)	さぞ (さぞや。さぞかし)	I am sure, certainly, no doubt	 MediaMissing 
+定まる	さだまる	to become settled, to be fixed	 MediaMissing 
+定める	さだめる	to decide, to determine	 MediaMissing 
+座談会	ざだんかい	symposium, round-table discussion	 MediaMissing 
+雑	ざつ	rough, crude	 MediaMissing 
+雑貨	ざっか	miscellaneous goods, general goods	 MediaMissing 
+殺人	さつじん	murder	 MediaMissing 
+察する	さっする	to guess, to sense, to judge	 MediaMissing 
+雑談	ざつだん	chatting, idle talk	 MediaMissing 
+さっと	さっと	suddenly, smoothly	 MediaMissing 
+さっぱりする	さっぱりする	to refresh	 MediaMissing 
+悟る	さとる	to attain enlightenment, to understand	 MediaMissing 
+最中	さなか	in the middle of, midst	 MediaMissing 
+座標	ざひょう	coordinates	 MediaMissing 
+さほど	さほど	not so, not that much	 MediaMissing 
+サボる	サボる	to cut (skip) classes; to loaf on the job; to idle away one's time	MediaMissing  Genki_Ln.11 Intermediate_Japanese  Intermediate_Japanese_Ln.13 Genki
+様	さま	state; way (a person does something); Mr. or Mrs.	 MediaMissing  Intermediate_Japanese Intermediate_Japanese_Ln.11
+寒気	さむけ	chill, shiver, cold	 MediaMissing 
+侍	さむらい	samurai	 MediaMissing  Intermediate_Japanese_Ln.7 Intermediate_Japanese
+さも	さも	with gusto, with satisfaction	 MediaMissing 
+作用	さよう	operation, effect, function	 MediaMissing 
+さらう (こどもを～)	さらう (こどもを～)	to kidnap	 MediaMissing 
+障る	さわる	to hinder, to interfere with, to affect	 MediaMissing 
+酸	さん	acid	 MediaMissing 
+山岳	さんがく	mountains	 MediaMissing 
+参議院	さんぎいん	House of Councilors	 MediaMissing 
+産休	さんきゅう	maternity leave	 MediaMissing 
+サンキュー	サンキュー	thank you	 MediaMissing 
+残金	ざんきん	remaining money	 MediaMissing 
+産後	さんご	postpartum, after childbirth	 MediaMissing 
+残酷	ざんこく	cruelty, harshness	 MediaMissing 
+産出	さんしゅつ	yield, produce	 MediaMissing 
+参照	さんしょう	reference, consultation, consultation	 MediaMissing 
+参上	さんじょう	calling on, visiting	 MediaMissing 
+残高	ざんだか	(bank) balance, remainder	 MediaMissing 
+サンタクロース	サンタクロース	Santa Claus	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+桟橋	さんばし	wharf, jetty, pier	 MediaMissing 
+賛美	さんび	praise, adoration, glorification	 MediaMissing 
+山腹	さんぷく	hillside, mountainside	 MediaMissing 
+産婦人科	さんふじんか	maternity and gynecology department	 MediaMissing 
+産物	さんぶつ	product, result, fruit	 MediaMissing 
+山脈	さんみゃく	mountain range	 MediaMissing 
+仕上がり	しあがり	finish, end, completion	 MediaMissing 
+仕上	しあげ	end, finishing touches	 MediaMissing 
+仕上げる	しあげる	to finish up, to complete	 MediaMissing 
+飼育	しいく	breeding, raising, rearing	 MediaMissing 
+強いて	しいて	to dare, to insist	 MediaMissing 
+シート	シート	seat; sheet	 MediaMissing 
+ジーパン	ジーパン	jeans	 MediaMissing 
+仕入れる	しいれる	to lay in stock, to replenish stock, to procure	 MediaMissing 
+強いる	しいる	to force, to compel, to coerce	 MediaMissing 
+潮	しお	tide	 MediaMissing 
+歯科	しか	dentistry	 MediaMissing 
+自我	じが	self, ego	 MediaMissing 
+自覚	じかく	self-conscious	 MediaMissing 
+仕掛	しかけ	device, trick, mechanism	 MediaMissing 
+仕掛ける	しかける	to lay, to set, to wage	 MediaMissing 
+しかしながら	しかしながら	however, nevertheless	 MediaMissing 
+色彩	しきさい	color	 MediaMissing 
+式場	しきじょう	ceremonial hall, place of ceremony (e.g., marriage)	 MediaMissing 
+しきたり	しきたり	custom, conventional practice, tradition	 MediaMissing 
+事業	じぎょう	project, enterprise, business	 MediaMissing 
+仕切る	しきる	to partition, to divide, to mark off	 MediaMissing 
+資金	しきん	funds, capital	 MediaMissing 
+軸	じく	axis, stem, shaft	 MediaMissing 
+しくじる	しくじる	to fail, to fall through, to blunder	 MediaMissing 
+仕組	しくみ	structure, mechanism	 MediaMissing 
+死刑	しけい	death penalty	 MediaMissing 
+湿気る	しける	to be damp, to be moist	 MediaMissing 
+施行	しこう	enforcement, operation	 MediaMissing 
+思考	しこう	thought	 MediaMissing 
+志向	しこう	intention, aim	 MediaMissing 
+嗜好	しこう	taste, liking, preference	 MediaMissing 
+事項	じこう	matter(s), item(s), facts	 MediaMissing  Intermediate_Japanese_Ln.15 Intermediate_Japanese
+時刻表	じこくひょう	timetable, (train) schedule	 MediaMissing  Intermediate_Japanese_Ln.10 Intermediate_Japanese
+地獄	じごく	hell	 MediaMissing 
+時差	じさ	time difference	 MediaMissing 
+自在	じざい	freely, at will	 MediaMissing 
+視察	しさつ	inspection, observation	 MediaMissing 
+資産	しさん	property, fortune, assets	 MediaMissing 
+支持	しじ	support	 MediaMissing 
+自主	じしゅ	independence, autonomy	 MediaMissing 
+自首	じしゅ	surrender, give oneself up	 MediaMissing 
+刺繍	ししゅう	embroidery	 MediaMissing 
+市場	しじょう	(the) market (as a concept)	 MediaMissing 
+辞職	じしょく	resignation	 MediaMissing 
+雫	しずく	drop (of water)	 MediaMissing 
+システム	システム	system	 MediaMissing 
+沈める	しずめる	to sink, to submerge	 MediaMissing 
+施設	しせつ	establishment, facility	 MediaMissing 
+事前	じぜん	prior, beforehand, in advance	 MediaMissing 
+子息	しそく	(hon.) son	 MediaMissing 
+持続	じぞく	continuation, endurance	 MediaMissing 
+自尊心	じそんしん	self-respect, conceit	 MediaMissing 
+慕う	したう	to yearn to adore	 MediaMissing 
+下心	したごころ	secret intention, motive	 MediaMissing 
+下地	したじ	groundwork, foundation	 MediaMissing 
+親しむ	したしむ	to be intimate with, to befriend	 MediaMissing 
+下調べ	したしらべ	preliminary investigation	 MediaMissing 
+仕立てる	したてる	to tailor, to make, to prepare	 MediaMissing 
+下取り	したどり	trade in, part exchange	 MediaMissing 
+下火	したび	burning low, waning, declining	 MediaMissing 
+実	じつ	fruit, good result	 MediaMissing 
+実家	じっか	(one's parents') home	 MediaMissing 
+失格	しっかく	disqualification, elimination, incapacity (legal)	 MediaMissing 
+質疑	しつぎ	question	 MediaMissing 
+失脚	しっきゃく	losing one's standing, being overthrown, falling	 MediaMissing 
+実業家	じつぎょうか	industrialist, businessman	 MediaMissing 
+シック	シック	chic	 MediaMissing 
+じっくり	じっくり	deliberately, carefully	 MediaMissing 
+躾	しつけ	discipline, training	 MediaMissing 
+躾ける	しつける	to discipline, to teach manners	 MediaMissing 
+実践	じっせん	practice, put into practice	 MediaMissing 
+質素	しっそ	simplicity, modesty, frugality	 MediaMissing 
+実態	じったい	truth, fact	 MediaMissing 
+失調	しっちょう	lack of harmony, imbalance	 MediaMissing 
+嫉妬	しっと	jealousy	 MediaMissing 
+実費	じっぴ	actual expense, cost price	 MediaMissing 
+指摘	してき	pointing out, identification	 MediaMissing 
+自転	じてん	rotation, spin	 MediaMissing 
+助動詞	じょどうし	auxiliary verb	 MediaMissing 
+淑やか	しとやか	graceful	 MediaMissing 
+萎びる	しなびる	to shrivel, to fade	 MediaMissing 
+シナリオ	シナリオ	scenario	 MediaMissing 
+しなやか	しなやか	supple, flexible, elastic	 MediaMissing 
+屎尿	しにょう	human waste	 MediaMissing 
+地主	じぬし	landlord	 MediaMissing 
+凌ぐ	しのぐ	to outdo, to surpass; to endure	 MediaMissing 
+芝	しば	lawn	 MediaMissing 
+始発	しはつ	first train	 MediaMissing 
+耳鼻科	じびか	otolaryngology	 MediaMissing 
+私物	しぶつ	private property, personal effects	 MediaMissing 
+しぶとい	しぶとい	tenacious, stubborn	 MediaMissing 
+司法	しほう	administration of justice	 MediaMissing 
+始末	しまつ	disposal; cleaning up afterwards	 MediaMissing 
+染みる	しみる	to soak; pierce	 MediaMissing 
+使命	しめい	mission, errand, message	 MediaMissing 
+地元	じもと	local	 MediaMissing 
+視野	しや	field of vision, outlook	 MediaMissing 
+弱	じゃく	delicate, supple	 MediaMissing 
+社交	しゃこう	social life	 MediaMissing 
+ジャズ	ジャズ	jazz	 MediaMissing 
+謝絶	しゃぜつ	refusal	 MediaMissing 
+社宅	しゃたく	company owned house	 MediaMissing 
+若干	じゃっかん	some, few, number of	 MediaMissing 
+三味線	しゃみせん	three-stringed Japanese guitar	 MediaMissing 
+斜面	しゃめん	slope, slanting surface, bevel	 MediaMissing 
+砂利	じゃり	gravel, ballast, pebbles	 MediaMissing 
+洒落る	しゃれる	to joke, to play on words; stylish	 MediaMissing 
+ジャンパー	ジャンパー	jacket, jumper	 MediaMissing 
+ジャンプ	ジャンプ	jump	 MediaMissing 
+ジャンボ	ジャンボ	jumbo	 MediaMissing 
+ジャンル	ジャンル	genre	 MediaMissing 
+主	しゅ	owner, master, god	 MediaMissing 
+種	しゅ	seed; variety	 MediaMissing 
+私有	しゆう	private ownership	 MediaMissing 
+～宗	～しゅう	sect	 MediaMissing 
+収益	しゅうえき	earnings, proceeds, returns	 MediaMissing 
+修学	しゅうがく	learning	 MediaMissing 
+周期	しゅうき	cycle, period	 MediaMissing 
+衆議院	しゅうぎいん	Lower House, House of Representatives	 MediaMissing 
+就業	しゅうぎょう	employment, starting work	 MediaMissing 
+従業員	じゅうぎょういん	employee, worker	 MediaMissing 
+集計	しゅうけい	totalization, aggregate	 MediaMissing 
+襲撃	しゅうげき	attack, charge, raid	 MediaMissing 
+収支	しゅうし	income and expenditure	 MediaMissing 
+終始	しゅうし	from beginning to end; consistent(ly)	 MediaMissing 
+修士	しゅうし	Masters degree program	 MediaMissing 
+従事	じゅうじ	engaging, pursuing, following	 MediaMissing 
+終日	しゅうじつ	all day	 MediaMissing 
+充実	じゅうじつ	fullness, perfection	 MediaMissing 
+収集	しゅうしゅう	gathering up, collection	 MediaMissing 
+十字路	じゅうじろ	crossroads	 MediaMissing 
+執着	しゅうじゃく	attachment, adhesion, tenacity	 MediaMissing 
+執着	しゅうちゃく	attachment, adhesion, tenacity	 MediaMissing 
+柔軟	じゅうなん	flexible	 MediaMissing 
+重複	じゅうふく	duplication, repetition, overlapping	 MediaMissing 
+収容	しゅうよう	accommodation; seating; custody	 MediaMissing 
+従来	じゅうらい	up to now, so far, traditional	 MediaMissing 
+守衛	しゅえい	security guard, doorkeeper	 MediaMissing 
+主演	しゅえん	starring, playing the leading part	 MediaMissing 
+主観	しゅかん	subjectivity, subject, ego	 MediaMissing 
+修行	しゅぎょう	pursuit of knowledge, training, ascetic practice	 MediaMissing 
+塾	じゅく	after-school (cram) school	MediaMissing  Intermediate_Japanese  Intermediate_Japanese_Ln.5 Genki_Ln.22 Genki
+祝賀	しゅくが	celebration, congratulations	 MediaMissing 
+宿命	しゅくめい	fate, destiny, predestination	 MediaMissing 
+手芸	しゅげい	handicrafts	 MediaMissing 
+主権	しゅけん	sovereignty	 MediaMissing 
+主催	しゅさい	organization, sponsorship, to host	 MediaMissing 
+取材	しゅざい	coverage, collecting data	 MediaMissing 
+趣旨	しゅし	object, meaning	 MediaMissing 
+種々	しゅじゅ	variety	 MediaMissing 
+主食	しゅしょく	staple food	 MediaMissing 
+主人公	しゅじんこう	protagonist	 MediaMissing 
+主体	しゅたい	subject, main constituent	 MediaMissing 
+主題	しゅだい	subject, theme, motif	 MediaMissing 
+出演	しゅつえん	leading performer, stage appearance	 MediaMissing 
+出血	しゅっけつ	bleeding	 MediaMissing 
+出現	しゅつげん	appearance, arrival	 MediaMissing 
+出産	しゅっさん	childbirth	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+出社	しゅっしゃ	come to work	 MediaMissing 
+出生	しゅっしょう	birth	 MediaMissing 
+出生	しゅっせい	birth	 MediaMissing 
+出世	しゅっせ	promotion, successful career, eminence	 MediaMissing 
+出題	しゅつだい	proposing a question	 MediaMissing 
+出動	しゅつどう	mobilization, action	 MediaMissing 
+出費	しゅっぴ	expenses, disbursements	 MediaMissing 
+出品	しゅっぴん	exhibit, display	 MediaMissing 
+主導	しゅどう	main leadership	 MediaMissing 
+主任	しゅにん	person in charge, responsible official	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+首脳	しゅのう	head, leader	 MediaMissing 
+守備	しゅび	defense	 MediaMissing 
+手法	しゅほう	technique	 MediaMissing 
+樹木	じゅもく	trees and shrubs, arbor	 MediaMissing 
+樹立	じゅりつ	establish, create	 MediaMissing 
+準急	じゅんきゅう	local express (train, slower than an express)	 MediaMissing 
+準じる	じゅんじる	to follow, to conform, to apply to	 MediaMissing 
+～署	～しょ	department	 MediaMissing 
+～症	～しょう	disease	 MediaMissing 
+～証	～しょう	proof, certificate	 MediaMissing 
+～嬢	～じょう	young woman	 MediaMissing 
+上位	じょうい	superior, higher order	 MediaMissing 
+上演	じょうえん	art performance	 MediaMissing 
+城下	じょうか	land near the castle	 MediaMissing 
+消去	しょうきょ	elimination, erasing	 MediaMissing 
+上空	じょうくう	sky, high-altitude sky, upper air	 MediaMissing 
+衝撃	しょうげき	shock, crash, impact, ballistic	 MediaMissing 
+証言	しょうげん	evidence, testimony	 MediaMissing 
+証拠	しょうこ	evidence, proof	 MediaMissing 
+照合	しょうごう	check, verification	 MediaMissing 
+詳細	しょうさい	detail, particulars	 MediaMissing 
+上昇	じょうしょう	rising, ascending, climbing	 MediaMissing 
+昇進	しょうしん	promotion	 MediaMissing 
+称する	しょうする	to take the name of, to call oneself	 MediaMissing 
+情勢	じょうせい	state of things, condition, situation	 MediaMissing 
+消息	しょうそく	news, letter, circumstances	 MediaMissing 
+承諾	しょうだく	consent, agreement	 MediaMissing 
+情緒	じょうちょ	emotion, feeling	 MediaMissing 
+情緒	じょうしょ	emotion, feeling	 MediaMissing 
+象徴	しょうちょう	symbol	 MediaMissing 
+小児科	しょうにか	pediatrics	 MediaMissing 
+使用人	しようにん	employee, servant	 MediaMissing 
+情熱	じょうねつ	passion, enthusiasm, zeal	 MediaMissing 
+譲歩	じょうほ	concession, conciliation, compromise	 MediaMissing 
+条約	じょうやく	treaty, pact	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+勝利	しょうり	victory, triumph, win	 MediaMissing 
+上陸	じょうりく	landing, disembarkation	 MediaMissing 
+蒸溜	じょうりゅう	distillation	 MediaMissing 
+奨励	しょうれい	encouragement, promotion	 MediaMissing 
+ショー	ショー	show	 MediaMissing 
+除外	じょがい	exception, exclusion	 MediaMissing 
+職員	しょくいん	staff member, personnel	 MediaMissing 
+植民地	しょくみんち	colony	 MediaMissing 
+職務	しょくむ	professional duties	 MediaMissing 
+諸君	しょくん	Gentlemen!, Ladies!	 MediaMissing 
+助言	じょげん	advice, suggestion	 MediaMissing  Intermediate_Japanese Intermediate_Japanese_Ln.11
+徐行	じょこう	going slowly	 MediaMissing 
+所在	しょざい	whereabouts	 MediaMissing 
+所持	しょじ	possession, owning	 MediaMissing 
+所属	しょぞく	attached to, belong to	 MediaMissing 
+処置	しょち	treatment	 MediaMissing 
+しょっちゅう	しょっちゅう	always, constantly	 MediaMissing 
+所定	しょてい	fixed, prescribed	 MediaMissing 
+所得	しょとく	income	 MediaMissing 
+処罰	しょばつ	punishment	 MediaMissing 
+初版	しょはん	first edition	 MediaMissing 
+書評	しょひょう	book review	 MediaMissing 
+処分	しょぶん	disposal, dealing, punishment	 MediaMissing 
+庶民	しょみん	masses, common people	 MediaMissing 
+庶務	しょむ	general affairs	 MediaMissing 
+所有	しょゆう	one's possessions, ownership	 MediaMissing 
+調べ	しらべ	investigation, inspection	 MediaMissing 
+自立	じりつ	independence, self-reliance	 MediaMissing 
+記す	しるす	to note, to write down	 MediaMissing 
+指令	しれい	orders, instructions, directive	 MediaMissing 
+～心	～しん	mind of ~	 MediaMissing 
+陣	じん	battle formation, camp, encampment	 MediaMissing 
+進化	しんか	evolution, progress	 MediaMissing 
+人格	じんかく	personality, character	 MediaMissing 
+審議	しんぎ	deliberation	 MediaMissing 
+新婚	しんこん	newly-wed	 MediaMissing 
+審査	しんさ	judging, inspection, examination	 MediaMissing 
+人材	じんざい	man of talent	 MediaMissing 
+紳士	しんし	gentleman	 MediaMissing 
+真実	しんじつ	truth, reality	 MediaMissing 
+信者	しんじゃ	believer, devotee	 MediaMissing 
+真珠	しんじゅ	pearl	 MediaMissing 
+進出	しんしゅつ	advancement	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+心情	しんじょう	mentality	 MediaMissing 
+新人	しんじん	new face, newcomer	 MediaMissing 
+神聖	しんせい	holiness, sacredness, dignity	 MediaMissing 
+親善	しんぜん	friendship	 MediaMissing 
+真相	しんそう	truth, real situation	 MediaMissing 
+迅速	じんそく	quick, fast, prompt	 MediaMissing 
+人体	じんたい	human body	 MediaMissing 
+新築	しんちく	new building, new construction	 MediaMissing 
+心中	しんじゅう	double suicide	 MediaMissing 
+進呈	しんてい	presentation	 MediaMissing 
+進展	しんてん	progress, development	 MediaMissing 
+神殿	しんでん	temple, sacred place	 MediaMissing 
+進度	しんど	progress	 MediaMissing 
+振動	しんどう	oscillation, vibration	 MediaMissing 
+新入生	しんにゅうせい	new student, first-year student, freshman	 Intermediate_Japanese_Ln.5  MediaMissing Intermediate_Japanese
+信任	しんにん	trust, confidence, credence	 MediaMissing 
+神秘	しんぴ	mystery	 MediaMissing 
+辛抱	しんぼう	patience, endurance	 MediaMissing 
+人民	じんみん	people, public	 MediaMissing 
+侵略	しんりゃく	aggression, invasion, raid	 MediaMissing 
+診療	しんりょう	medical examination and treatment	 MediaMissing 
+粋	すい	essence	 MediaMissing 
+水源	すいげん	source of river	 MediaMissing 
+推進	すいしん	propulsion, driving force	 MediaMissing 
+吹奏	すいそう	playing wind instruments	 MediaMissing 
+推測	すいそく	guess, conjecture	 MediaMissing 
+水田	すいでん	(water-filled) paddy field	 MediaMissing 
+推理	すいり	reasoning, inference, mystery or detective genre	 MediaMissing 
+数詞	すうし	numeral	 MediaMissing 
+崇拝	すうはい	worship, adoration	 MediaMissing 
+据え付ける	すえつける	to install, to equip, to mount	 MediaMissing 
+据える	すえる	to set, to lay, to place	 MediaMissing 
+すがすがしい	すがすがしい	fresh, refreshing	 MediaMissing 
+救い	すくい	help, aid, relief	 MediaMissing 
+すくう (みずを～)	すくう (みずを～)	to scoop	 MediaMissing 
+健やか	すこやか	vigorous, healthy, sound	 MediaMissing 
+濯ぐ	すすぐ	to rinse, to wash out	 MediaMissing 
+進み	すすみ	progress	 MediaMissing 
+裾	すそ	(trouser) cuff, (skirt) hem, cut edge of a hairdo	 MediaMissing 
+スタジオ	スタジオ	studio	 MediaMissing 
+スチーム	スチーム	steam	 MediaMissing 
+ストライキ	ストライキ	strike	 MediaMissing 
+スト	スト	(abbr.) strike	 MediaMissing 
+ストロー	ストロー	straw	 MediaMissing 
+ストロボ	ストロボ	stroboscope (literally: strobo, strobe lamp, stroboscopic lamp)	 MediaMissing 
+すばしこい	すばしこい	nimble, smart, quick	 MediaMissing 
+素早い	すばやい	fast, quick	 MediaMissing 
+ずばり	ずばり	decisively, unreservedly, frankly	 MediaMissing 
+スプリング	スプリング	spring	 MediaMissing 
+スペース	スペース	space	 MediaMissing 
+ずぶぬれ	ずぶぬれ	soaked, dripping wet	 MediaMissing 
+スポーツカー	スポーツカー	sports car	 MediaMissing 
+澄ます	すます	to clear, to make clear, to listen for	 MediaMissing 
+清ます	すます	to clear, to make clear, to listen for	 MediaMissing 
+済ます	すます	to finish; to settle; to do without	 MediaMissing 
+すみやか	すみやか	speedy	 MediaMissing 
+スラックス	スラックス	slacks	 MediaMissing 
+ずらっと	ずらっと	in a line, in a row	 MediaMissing 
+ずるずる	ずるずる	dragging on, sound of sniffling	 MediaMissing 
+ずれ	ずれ	difference, gap	 MediaMissing 
+すれちがい	すれちがい	chance encounter	 MediaMissing 
+擦れる	すれる	to rub, to chafe	 MediaMissing 
+すんなり	すんなり	pass with no objection, slim, slender	 MediaMissing 
+生育	せいいく	growth, development, breeding	 MediaMissing 
+成育	せいいく	growth, raising	 MediaMissing 
+成果	せいか	results, fruits	 MediaMissing 
+正解	せいかい	correct, right answer, solution	 MediaMissing 
+正義	せいぎ	justice, right, righteousness	 MediaMissing 
+生計	せいけい	livelihood, living	 MediaMissing 
+政権	せいけん	(political) administration, political power	 MediaMissing 
+星座	せいざ	constellation	 MediaMissing 
+制裁	せいさい	restraint, sanctions, punishment	 MediaMissing 
+政策	せいさく	political measures, policy	 MediaMissing 
+生死	せいし	life and death	 MediaMissing 
+静止	せいし	stillness, repose, standing still	 MediaMissing 
+誠実	せいじつ	sincere, honest, faithful	 MediaMissing 
+成熟	せいじゅく	maturity, ripeness	 MediaMissing 
+青春	せいしゅん	youth, springtime of life, adolescent	 MediaMissing 
+清純	せいじゅん	purity, innocence	 MediaMissing 
+聖書	せいしょ	Bible	 MediaMissing 
+正常	せいじょう	normalcy, normality, normal	 MediaMissing 
+制する	せいする	to control, to command	 MediaMissing 
+整然	せいぜん	orderly, regular, well-organized	 MediaMissing 
+盛装	せいそう	be dressed up, wear rich clothes	 MediaMissing 
+盛大	せいだい	grand, prosperous, magnificent	 MediaMissing 
+清濁	せいだく	good and evil, purity and impurity	 MediaMissing 
+制定	せいてい	enactment, establishment, creation	 MediaMissing 
+静的	せいてき	static	 MediaMissing 
+製鉄	せいてつ	iron manufacture	 MediaMissing 
+晴天	せいてん	fine weather	 MediaMissing 
+正当	せいとう	just, due, proper	 MediaMissing 
+制服	せいふく	uniform	 MediaMissing 
+征服	せいふく	conquest, subjugation, overcoming	 MediaMissing 
+製法	せいほう	manufacturing method, recipe, formula	 MediaMissing 
+精密	せいみつ	precise, exact, detailed, minute	 MediaMissing 
+税務署	ぜいむしょ	tax office	 MediaMissing 
+制約	せいやく	limitation, constraints	 MediaMissing 
+勢力	せいりょく	influence, power, might, strength	 MediaMissing 
+整列	せいれつ	stand in a row, form a line	 MediaMissing 
+セール	セール	sale	 MediaMissing 
+急かす	せかす	to hurry, to urge on	 MediaMissing 
+伜	せがれ	son, my son	 MediaMissing 
+責務	せきむ	duty, obligation	 MediaMissing 
+セクション	セクション	section	 MediaMissing 
+世辞	せじ	flattery, compliment	 MediaMissing 
+世帯	せたい	household	 MediaMissing 
+是正	ぜせい	correction, revision	 MediaMissing 
+世代	せだい	generation	 MediaMissing 
+切開	せっかい	opening up, cutting through	 MediaMissing 
+セックス	セックス	sex	 MediaMissing 
+切実	せつじつ	compelling, serious, severe, acute	 MediaMissing 
+接触	せっしょく	touch, contact	 MediaMissing 
+接続詞	せつぞくし	conjunction	 MediaMissing 
+設置	せっち	establishment, institution	 MediaMissing 
+折衷	せっちゅう	compromise, cross, blending, eclecticism	 MediaMissing 
+設定	せってい	establishment, creation	 MediaMissing 
+説得	せっとく	persuasion	 MediaMissing 
+切ない	せつない	painful, trying, sad	 MediaMissing 
+絶版	ぜっぱん	out of print	 MediaMissing 
+設立	せつりつ	establishment, foundation, institution	 MediaMissing 
+攻め	せめ	attack, offense	 MediaMissing 
+ゼリー	ゼリー	jelly	 MediaMissing 
+セレモニー	セレモニー	ceremony	 MediaMissing 
+世論	せろん	public opinion	 MediaMissing 
+先	せん	priority, precedence, previous	 MediaMissing 
+繊維	せんい	fiber, fiber, textile	 MediaMissing 
+全快	ぜんかい	complete recovery of health	 MediaMissing 
+宣教	せんきょう	religious mission	 MediaMissing 
+宣言	せんげん	declaration, proclamation, announcement	 MediaMissing 
+戦災	せんさい	war damage	 MediaMissing 
+専修	せんしゅう	specialization	 MediaMissing 
+戦術	せんじゅつ	tactics	 MediaMissing 
+センス	センス	sense (for music, style, tact, etc.)	 MediaMissing 
+潜水	せんすい	diving	 MediaMissing 
+全盛	ぜんせい	height of prosperity	 MediaMissing 
+先代	せんだい	family predecessor, previous age, previous generation	 MediaMissing 
+先だって	せんだって	recently, the other day	 MediaMissing 
+先着	せんちゃく	first arrival	 MediaMissing 
+前提	ぜんてい	preamble, premise, prerequisite	 MediaMissing 
+先天的	せんてんてき	inherent, congenital, hereditary	 MediaMissing 
+前途	ぜんと	future prospects, outlook, the journey ahead	 MediaMissing 
+戦闘	せんとう	battle, fight, combat	 MediaMissing 
+潜入	せんにゅう	infiltration, sneaking in	 MediaMissing 
+船舶	せんぱく	ship	 MediaMissing 
+全滅	ぜんめつ	annihilation	 MediaMissing 
+専用	せんよう	exclusive use, personal use	 MediaMissing 
+占領	せんりょう	occupation, possession, have a room to oneself	 MediaMissing 
+善良	ぜんりょう	goodness, excellence, virtue	 MediaMissing 
+戦力	せんりょく	war potential	 MediaMissing 
+前例	ぜんれい	precedent	 MediaMissing 
+相応	そうおう	suitability, fitness	 MediaMissing 
+総会	そうかい	general meeting	 MediaMissing 
+創刊	そうかん	launching (e.g., newspaper, first issue)	 MediaMissing 
+雑木	ぞうき	various kinds of small trees, assorted trees	 MediaMissing 
+早急	そうきゅう	urgent	 MediaMissing 
+早急	さっきゅう	urgent	 MediaMissing 
+増強	ぞうきょう	reinforce, increase	 MediaMissing 
+送金	そうきん	remittance, sending money	 MediaMissing 
+走行	そうこう	running a wheeled vehicle (e.g., car, traveling)	 MediaMissing 
+総合	そうごう	synthesis, generalization	 MediaMissing 
+捜索	そうさく	search (esp. for someone or something missing, investigation)	 MediaMissing 
+蔵相	ぞうしょう	Minister of Finance	 MediaMissing 
+装飾	そうしょく	ornament	 MediaMissing 
+増進	ぞうしん	promoting, increase, advance	 MediaMissing 
+相対	そうたい	relative	 MediaMissing 
+壮大	そうだい	magnificent, grand, majestic	 MediaMissing 
+騒動	そうどう	strife, riot, rebellion	 MediaMissing 
+遭難	そうなん	disaster, shipwreck, accident	 MediaMissing 
+相場	そうば	market price, speculation, estimation	 MediaMissing 
+装備	そうび	equipment	 MediaMissing 
+創立	そうりつ	establishment, founding	 MediaMissing 
+添える	そえる	to add to, to attach, to accompany	 MediaMissing 
+ソース	ソース	source	 MediaMissing 
+即座に	そくざに	immediately, right away	 MediaMissing 
+促進	そくしん	promotion, acceleration, encouragement	 MediaMissing 
+即する	そくする	to conform to, to agree with, to be adapted to,	 MediaMissing 
+束縛	そくばく	restraint, restriction, confinement	 MediaMissing 
+側面	そくめん	side, sidelight, lateral	 MediaMissing 
+損う	そこなう	to harm, to hurt	 MediaMissing 
+そこら	そこら	everywhere, somewhere	 MediaMissing 
+素材	そざい	raw materials, subject matter	 MediaMissing 
+阻止	そし	obstruction, check, hindrance	 MediaMissing 
+訴訟	そしょう	litigation, lawsuit	 MediaMissing 
+育ち	そだち	breeding, growth	 MediaMissing 
+措置	そち	measure, step	 MediaMissing 
+ソックス	ソックス	socks	 MediaMissing 
+素っ気無い	そっけない	cold, short, curt, blunt	 MediaMissing 
+外方	そっぽ	look (or turn) the other way	 MediaMissing 
+備え付ける	そなえつける	to provide, to equip, to install	 MediaMissing 
+備わる	そなわる	to be furnished with	 MediaMissing 
+具わる	そなわる	to be furnished with	 MediaMissing 
+聳える	そびえる	to rise, to tower, to soar	 MediaMissing 
+素朴	そぼく	simplicity, artlessness, naivety	 MediaMissing 
+背く	そむく	to run counter to, to go against	 MediaMissing 
+染まる	そまる	to be dyed	 MediaMissing 
+染める	そめる	to dye, to color	 MediaMissing 
+そらす	そらす	to bend, to warp	 MediaMissing 
+そり (～にのる)	そり (～にのる)	sleigh, sled	 MediaMissing 
+反る	そる	to warp, to be warped, to curve	 MediaMissing 
+それゆえ	それゆえ	therefore, for that reason, so	 MediaMissing 
+ソロ	ソロ	solo	 MediaMissing 
+揃い	そろい	set, suit, uniform	 MediaMissing 
+ぞんざい	ぞんざい	rude, careless, slovenly	 MediaMissing 
+損失	そんしつ	loss	 MediaMissing 
+存続	そんぞく	duration, continuance	 MediaMissing 
+ダース	ダース	dozen	 MediaMissing 
+対応	たいおう	dealing with	 MediaMissing 
+大家	たいか	rich family, distinguished family	 MediaMissing 
+退化	たいか	degeneration, retrogression	 MediaMissing 
+大概	たいがい	in general, mainly	 MediaMissing 
+体格	たいかく	physique, constitution	 MediaMissing 
+大金	たいきん	large amount of money	 MediaMissing 
+待遇	たいぐう	treatment, reception	 MediaMissing 
+対決	たいけつ	confrontation, showdown	 MediaMissing 
+体験	たいけん	personal experience	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+対抗	たいこう	opposition, antagonism	 MediaMissing 
+退治	たいじ	extermination	 MediaMissing 
+大衆	たいしゅう	general public	 MediaMissing 
+対処	たいしょ	deal with, cope	 MediaMissing 
+退職	たいしょく	retirement (from office)	 MediaMissing 
+題する	だいする	to title	 MediaMissing 
+態勢	たいせい	attitude, conditions, tendency	 MediaMissing 
+対談	たいだん	talk, dialogue	 MediaMissing 
+大胆	だいたん	bold, daring, audacious	 MediaMissing 
+対等	たいとう	equivalent	 MediaMissing 
+台無し	だいなし	mess, spoiled, (come to) nothing	 MediaMissing 
+滞納	たいのう	non-payment, default	 MediaMissing 
+対比	たいひ	contrast, comparison	 MediaMissing 
+タイピスト	タイピスト	typist	 MediaMissing 
+大部	たいぶ	most (e.g., most part, greater, fairly, a good deal, much)	 MediaMissing 
+大便	だいべん	feces	 MediaMissing 
+代弁	だいべん	speak for another	 MediaMissing 
+待望	たいぼう	long-expected, waiting	 MediaMissing 
+台本	だいほん	libretto, scenario	 MediaMissing 
+タイマー	タイマー	timer	 MediaMissing 
+怠慢	たいまん	negligence, carelessness	 MediaMissing 
+タイミング	タイミング	timing	 MediaMissing 
+タイム	タイム	time	 MediaMissing 
+タイムリー	タイムリー	timely, run-batted-in (baseball), RBI	 MediaMissing 
+対面	たいめん	interview, meeting	 MediaMissing 
+代用	だいよう	substitution	 MediaMissing 
+体力	たいりょく	physical strength	 MediaMissing 
+タイル	タイル	tile	 MediaMissing 
+対話	たいわ	conversation, dialogue	 MediaMissing 
+耐える	たえる	to endure, to put up with	 MediaMissing 
+堪える	たえる	to endure, to put up with	 MediaMissing 
+絶える	たえる	to die out, to become extinct	 MediaMissing 
+断える	たえる	to cease, to become extinct	 MediaMissing 
+打開	だかい	solution, breakthrough	 MediaMissing 
+焚火	たきび	(open) fire	 MediaMissing 
+妥協	だきょう	compromise, giving in	 MediaMissing 
+たくましい	たくましい	burly, strong, sturdy	 MediaMissing 
+巧み	たくみ	skill, cleverness	 MediaMissing 
+丈	たけ	length, height	 MediaMissing 
+打撃	だげき	blow, damage; batting (baseball)	 MediaMissing 
+妥結	だけつ	agreement	 MediaMissing 
+駄作	ださく	poor work	 MediaMissing 
+足し算	たしざん	addition	 MediaMissing 
+多数決	たすうけつ	majority rule	 MediaMissing 
+助け	たすけ	assistance	 MediaMissing 
+携わる	たずさわる	to engage, to involve	 MediaMissing 
+漂う	ただよう	to drift about, to float, to hang in air	 MediaMissing 
+立ち去る	たちさる	to leave, to depart	 MediaMissing 
+立ち寄る	たちよる	to stop by, to drop in for a short visit	 MediaMissing 
+抱っこ	だっこ	(child's) hug	 MediaMissing 
+達者	たっしゃ	skillful, in good health	 MediaMissing 
+脱出	だっしゅつ	escape	 MediaMissing 
+脱する	だっする	to escape from, to get out	 MediaMissing 
+達成	たっせい	achievement	 MediaMissing 
+脱退	だったい	secession, withdrawal	 MediaMissing 
+だったら	だったら	if it's the case	 MediaMissing 
+立て替える	たてかえる	to pay in advance, to pay for another	 MediaMissing 
+建前	たてまえ	position; stance one takes in public; principle	 MediaMissing  Intermediate_Japanese_Ln.15 Intermediate_Japanese
+奉る	たてまつる	to offer, to do respectfully	 MediaMissing 
+だと	だと	if it's the case	 MediaMissing 
+他動詞	たどうし	transitive verb (direct object)	 MediaMissing 
+辿り着く	たどりつく	to reach, to make it somehow	 MediaMissing 
+辿る	たどる	to follow (road, to pursue (course), to follow up	 MediaMissing 
+束ねる	たばねる	to tie up in a bundle, to control	 MediaMissing 
+だぶだぶ	だぶだぶ	loose, baggy	 MediaMissing 
+他方	たほう	another side, on the other hand	 MediaMissing 
+多忙	たぼう	busy	 MediaMissing 
+給う	たまう	to receive, to grant	 MediaMissing 
+魂	たましい	soul, spirit	 MediaMissing 
+溜まり	たまり	collected things, gathering place, arrears	 MediaMissing 
+賜る	たまわる	to grant, to bestow	 MediaMissing 
+保つ	たもつ	to keep, to preserve, to sustain	 MediaMissing 
+たやすい	たやすい	easy, simple, light	 MediaMissing 
+多様	たよう	diversity, variety	 MediaMissing 
+だるい	だるい	sluggish, feel heavy (tired), languid	 MediaMissing  Intermediate_Japanese_Ln.12 Intermediate_Japanese
+弛み	たるみ	slack, slackening	 MediaMissing 
+弛む	たるむ	to slacken, to loosen, to relax	 MediaMissing 
+垂れる	たれる	to hang, to droop; to drip	 MediaMissing 
+タレント	タレント	talent, star, personality	 MediaMissing 
+タワー	タワー	tower	 MediaMissing 
+単一	たんいつ	single, simple, sole	 MediaMissing 
+短歌	たんか	31-syllable Japanese poem	 MediaMissing 
+担架	たんか	stretcher, litter	 MediaMissing 
+短気	たんき	quick temper	 MediaMissing 
+団結	だんけつ	unity, union, solidarity	 MediaMissing 
+探検	たんけん	exploration, expedition	 MediaMissing 
+断言	だんげん	assertion, declaration, affirmation	 MediaMissing 
+短縮	たんしゅく	shortening, abbreviation, reduction	 MediaMissing 
+断然	だんぜん	firmly, absolutely, definitely	 MediaMissing 
+炭素	たんそ	carbon (C)	 MediaMissing 
+短大	たんだい	junior college	 MediaMissing 
+単調	たんちょう	monotony, monotone, dullness	 MediaMissing 
+単独	たんどく	sole, single	 MediaMissing 
+旦那	だんな	master (of house), husband (informal)	 MediaMissing 
+短波	たんぱ	short wave	 MediaMissing 
+蛋白質	たんぱくしつ	protein	 MediaMissing 
+ダンプ	ダンプ	dump truck	 MediaMissing 
+断面	だんめん	cross section	 MediaMissing 
+弾力	だんりょく	elasticity, flexibility	 MediaMissing 
+治安	ちあん	public order, security	 MediaMissing 
+チームワーク	チームワーク	teamwork	 MediaMissing 
+チェンジ	チェンジ	change	 MediaMissing 
+違える	ちがえる	to change	 MediaMissing 
+畜産	ちくさん	animal husbandry	 MediaMissing 
+畜生	ちくしょう	beast, brute, damn	 MediaMissing 
+蓄積	ちくせき	accumulation, accumulate, store	 MediaMissing 
+地形	ちけい	landform, geographical features, topography	 MediaMissing 
+知性	ちせい	intelligence	 MediaMissing 
+乳	ちち	milk, breast, loop	 MediaMissing 
+縮まる	ちぢまる	to be shortened, to be contracted, to shrink	 MediaMissing 
+秩序	ちつじょ	order, regularity	 MediaMissing  Intermediate_Japanese_Ln.10 Intermediate_Japanese
+窒息	ちっそく	suffocation	 MediaMissing 
+知的	ちてき	intellectual	 MediaMissing 
+着手	ちゃくしゅ	embarkation, launch	 MediaMissing 
+着色	ちゃくしょく	coloring, coloring	 MediaMissing 
+着席	ちゃくせき	sit down, seat	 MediaMissing 
+着目	ちゃくもく	attention	 MediaMissing 
+着陸	ちゃくりく	landing, touch down	 MediaMissing 
+着工	ちゃっこう	start of (construction) work	 MediaMissing 
+茶の間	ちゃのま	living room (Japanese style)	 MediaMissing 
+茶の湯	ちゃのゆ	tea ceremony	 MediaMissing 
+ちやほや	ちやほや	pamper, make a fuss of, spoil	 MediaMissing 
+チャンネル	チャンネル	a channel	 MediaMissing 
+宙返り	ちゅうがえり	somersault, looping-the-loop	 MediaMissing 
+中継	ちゅうけい	relay, hook-up	 MediaMissing 
+忠告	ちゅうこく	advice, warning	 MediaMissing 
+中傷	ちゅうしょう	slander, libel, defamation	 MediaMissing 
+中枢	ちゅうすう	center, mainstay, nucleus	 MediaMissing 
+抽選	ちゅうせん	lottery, raffle, drawing (of lots)	 MediaMissing 
+中断	ちゅうだん	interruption, suspension, break	 MediaMissing 
+中毒	ちゅうどく	poisoning	 MediaMissing 
+中腹	ちゅうふく	mountain side, halfway up	 MediaMissing 
+中立	ちゅうりつ	neutrality	 MediaMissing 
+中和	ちゅうわ	neutralize, counteract	 MediaMissing 
+～著	～ちょ	written by ~	 MediaMissing 
+腸	ちょう	bowels, intestines	 MediaMissing 
+蝶	ちょう	butterfly	 MediaMissing 
+超	ちょう	super-, ultra-, hyper-	 MediaMissing 
+調印	ちょういん	signature, sign, sealing	 MediaMissing 
+聴覚	ちょうかく	the sense of hearing	 MediaMissing 
+長官	ちょうかん	chief, (government) secretary	 MediaMissing 
+聴講	ちょうこう	lecture attendance, auditing	 MediaMissing 
+徴収	ちょうしゅう	collection, levy	 MediaMissing 
+聴診器	ちょうしんき	stethoscope	 MediaMissing 
+調停	ちょうてい	arbitration, conciliation, mediation	 MediaMissing 
+重複	ちょうふく	duplication, repetition, overlapping, redundancy, restoration	 MediaMissing 
+長編	ちょうへん	long (e.g., novel, film)	 MediaMissing 
+重宝	ちょうほう	convenient, useful	 MediaMissing 
+調理	ちょうり	cooking	 MediaMissing 
+調和	ちょうわ	harmony	 MediaMissing 
+ちょくちょく	ちょくちょく	often, frequently, now and then, occasionally	 MediaMissing 
+直面	ちょくめん	confrontation	 MediaMissing 
+著書	ちょしょ	literary work, book	 MediaMissing 
+貯蓄	ちょちく	savings	 MediaMissing 
+直感	ちょっかん	intuition, instinct	 MediaMissing 
+著名	ちょめい	well-known, noted, celebrated	 MediaMissing 
+ちらっと	ちらっと	at a glance, by accident	 MediaMissing 
+塵	ちり	dust, dirt	 MediaMissing 
+塵取り	ちりとり	dustpan	 MediaMissing 
+賃金	ちんぎん	wages	 MediaMissing 
+沈殿	ちんでん	precipitation, deposition, settlement	 MediaMissing 
+沈没	ちんぼつ	sinking, foundering	 MediaMissing 
+沈黙	ちんもく	silence, reticence	 MediaMissing 
+陳列	ちんれつ	exhibition, display, show	 MediaMissing 
+追及	ついきゅう	investigation, inquiry	 MediaMissing 
+追跡	ついせき	pursuit	 MediaMissing 
+追放	ついほう	exile, banishment	 MediaMissing 
+費やす	ついやす	to spend, to devote, to waste	 MediaMissing 
+墜落	ついらく	falling, crashing	 MediaMissing 
+痛感	つうかん	feeling keenly, fully realizing	 MediaMissing 
+通常	つうじょう	common, normal, usual	 MediaMissing 
+痛切	つうせつ	keen, deep	 MediaMissing 
+杖	つえ	cane	 MediaMissing 
+使い道	つかいみち	use	 MediaMissing 
+仕える	つかえる	to serve, to work for	 MediaMissing 
+司る	つかさどる	to rule, to govern, to administer	 MediaMissing 
+つかの間	つかのま	moment, brief time,	 MediaMissing 
+月並	つきなみ	conventional, trite, common	 MediaMissing 
+継目	つぎめ	joint, seam	 MediaMissing 
+尽きる	つきる	to be used up, to be run out	 MediaMissing 
+尽くす	つくす	to exhaust, to run out; to devote, to serve	 MediaMissing 
+つくづく	つくづく	completely, really	 MediaMissing 
+作り	つくり	make up, structure, physique	 MediaMissing 
+造り	つくり	make up, structure, physique	 MediaMissing 
+繕う	つくろう	to mend, to repair	 MediaMissing 
+付け加える	つけくわえる	to add one thing to another	 MediaMissing 
+告げる	つげる	to inform	 MediaMissing 
+つじつま (はなしの～)	つじつま (はなしの～)	coherence, consistency	 MediaMissing 
+筒	つつ	pipe, tube	 MediaMissing 
+突く	つつく	to thrust, to strike, to attack; to poke, to nudge, to pick at	 MediaMissing 
+突っ突く	つっつく	to prompt someone	 MediaMissing 
+謹む	つつしむ	to be careful, to be chaste or discreet	 MediaMissing 
+突っ張る	つっぱる	to support, to become stiff; to thrust (ones opponent), to stick to (ones opinion), to insist on	 MediaMissing 
+務まる	つとまる	be equal, be fit	 MediaMissing 
+勤め先	つとめさき	place of work	 MediaMissing 
+努めて	つとめて	make an effort!, work hard!	 MediaMissing 
+津波	つなみ	tsunami, tidal wave	 MediaMissing 
+つねる	つねる	to pinch	 MediaMissing 
+角	つの	horn	 MediaMissing 
+募る	つのる	to invite, to solicit help, participation, etc	 MediaMissing 
+唾	つば	saliva, spit, sputum	 MediaMissing 
+呟く	つぶやく	to mutter, to murmur	 MediaMissing 
+つぶら	つぶら	round, rotund	 MediaMissing 
+つぶる (めを～)	つぶる (めを～)	to close the eyes	 MediaMissing 
+壷	つぼ	jar, pot, vase	 MediaMissing 
+蕾	つぼみ	bud, flower bud	 MediaMissing 
+連なる	つらなる	to extend, to stretch out, to stand in a row	 MediaMissing 
+貫く	つらぬく	to go through	 MediaMissing 
+連ねる	つらねる	to link, to join, to put together	 MediaMissing 
+釣り鐘	つりがね	temple bell (for striking)	 MediaMissing 
+吊り革	つりかわ	strap	 MediaMissing 
+手当	てあて	allowance, compensation; treatment	 MediaMissing 
+定義	ていぎ	definition	 MediaMissing 
+提供	ていきょう	offer, program sponsoring	 MediaMissing 
+提携	ていけい	cooperation, tie-up, joint business	 MediaMissing 
+体裁	ていさい	decency, style, form, appearance	 MediaMissing 
+提示	ていじ	presentation, exhibit, suggest, citation	 MediaMissing 
+ティシュペーパー	ティシュペーパー	tissue	 MediaMissing 
+定食	ていしょく	fixed-price lunch, set meal, dinner	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+訂正	ていせい	correction, revision	 MediaMissing 
+停滞	ていたい	stagnation, tie-up, congestion, retention	 MediaMissing 
+邸宅	ていたく	mansion, residence	 MediaMissing 
+定年	ていねん	retirement age	 MediaMissing 
+堤防	ていぼう	bank, weir	 MediaMissing 
+手遅れ	ておくれ	being (too); belated treatment	 MediaMissing 
+でかい	でかい	huge	 MediaMissing 
+手掛かり	てがかり	hint, clue, key	 MediaMissing 
+手掛ける	てがける	to handle, to manage, to work with	 MediaMissing 
+手数	てかず	trouble, labor, handling	 MediaMissing 
+手軽	てがる	easy, simple, cheap	 MediaMissing 
+適応	てきおう	adaptation, accommodation, conformity	 MediaMissing 
+適宜	てきぎ	suitability	 MediaMissing 
+適性	てきせい	aptitude	 MediaMissing 
+できもの	できもの	boil, rash	 MediaMissing 
+手際	てぎわ	performance, skill, tact	 MediaMissing 
+出くわす	でくわす	to happen to meet, to come across	 MediaMissing 
+手順	てじゅん	process, procedure, protocol	 MediaMissing  Intermediate_Japanese_Ln.12 Intermediate_Japanese
+手錠	てじょう	handcuffs, manacles	 MediaMissing 
+手数	てすう	trouble, labor, handling	 MediaMissing 
+デコレーション	デコレーション	decoration	 MediaMissing 
+手近	てぢか	near, handy, familiar	 MediaMissing 
+てっきり	てっきり	surely, certainly, beyond doubt	 MediaMissing 
+鉄鋼	てっこう	iron and steel	 MediaMissing 
+デッサン	デッサン	rough sketch (FRE: dessin)	 MediaMissing 
+徹する	てっする	to devote oneself, to believe in	 MediaMissing 
+てっぺん	てっぺん	top, summit, apex	 MediaMissing 
+鉄棒	てつぼう	iron rod, crowbar, horizontal bar (gymnastics)	 MediaMissing 
+出直し	でなおし	adjustment, touch up	 MediaMissing 
+掌	てのひら	the palm	 MediaMissing 
+手配	てはい	arrangement, search (by police)	 MediaMissing 
+手筈	てはず	arrangement, plan, program	 MediaMissing 
+手引	てびき	guidance, guide, introduction	 MediaMissing 
+手本	てほん	model, pattern	 MediaMissing 
+手回し	てまわし	preparations, arrangements	 MediaMissing 
+手元	てもと	(money) on hand or at home, one's purse; usual skill	 MediaMissing 
+デモンストレーション	デモンストレーション	demonstration	 MediaMissing 
+照り返す	てりかえす	to reflect, to throw back light	 MediaMissing 
+テレックス	テレックス	telex, teletypewriter exchange	 MediaMissing 
+手分け	てわけ	division of labor	 MediaMissing 
+天	てん	heaven, sky	 MediaMissing 
+田園	でんえん	country, rural districts	 MediaMissing 
+天下	てんか	the world, whole country	 MediaMissing 
+転回	てんかい	revolution, rotation	 MediaMissing 
+転換	てんかん	convert, divert	 MediaMissing 
+転居	てんきょ	moving, changing residence	 MediaMissing 
+転勤	てんきん	transfer (to another office of a company)	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+点検	てんけん	inspection, examination, checking	 MediaMissing 
+電源	でんげん	source of electricity, power (e.g., button on TV)	 MediaMissing 
+天国	てんごく	paradise, heaven, Kingdom of Heaven	 MediaMissing 
+天才	てんさい	a genius	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+天災	てんさい	natural calamity, disaster	 MediaMissing 
+展示	てんじ	exhibition, display	 MediaMissing 
+伝説	でんせつ	tradition, legend, folklore	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+点線	てんせん	dotted line	 MediaMissing 
+転じる	てんじる	to turn, to shift	 MediaMissing 
+転ずる	てんずる	to turn, to shift	 MediaMissing 
+天体	てんたい	heavenly body	 MediaMissing 
+伝達	でんたつ	transmission (e.g., news, communication, delivery)	 MediaMissing 
+天地	てんち	heaven and earth, the universe	 MediaMissing 
+てんで	てんで	(not) at all, altogether, entirely	 MediaMissing 
+転任	てんにん	change of post	 MediaMissing 
+展望	てんぼう	view, outlook, prospect	 MediaMissing 
+伝来	でんらい	ancestral, hereditary, imported	 MediaMissing 
+転落	てんらく	fall, degradation	 MediaMissing 
+問い合わせる	といあわせる	to inquire, to seek information	 MediaMissing 
+当～	とう～	Our ~ (e.g., Hotel, plane, etc.)	 MediaMissing 
+胴	どう	trunk, body, frame	 MediaMissing 
+同意	どうい	agreement, consent; same meaning	 MediaMissing 
+動員	どういん	mobilization	 MediaMissing 
+同感	どうかん	agreement, same opinion, same feeling	 MediaMissing 
+陶器	とうき	pottery, ceramics	 MediaMissing 
+討議	とうぎ	debate, discussion	 MediaMissing 
+動機	どうき	motive, incentive	 MediaMissing 
+等級	とうきゅう	grade, class	 MediaMissing 
+同級	どうきゅう	the same grade, same class	 MediaMissing 
+同居	どうきょ	living together	 MediaMissing 
+登校	とうこう	attendance (at school)	 MediaMissing 
+統合	とうごう	integration, unification, synthesis	 MediaMissing 
+動向	どうこう	trend, tendency, movement, attitude	 MediaMissing 
+投資	とうし	investment	 MediaMissing 
+同情	どうじょう	sympathy, compassion, sympathize	 MediaMissing 
+道場	どうじょう	(arch) dojo, hall used for martial arts training, mandala	 MediaMissing 
+統制	とうせい	regulation, control	 MediaMissing 
+当選	とうせん	being elected, winning the prize	 MediaMissing 
+逃走	とうそう	flight, desertion, escape	 MediaMissing 
+統率	とうそつ	command, generalship, leadership	 MediaMissing 
+到達	とうたつ	reaching, attaining, arrival	 MediaMissing 
+統治	とうち	rule, reign, governing	 MediaMissing 
+同調	どうちょう	sympathy, agree with, alignment	 MediaMissing 
+到底	とうてい	(cannot) possibly	 MediaMissing 
+動的	どうてき	dynamic, kinetic	 MediaMissing 
+尊い	とうとい	precious, valuable, noble	 MediaMissing 
+貴い	とうとい	precious, valuable, noble	 MediaMissing 
+同等	どうとう	equality, equal, same rank	 MediaMissing 
+堂々	どうどう	magnificent, grand, impressive	 MediaMissing 
+尊ぶ	とうとぶ	to value, to prize, to esteem	 MediaMissing 
+どうにか	どうにか	in some way or other, one way or another	 MediaMissing 
+投入	とうにゅう	throw, investment, making (an electrical circuit)	 MediaMissing 
+導入	どうにゅう	introduction, bringing in, leading in	 MediaMissing  Intermediate_Japanese_Ln.12 Intermediate_Japanese
+当人	とうにん	the one concerned, the said person	 MediaMissing 
+同封	どうふう	enclosure (e.g., in a letter)	 MediaMissing 
+逃亡	とうぼう	escape	 MediaMissing 
+冬眠	とうみん	hibernation, winter sleep	 MediaMissing 
+同盟	どうめい	alliance, union, league	 MediaMissing 
+どうやら	どうやら	it seems like, somehow or other	 MediaMissing 
+動力	どうりょく	power, motive power, dynamic force	 MediaMissing 
+登録	とうろく	registration, register, record	 MediaMissing 
+討論	とうろん	discussion; debate	 MediaMissing  Intermediate_Japanese_Ln.15 Intermediate_Japanese
+遠ざかる	とおざかる	to go far off	 MediaMissing 
+遠回り	とおまわり	detour, roundabout way	 MediaMissing 
+トーン	トーン	tone	 MediaMissing 
+とかく	とかく	anyhow, anyway, in any case	 MediaMissing 
+とがめる	とがめる	to blame, to rebuke	 MediaMissing 
+時折	ときおり	sometimes	 MediaMissing 
+とぎれる	とぎれる	to pause, to be interrupted	 MediaMissing 
+研ぐ	とぐ	to sharpen, to grind, to polish	 MediaMissing 
+特技	とくぎ	special talent; skill	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+独裁	どくさい	dictatorship, despotism	 MediaMissing 
+特産	とくさん	specialty, special product	 MediaMissing 
+独自	どくじ	original, peculiar, characteristic	 MediaMissing 
+特集	とくしゅう	feature (e.g., newspaper, special edition, report)	 MediaMissing 
+独占	どくせん	monopoly	 MediaMissing 
+独創	どくそう	originality	 MediaMissing 
+得点	とくてん	score, points made	 MediaMissing 
+特派	とくは	send specially, special envoy	 MediaMissing 
+特有	とくゆう	characteristic (of, peculiar (to))	 MediaMissing 
+とげ (をさす)	とげ (をさす)	thorn	 MediaMissing 
+遂げる	とげる	to accomplish, to achieve, to carry out	 MediaMissing 
+～どころか	～どころか	rather, far from	 MediaMissing 
+年頃	としごろ	age, marriageable age, adolescence	 MediaMissing 
+戸締り	とじまり	closing up, locking the doors	 MediaMissing 
+途上	とじょう	en/in route, half way	 MediaMissing 
+土台	どだい	foundation, base, basis	 MediaMissing 
+途絶える	とだえる	to stop, to cease, to come to an end	 MediaMissing 
+特許	とっきょ	special permission, patent	 MediaMissing 
+特権	とっけん	privilege, special right	 MediaMissing 
+とっさに	とっさに	at once	 MediaMissing 
+突如	とつじょ	suddenly, all of a sudden	 MediaMissing 
+とって	とって	handle, grip, knob	 MediaMissing 
+突破	とっぱ	breaking through, breakthrough, penetration	 MediaMissing 
+土手	どて	embankment, bank	 MediaMissing 
+届	とどけ	report, notification, registration	 MediaMissing 
+滞る	とどこおる	to stagnate, to be delayed	 MediaMissing 
+整える	ととのえる	to put in order, to arrange, to adjust; to get ready, to prepare; to raise money	 MediaMissing 
+止める	とどめる	to end, to stop, to cease, to resign	 MediaMissing 
+唱える	となえる	to recite, to chant, to call upon	 MediaMissing 
+殿様	とのさま	feudal lord	 MediaMissing 
+土俵	どひょう	arena	 MediaMissing 
+扉	とびら	door, opening	 MediaMissing 
+溝	どぶ	ditch, drain, gap	 MediaMissing 
+徒歩	とほ	walking, going on foot	 MediaMissing 
+土木	どぼく	public works	 MediaMissing 
+とぼける	とぼける	to play dumb, to feign ignorance, to play innocent, to have a blank facial expression; to play the fool; to be in one's dotage	 MediaMissing 
+乏しい	とぼしい	meager, scarce, hard up, poor	 MediaMissing 
+富	とみ	wealth, fortune	 MediaMissing 
+富む	とむ	to be rich, to become rich	 MediaMissing 
+共稼ぎ	ともかせぎ	working together, (husband and wife) earning a living together	 MediaMissing 
+伴う	ともなう	to accompany, to bring with	 MediaMissing 
+共働き	ともばたらき	dual income (husband and wife both working)	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+ドライ	ドライ	dry	 MediaMissing 
+ドライクリーニング	ドライクリーニング	dry cleaning	 MediaMissing 
+ドライバー	ドライバー	driver, screwdriver	 MediaMissing 
+ドライブイン	ドライブイン	drive in	 MediaMissing 
+トラブル	トラブル	trouble (sometimes used as a verb)	 MediaMissing 
+トランジスター	トランジスター	transistor	 MediaMissing 
+とりあえず	とりあえず	at once, first of all, for the time being	 MediaMissing 
+取扱	とりあつかい	treatment, handling, management	 MediaMissing 
+取り扱う	とりあつかう	to treat, to handle, to deal in	 MediaMissing 
+鳥居	とりい	Shinto shrine archway	 MediaMissing 
+取り替え	とりかえ	swap, exchange	 MediaMissing 
+取り組む	とりくむ	to tackle, to engage in a bout, to come to grips with	 MediaMissing 
+取締り	とりしまり	control, crackdown, supervision	 MediaMissing 
+取り締まる	とりしまる	to crack down, to control, to supervise	 MediaMissing 
+取り調べる	とりしらべる	to investigate, to examine	 MediaMissing 
+取り立てる	とりたてる	to collect, to extort	 MediaMissing 
+取り次ぐ	とりつぐ	to act as an agent for, to announce (someone), to convey (a message)	 MediaMissing 
+取り付ける	とりつける	to furnish, to install; to get someone's agreement	 MediaMissing 
+取り除く	とりのぞく	to remove, to take away, to set apart	 MediaMissing 
+取引	とりひき	transactions, dealings, business	 MediaMissing 
+取り巻く	とりまく	to surround, to circle, to enclose	 MediaMissing 
+取り混ぜる	とりまぜる	to mix, to put together	 MediaMissing 
+取り戻す	とりもどす	to take back, to regain	 MediaMissing 
+取り寄せる	とりよせる	to order, to send away for	 MediaMissing 
+ドリル	ドリル	drill	 MediaMissing 
+副	とりわけ	especially, above all	 MediaMissing 
+とろける	とろける	melt; to be enchanted with	 MediaMissing 
+鈍感	どんかん	thickheadedness, stolidity	 MediaMissing 
+とんだ	とんだ	terrible, awful, serious, absolutely not	 MediaMissing 
+度忘れ	どわすれ	lapse of memory, forget for a moment	 MediaMissing 
+問屋	とんや	wholesale store	 MediaMissing 
+内閣	ないかく	cabinet, (government)	 MediaMissing 
+乃至	ないし	from...to, between...and, or	 MediaMissing 
+内緒	ないしょ	secrecy, privacy, secret	 MediaMissing 
+内心	ないしん	innermost thoughts, real intention, inmost heart	 MediaMissing 
+内蔵	ないぞう	internal organ; built-in	 MediaMissing 
+ナイター	ナイター	game under lights (e.g., baseball), night game	 MediaMissing 
+内部	ないぶ	interior, inside, internal	 MediaMissing 
+内乱	ないらん	civil war, domestic conflict	 MediaMissing 
+内陸	ないりく	inland	 MediaMissing 
+苗	なえ	rice seedling	 MediaMissing 
+なおさら	なおさら	all the more, still less	 MediaMissing 
+流し	ながし	sink	 MediaMissing 
+長々	ながなが	long, drawn-out, very long	 MediaMissing 
+中程	なかほど	middle, midway	 MediaMissing 
+渚	なぎさ	water's edge, beach, shore	 MediaMissing 
+嘆く	なげく	to sigh, to lament, to grieve	 MediaMissing 
+投げ出す	なげだす	to abandon, to throw out	 MediaMissing 
+仲人	なこうど	go-between, matchmaker	 MediaMissing 
+和やか	なごやか	mild, calm, harmonious	 MediaMissing 
+名残	なごり	remains, traces, memory	 MediaMissing 
+情け	なさけ	sympathy, compassion	 MediaMissing 
+情無い	なさけない	miserable, pitiable, shameful	 MediaMissing 
+情深い	なさけぶかい	tender-hearted, compassionate	 MediaMissing 
+詰る	なじる	to rebuke, to scold, to tell off	 MediaMissing 
+名高い	なだかい	famous, celebrated, well-known	 MediaMissing 
+雪崩	なだれ	avalanche	 MediaMissing 
+懐く	なつく	to become emotionally attached	 MediaMissing 
+名付ける	なづける	to name	 MediaMissing 
+何気ない	なにげない	casual, unconcerned	 MediaMissing 
+なにとぞ	なにとぞ	please, kindly, by all means	 MediaMissing 
+なにより	なにより	most, best	 MediaMissing 
+ナプキン	ナプキン	napkin	 MediaMissing 
+名札	なふだ	name plate, name tag	 MediaMissing 
+生臭い	なまぐさい	smelling of fish or blood, fish or meat	 MediaMissing 
+生温い	なまぬるい	lukewarm, halfhearted	 MediaMissing 
+生身	なまみ	living flesh, flesh and blood, the quick	 MediaMissing 
+鉛	なまり	lead (the metal)	 MediaMissing 
+滑らか	なめらか	smoothness, glassiness	 MediaMissing 
+嘗める	なめる	to lick; to experience; to make fun of	 MediaMissing 
+悩ましい	なやましい	seductive, melancholy, languid	 MediaMissing 
+悩ます	なやます	to bother, to harass, to molest	 MediaMissing 
+悩み	なやみ	trouble(s), worry, distress	 MediaMissing  Genki_Ln.19 Genki
+並びに	ならびに	and	 MediaMissing 
+成り立つ	なりたつ	to consist of; to be practical (logical, feasible, viable), to be concluded, to hold true	 MediaMissing 
+なるたけ	なるたけ	as much as possible, if possible	 MediaMissing 
+慣れ	なれ	practice, experience	 MediaMissing 
+馴々しい	なれなれしい	familiar, make free with	 MediaMissing 
+～なんか	～なんか	in the least ~	 MediaMissing 
+ナンセンス	ナンセンス	nonsense	 MediaMissing 
+何だか	なんだか	a little, somewhat, somehow	 MediaMissing  Intermediate_Japanese Intermediate_Japanese_Ln.11
+なんだかんだ	なんだかんだ	something or other	 MediaMissing 
+なんなり	なんなり	anything, whatever	 MediaMissing 
+荷	に	load, baggage, cargo	 MediaMissing 
+似通う	にかよう	to resemble closely	 MediaMissing 
+にきび	にきび	pimple, acne	 MediaMissing 
+賑わう	にぎわう	to prosper, to flourish, to be crowded with people	 MediaMissing 
+憎しみ	にくしみ	hatred	 MediaMissing 
+肉親	にくしん	blood relationship, blood relative	 MediaMissing 
+肉体	にくたい	the body, the flesh	 MediaMissing 
+逃げ出す	にげだす	to run away, to escape from	 MediaMissing 
+西日	にしび	westering sun	 MediaMissing 
+滲む	にじむ	to run, to blur, to spread	 MediaMissing 
+にせ物	にせもの	imitation, counterfeit	 MediaMissing 
+日夜	にちや	day and night, always	 MediaMissing 
+荷造り	にづくり	packing, baling, crating	 MediaMissing 
+担う	になう	to carry on shoulder, to bear (burden), to shoulder (gun)	 MediaMissing 
+鈍る	にぶる	to become less capable, to grow dull, to become blunt, to weaken	 MediaMissing 
+にも関わらず	にもかかわらず	in spite of, nevertheless	 MediaMissing 
+ニュアンス	ニュアンス	nuance	 MediaMissing 
+ニュー	ニュー	new	 MediaMissing 
+入手	にゅうしゅ	obtaining, coming to hand	 MediaMissing 
+入賞	にゅうしょう	winning a prize or place (in a contest	 MediaMissing 
+入浴	にゅうよく	bathe, bathing	 MediaMissing 
+尿	にょう	urine	 MediaMissing 
+認識	にんしき	recognition, cognizance	 MediaMissing 
+妊娠	にんしん	conception, pregnancy	 MediaMissing 
+任務	にんむ	duty, mission, task	 MediaMissing 
+任命	にんめい	appointment, nomination, ordination	 MediaMissing 
+抜かす	ぬかす	to omit, to leave out	 MediaMissing 
+抜け出す	ぬけだす	to slip out, to sneak away, to excel	 MediaMissing 
+主	ぬし	owner, master, god	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+沼	ぬま	swamp, bog, pond	 MediaMissing 
+音色	ねいろ	tone color, timbre	 MediaMissing 
+値打ち	ねうち	value, worth, price	 MediaMissing 
+ネガ	ネガ	(photographic) negative	 MediaMissing 
+寝かせる	ねかせる	to put to bed, to lay down, to ferment	 MediaMissing 
+ねじまわし	ねじまわし	screwdriver	 MediaMissing 
+捩れる	ねじれる	twist, strain	 MediaMissing 
+妬む	ねたむ	to be jealous, to be envious	 MediaMissing 
+ねだる	ねだる	to nag, to demand	 MediaMissing 
+熱意	ねつい	zeal, enthusiasm	 MediaMissing 
+熱湯	ねっとう	boiling water	 MediaMissing 
+熱量	ねつりょう	calorific value	 MediaMissing 
+粘り	ねばり	stickiness, viscosity	 MediaMissing 
+粘る	ねばる	to be sticky, to be adhesive, to persist, to stick to	 MediaMissing 
+値引き	ねびき	price reduction, discount	 MediaMissing 
+根回し	ねまわし	making necessary arrangements	 MediaMissing 
+眠たい	ねむたい	sleepy	 MediaMissing 
+練る	ねる	to knead, to work over, to polish up	 MediaMissing 
+念	ねん	sense, feeling, desire	 MediaMissing 
+年賀	ねんが	New Year's greetings, New Year's card	 MediaMissing 
+念願	ねんがん	one's heart's desire, earnest petition	 MediaMissing 
+年号	ねんごう	name of an era, year number	 MediaMissing 
+燃焼	ねんしょう	burning, combustion	 MediaMissing 
+年長	ねんちょう	seniority	 MediaMissing 
+燃料	ねんりょう	fuel	 MediaMissing 
+年輪	ねんりん	annual tree ring	 MediaMissing 
+ノイローゼ	ノイローゼ	neurosis (GER: Neurose)	 MediaMissing 
+農耕	のうこう	farming, agriculture	 MediaMissing 
+農場	のうじょう	farm	 MediaMissing 
+農地	のうち	agricultural land	 MediaMissing 
+納入	のうにゅう	payment, supply	 MediaMissing 
+逃す	のがす	to let loose, to set free, to let escape	 MediaMissing 
+逃れる	のがれる	to escape	 MediaMissing 
+軒並	のきなみ	row of houses; uniformly	 MediaMissing 
+望ましい	のぞましい	desirable, hoped for	 MediaMissing 
+乗っ取る	のっとる	to capture, to occupy, to take over	 MediaMissing 
+のどか	のどか	tranquil, calm, quiet	 MediaMissing 
+罵る	ののしる	to speak ill of, to abuse	 MediaMissing 
+延べ	のべ	futures, credit (buying), stretching, total	 MediaMissing 
+飲み込む	のみこむ	to gulp down, to swallow deeply, to understand	 MediaMissing  Intermediate_Japanese_Ln.12 Intermediate_Japanese
+乗り込む	のりこむ	to board, to get into (a car); to march into, to enter	 MediaMissing 
+刃	は	blade, sword	 MediaMissing 
+～派	～は	group, party, section (mil)	 MediaMissing 
+バー	バー	bar	 MediaMissing 
+把握	はあく	grasp, catch, understanding	 MediaMissing 
+パート	パート	part-time job	 MediaMissing  Intermediate_Japanese_Ln.8 Intermediate_Japanese
+廃棄	はいき	disposal, abandon, discarding	 MediaMissing 
+配給	はいきゅう	distribution (e.g., films, rice	 MediaMissing 
+ばい菌	ばいきん	bacteria, germ(s)	 MediaMissing 
+配偶者	はいぐうしゃ	spouse	 MediaMissing 
+拝啓	はいけい	-- a formal greeting used at the beginning of a letter --	Intermediate_Japanese_Ln.4   MediaMissing Intermediate_Japanese
+背景	はいけい	background, scenery, setting	 MediaMissing 
+背後	はいご	back, rear	 MediaMissing 
+廃止	はいし	abolition, repeal	 MediaMissing 
+拝借	はいしゃく	(humble) (polite) borrowing	 MediaMissing 
+排除	はいじょ	exclusion, removal, rejection	 MediaMissing 
+賠償	ばいしょう	reparations, indemnity, compensation	 MediaMissing 
+排水	はいすい	drainage	 MediaMissing 
+敗戦	はいせん	defeat, losing a war	 MediaMissing 
+配置	はいち	arrangement (of resources), disposition	 MediaMissing 
+配布	はいふ	distribution	 MediaMissing 
+配分	はいぶん	distribution, allotment	 MediaMissing 
+敗北	はいぼく	defeat (as a verb it means 'to be defeated')	 MediaMissing 
+倍率	ばいりつ	diameter, magnification	 MediaMissing 
+配慮	はいりょ	consideration, concern, forethought	 MediaMissing 
+配列	はいれつ	arrangement, array (programming)	 MediaMissing 
+破壊	はかい	destruction	 MediaMissing 
+捗る	はかどる	to make progress, to move right ahead (with the work), to advance	 MediaMissing 
+はかない	はかない	short-lived, momentary, ephemeral	 MediaMissing 
+ばかばかしい	ばかばかしい	stupid	 MediaMissing 
+破棄	はき	revocation, annulment, breaking (e.g., treaty)	 MediaMissing 
+剥ぐ	はぐ	to tear off, to peel off, to rip off	 MediaMissing 
+迫害	はくがい	persecution	 MediaMissing 
+薄弱	はくじゃく	feebleness, weakness, weak	 MediaMissing 
+白状	はくじょう	confession	 MediaMissing 
+漠然	ばくぜん	obscure, vague, equivocal	 MediaMissing 
+爆弾	ばくだん	bomb	 MediaMissing 
+爆破	ばくは	blast, explosion, blow up	 MediaMissing 
+暴露	ばくろ	disclosure, exposure, revelation	 MediaMissing 
+励ます	はげます	to encourage, to cheer, to raise (the voice)	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+励む	はげむ	to be zealous, to make an effort	 MediaMissing 
+剥げる	はげる	to come off, to be worn off, to fade, to discolor	 MediaMissing 
+化ける	ばける	to disguise, to take the form of	 MediaMissing 
+派遣	はけん	dispatch, send	 MediaMissing 
+恥	はじ	shame, embarrassment	 MediaMissing 
+弾く	はじく	to play (piano, guitar)	 MediaMissing 
+パジャマ	パジャマ	pajamas	 MediaMissing 
+恥じらう	はじらう	to feel shy, to be bashful, to blush	 MediaMissing 
+恥じる	はじる	to feel ashamed	 MediaMissing 
+橋渡し	はしわたし	bridge building', mediation	 MediaMissing 
+弾む	はずむ	to bounce, to be encouraged, to splurge on	 MediaMissing 
+破損	はそん	damage	 MediaMissing 
+叩く	はたく	to strike, to clap, to dust, to beat	 MediaMissing 
+裸足	はだし	barefoot	 MediaMissing 
+果たす	はたす	to accomplish, to fulfill, to carry out, to achieve	 MediaMissing 
+蜂蜜	はちみつ	honey	 MediaMissing 
+パチンコ	パチンコ	pachinko (Japanese pinball)	 MediaMissing 
+罰	ばつ	punishment, penalty	 MediaMissing 
+発育	はついく	(physical) growth, development	 MediaMissing 
+発芽	はつが	germination	 MediaMissing 
+発掘	はっくつ	excavation, exhumation; discovery (e.g., new talent)	 MediaMissing 
+発言	はつげん	utterance, speech, proposal	 MediaMissing 
+バッジ	バッジ	badge	 MediaMissing 
+発生	はっせい	outbreak, spring forth, occurrence	 MediaMissing 
+バッテリー	バッテリー	battery	 MediaMissing 
+バット	バット	bat, vat	 MediaMissing 
+発病	はつびょう	attack, to become sick	 MediaMissing 
+初耳	はつみみ	something heard for the first time	 MediaMissing 
+果て	はて	the end, the extremity, the limit(s)	 MediaMissing 
+果てる	はてる	to end, to be finished, to be exhausted	 MediaMissing 
+ばてる	ばてる	to be exhausted, to be worn out	 MediaMissing 
+パトカー	パトカー	patrol car	 MediaMissing 
+甚だ	はなはだ	very, greatly, exceedingly	 MediaMissing 
+華々しい	はなばなしい	brilliant, magnificent, spectacular	 MediaMissing 
+花びら	はなびら	(flower) petal	 MediaMissing 
+華やか	はなやか	brilliant, gorgeous, florid	 MediaMissing 
+阻む	はばむ	to keep someone from doing, to stop, to oppose	 MediaMissing 
+浜	はま	beach, seashore	 MediaMissing 
+浜辺	はまべ	beach, foreshore	 MediaMissing 
+はまる	はまる	to get into, to go into, to fit, to be fit for, to suit	 MediaMissing 
+早める	はやめる	to hasten, to quicken, to accelerate	 MediaMissing 
+腹立ち	はらだち	anger	 MediaMissing 
+原っぱ	はらっぱ	open field, empty lot, plain	 MediaMissing 
+はらはら	はらはら	feel nervous	 MediaMissing 
+ばらまく	ばらまく	to disseminate, to scatter	 MediaMissing 
+張り紙	はりがみ	notice, poster	 MediaMissing 
+遥か	はるか	far, far-away, distant	 MediaMissing 
+破裂	はれつ	explosion, rupture, break off	 MediaMissing 
+腫れる	はれる	to swell (from inflammation, to become swollen)	 MediaMissing 
+繁栄	はんえい	prospering, prosperity, flourishing	 MediaMissing 
+版画	はんが	art print	 MediaMissing 
+ハンガー	ハンガー	(coat) hanger	 MediaMissing 
+反感	はんかん	antipathy, revolt, animosity	 MediaMissing 
+反響	はんきょう	echo, reverberation, repercussion	 MediaMissing 
+パンク	パンク	puncture, bursting; punk	 MediaMissing 
+反撃	はんげき	counterattack, counteroffensive, counterblow	 MediaMissing 
+判決	はんけつ	judicial decision, judgment, sentence, decree	 MediaMissing 
+反射	はんしゃ	reflection, reverberation	 MediaMissing 
+繁盛	はんじょう	prosperity, flourishing, thriving	 MediaMissing 
+繁殖	はんしょく	breed, multiply, propagation	 MediaMissing 
+反する	はんする	to be inconsistent with, to oppose, to contradict	 MediaMissing 
+判定	はんてい	judgment, decision, award, verdict	 MediaMissing 
+万人	ばんにん	all people, everybody, 10000 people	 MediaMissing 
+晩年	ばんねん	(one's) last years	 MediaMissing 
+反応	はんのう	reaction, response	 MediaMissing 
+万能	ばんのう	all-purpose, almighty, omnipotent	 MediaMissing 
+半端	はんぱ	fragment, fraction, incompleteness	 MediaMissing 
+反発	はんぱつ	repelling, rebound, oppose	 MediaMissing 
+反乱	はんらん	rebellion, revolt, uprising	 MediaMissing 
+氾濫	はんらん	overflowing, flood	 MediaMissing 
+美	び	beauty	 MediaMissing 
+ひいては	ひいては	not only…but also, in addition to, consequently	 MediaMissing 
+ビールス	ビールス	virus	 MediaMissing 
+控室	ひかえしつ	waiting room	 MediaMissing 
+控える	ひかえる	to hold back; to make notes	 MediaMissing 
+悲観	ひかん	pessimism, disappointment	 MediaMissing 
+引き上げる	ひきあげる	to withdraw, to leave, to pull out	 MediaMissing 
+率いる	ひきいる	to lead, to spearhead (a group), to command (troops)	 MediaMissing 
+引き起こす	ひきおこす	to cause	 MediaMissing 
+引下げる	ひきさげる	to pull down, to lower, to reduce, to withdraw	 MediaMissing 
+引きずる	ひきずる	to drag along, to pull, to prolong	 MediaMissing 
+引取る	ひきとる	to take back; to adopt; to leave	 MediaMissing 
+否決	ひけつ	rejection, negation, voting down	 MediaMissing 
+日頃	ひごろ	normally, habitually	 MediaMissing 
+久しい	ひさしい	long, long-continued, old (story)	 MediaMissing 
+悲惨	ひさん	tragedy, disaster; misery, wretched, pitiful	 MediaMissing 
+ビジネス	ビジネス	business	MediaMissing   Genki_Ln.2 Genki_Ln.1 Genki
+比重	ひじゅう	specific gravity	 MediaMissing 
+美術	びじゅつ	art, fine arts	 MediaMissing 
+秘書	ひしょ	(private) secretary	 MediaMissing 
+微笑	びしょう	smile	 MediaMissing 
+歪む	ひずむ	to warp, to be distorted	 MediaMissing 
+密か	ひそか	secret, private, surreptitious	 MediaMissing 
+浸す	ひたす	to soak, to dip, to drench	 MediaMissing 
+ひたすら	ひたすら	nothing but, earnestly, intently	 MediaMissing 
+左利き	ひだりきき	left-handedness, sake drinker, left-hander	 MediaMissing 
+引っ掻く	ひっかく	to scratch	 MediaMissing 
+必修	ひっしゅう	required (subject)	 MediaMissing 
+びっしょり	びっしょり	wet through, drenched	 MediaMissing 
+必然	ひつぜん	inevitable, necessary	 MediaMissing 
+匹敵	ひってき	comparing with, rival, equal	 MediaMissing 
+一息	ひといき	a breath, a pause, an effort	 MediaMissing 
+人影	ひとかげ	man's shadow, soul	 MediaMissing 
+人柄	ひとがら	personality, character	 MediaMissing 
+人気	ひとけ	sign of life	 MediaMissing 
+一頃	ひところ	once, some time ago	 MediaMissing 
+人質	ひとじち	hostage	 MediaMissing 
+一筋	ひとすじ	a line, earnestly, blindly, straightforwardly	 MediaMissing 
+人目	ひとめ	glimpse, public gaze	 MediaMissing 
+日取り	ひどり	fixed date, appointed day	 MediaMissing 
+雛	ひな	young bird, chick, doll	 MediaMissing 
+雛祭	ひなまつり	Girls' (dolls') Festival	 MediaMissing 
+日向	ひなた	sunny place, in the sun	 MediaMissing 
+非難	ひなん	blame, attack, criticism	 MediaMissing 
+避難	ひなん	taking refuge, finding shelter	 MediaMissing 
+日の丸	ひのまる	the Japanese flag	 MediaMissing 
+火花	ひばな	spark	 MediaMissing 
+ひび (かべの～)	ひび (かべの～)	crack, fissure, flaw	 MediaMissing 
+悲鳴	ひめい	shriek, scream	 MediaMissing 
+冷やかす	ひやかす	to banter, to make fun of, to jeer at, to cool, to refrigerate	 MediaMissing 
+日焼け	ひやけ	sunburn	 MediaMissing 
+標語	ひょうご	motto, slogan, catchword	 MediaMissing 
+描写	びょうしゃ	depiction, description, portrayal	 MediaMissing 
+ひょっと	ひょっと	possibly, accidentally	 MediaMissing 
+びら	びら	handout, leaflet	 MediaMissing 
+平たい	ひらたい	flat, even, level	 MediaMissing 
+びり	びり	last on the list, at the bottom	 MediaMissing 
+比率	ひりつ	ratio, proportion, percentage	 MediaMissing 
+微量	びりょう	minuscule amount, extremely small quantity	 MediaMissing 
+昼飯	ひるめし	lunch (mid-day meal)	 MediaMissing 
+比例	ひれい	proportion	 MediaMissing 
+疲労	ひろう	fatigue, weariness	 MediaMissing 
+敏感	びんかん	sensibility, susceptibility, sensitive (to)	 MediaMissing 
+貧困	ひんこん	poverty, lack	 MediaMissing 
+品質	ひんしつ	quality	 MediaMissing 
+貧弱	ひんじゃく	poor, meager, insubstantial	 MediaMissing 
+品種	ひんしゅ	breed, type, variety	 MediaMissing 
+ヒント	ヒント	hint	 MediaMissing 
+頻繁	ひんぱん	frequency	 MediaMissing 
+貧乏	びんぼう	poverty, destitute, poor	 MediaMissing 
+ファイト	ファイト	fight	 MediaMissing 
+ファイル	ファイル	file; portfolio	 Genki_Ln.16  MediaMissing Genki
+ファン	ファン	fan	 MediaMissing 
+不意	ふい	sudden, abrupt, unexpected	 MediaMissing 
+フィルタ	フィルタ	filter	 MediaMissing 
+封	ふう	seal	 MediaMissing 
+封鎖	ふうさ	blockade, freezing (funds)	 MediaMissing 
+風車	ふうしゃ	windmill	 MediaMissing 
+風習	ふうしゅう	custom	 MediaMissing 
+風俗	ふうぞく	manners, customs; sex industry	 MediaMissing 
+ブーツ	ブーツ	boots	 MediaMissing 
+風土	ふうど	natural features, climate	 MediaMissing 
+ブーム	ブーム	boom	 MediaMissing 
+フォーム	フォーム	foam; form	 MediaMissing 
+部下	ぶか	one's subordinate	MediaMissing  Intermediate_Japanese  Intermediate_Japanese_Ln.9 Genki_Ln.22 Genki
+不可欠	ふかけつ	indispensable, essential	 MediaMissing 
+ぶかぶか	ぶかぶか	too big, baggy	 MediaMissing 
+不吉	ふきつ	ominous, sinister, bad luck, ill omen	 MediaMissing 
+不況	ふきょう	recession, depression, slump	 MediaMissing 
+布巾	ふきん	dish cloth	 MediaMissing 
+複合	ふくごう	composite, complex	 MediaMissing 
+福祉	ふくし	welfare, well-being	 MediaMissing 
+覆面	ふくめん	mask, veil, disguise	 MediaMissing 
+膨れる	ふくれる	to swell (out), to be inflated, to bulge	 MediaMissing 
+不景気	ふけいき	business recession, hard times, depression	 MediaMissing 
+耽る	ふける	to indulge in, to give oneself up to, to be absorbed in	 MediaMissing 
+老ける	ふける	to age	 MediaMissing 
+富豪	ふごう	wealthy person, millionaire	 MediaMissing 
+布告	ふこく	edict, ordinance, proclamation	 MediaMissing 
+ブザー	ブザー	buzzer	 MediaMissing 
+負債	ふさい	debt, liabilities	 MediaMissing 
+不在	ふざい	absence	 MediaMissing 
+ふさわしい	ふさわしい	appropriate	 MediaMissing 
+不順	ふじゅん	irregularity, unseasonableness	 MediaMissing 
+負傷	ふしょう	injury, wound	 MediaMissing 
+侮辱	ぶじょく	insult, contempt, slight	 MediaMissing 
+不審	ふしん	suspicious, doubt, infidelity	 MediaMissing 
+不振	ふしん	dullness, slump, stagnation	 MediaMissing 
+武装	ぶそう	arms, armament, armed	 MediaMissing 
+札	ふだ	token, label; ticket, card; charm, talisman	 MediaMissing 
+負担	ふたん	burden; load	 MediaMissing Intermediate_Japanese_Ln.14  Intermediate_Japanese
+不調	ふちょう	bad condition, disorder, slump	 MediaMissing 
+復活	ふっかつ	revival (e.g., musical), restoration	 MediaMissing 
+物議	ぶつぎ	public discussion (criticism)	 MediaMissing 
+復旧	ふっきゅう	restoration, restitution, rehabilitation	 MediaMissing 
+復興	ふっこう	revival, renaissance, reconstruction	 MediaMissing 
+物資	ぶっし	goods, materials	 MediaMissing 
+仏像	ぶつぞう	Buddhist image (statue)	 MediaMissing 
+物体	ぶったい	object	 MediaMissing 
+沸騰	ふっとう	boiling, seething	 MediaMissing 
+不当	ふとう	injustice, impropriety, unfair	 MediaMissing 
+不動産	ふどうさん	real estate	 MediaMissing 
+無難	ぶなん	safety, security	 MediaMissing 
+赴任	ふにん	(proceeding to) new appointment	 MediaMissing 
+腐敗	ふはい	decay, depravity	 MediaMissing 
+不評	ふひょう	bad reputation, disgrace, unpopularity	 MediaMissing 
+不服	ふふく	dissatisfaction, discontent, disapproval	 MediaMissing 
+普遍	ふへん	universality, ubiquity, omnipresence	 MediaMissing 
+踏まえる	ふまえる	to be based on, to have origin in	 MediaMissing 
+踏み込む	ふみこむ	to step into (someone else's territory, to break into, to raid	 MediaMissing 
+不明	ふめい	unknown, ambiguous	 MediaMissing 
+部門	ぶもん	class, group, category, department, field, branch	 MediaMissing 
+扶養	ふよう	support, maintenance	 MediaMissing 
+ふらふら	ふらふら	unsteady on one's feet, totter, dizzy	 MediaMissing 
+ぶらぶら	ぶらぶら	dangle heavily, sway to and fro, stroll idly	 MediaMissing 
+振り返る	ふりかえる	to turn head, to turn around, to look back	 MediaMissing 
+振り出し	ふりだし	outset, starting point, drawing or issuing (draft)	 MediaMissing 
+不良	ふりょう	badness, delinquent, failure	 MediaMissing 
+浮力	ふりょく	buoyancy	 MediaMissing 
+武力	ぶりょく	armed might, military power, the sword, force	 MediaMissing 
+ブル	ブル	bull	 MediaMissing 
+震わせる	ふるわせる	to be shaking, to be trembling	 MediaMissing 
+無礼	ぶれい	impolite, rude	 MediaMissing 
+付録	ふろく	appendix, supplement	 MediaMissing 
+フロント	フロント	front	 MediaMissing 
+憤慨	ふんがい	indignation, resentment	 MediaMissing 
+文化財	ぶんかざい	cultural assets, cultural property	 MediaMissing 
+分業	ぶんぎょう	division of labor, specialization, assembly-line production	 MediaMissing 
+文語	ぶんご	written language, literary language	 MediaMissing 
+分散	ぶんさん	dispersion, decentralization, variance (statistics)	 MediaMissing 
+分子	ぶんし	numerator, molecule	 MediaMissing 
+紛失	ふんしつ	losing something	 MediaMissing 
+噴出	ふんしゅつ	spewing, gushing, spouting	 MediaMissing 
+文書	ぶんしょ	document, writing	 MediaMissing 
+紛争	ふんそう	dispute, trouble, strife	 MediaMissing 
+ふんだん	ふんだん	plentiful, abundant, lavish	 MediaMissing 
+分担	ぶんたん	apportionment, sharing	 MediaMissing 
+奮闘	ふんとう	hard struggle, strenuous effort	 MediaMissing 
+分配	ぶんぱい	division, sharing	 MediaMissing 
+分母	ぶんぼ	denominator	 MediaMissing 
+粉末	ふんまつ	fine powder	 MediaMissing 
+分離	ぶんり	separation, detachment, segregation	 MediaMissing 
+分裂	ぶんれつ	split, division, break up	 MediaMissing 
+ペア	ペア	pair, pear	 MediaMissing 
+兵器	へいき	arms, weapons, ordinance	 MediaMissing 
+閉口	へいこう	shut mouth	 MediaMissing 
+閉鎖	へいさ	closing, closure, shutdown	 MediaMissing 
+兵士	へいし	soldier	 MediaMissing 
+平常	へいじょう	normal, usual	 MediaMissing 
+平方	へいほう	square (e.g., meter, square)	 MediaMissing 
+並列	へいれつ	arrangement, parallel, abreast	 MediaMissing 
+ベース	ベース	base, bass	 MediaMissing 
+辟易	へきえき	wince, shrink back, succumbing to, being frightened	 MediaMissing 
+ぺこぺこ	ぺこぺこ	fawn, be very hungry	 MediaMissing 
+ベスト	ベスト	best; vest	 MediaMissing 
+ベストセラー	ベストセラー	best-seller	 MediaMissing 
+隔たる	へだたる	to be distant	 MediaMissing 
+縁	へり	edge	 MediaMissing 
+へりくだる	へりくだる	to deprecate oneself and praise the listener	 MediaMissing 
+弁解	べんかい	explanation, justification, excuse	 MediaMissing 
+変革	へんかく	change, reform(the) Reformation	 MediaMissing 
+返還	へんかん	return, restoration	 MediaMissing 
+便宜	べんぎ	convenience, accommodation	 MediaMissing 
+偏見	へんけん	prejudice, narrow view	 MediaMissing 
+弁護	べんご	defense, pleading, advocacy	 MediaMissing 
+返済	へんさい	repayment	 MediaMissing 
+弁償	べんしょう	compensation, reparation, reimbursement	 MediaMissing 
+変遷	へんせん	change, transition, vicissitudes	 MediaMissing 
+返答	へんとう	reply	 MediaMissing 
+変動	へんどう	change, fluctuation	 MediaMissing 
+弁論	べんろん	discussion, debate, argument	 MediaMissing 
+穂	ほ	ear (of plant), head (of plant)	 MediaMissing 
+保育	ほいく	nursing, nurturing, rearing	 MediaMissing 
+ボイコット	ボイコット	boycott	 MediaMissing 
+ポイント	ポイント	point	 MediaMissing 
+法案	ほうあん	bill (law)	 MediaMissing 
+防衛	ぼうえい	defense, protection, self-defense	 MediaMissing 
+防火	ぼうか	fire prevention, fire fighting, fire proof	 MediaMissing 
+崩壊	ほうかい	collapse, decay (physics), crumbling	 MediaMissing 
+妨害	ぼうがい	disturbance, obstruction, interference	 MediaMissing 
+法学	ほうがく	law, jurisprudence	 MediaMissing 
+封建	ほうけん	feudalistic	 MediaMissing 
+豊作	ほうさく	abundant harvest, bumper crop	 MediaMissing 
+方策	ほうさく	plan, policy	 MediaMissing 
+奉仕	ほうし	attendance, service	 MediaMissing 
+方式	ほうしき	form, method, system	 MediaMissing 
+放射	ほうしゃ	radiation, emission	 MediaMissing 
+放射能	ほうしゃのう	radioactivity	 MediaMissing 
+報酬	ほうしゅう	remuneration, recompense, reward	 MediaMissing 
+放出	ほうしゅつ	release, emit	 MediaMissing 
+報じる	ほうじる	to inform, to report	 MediaMissing 
+報ずる	ほうずる	to inform, to report	 MediaMissing 
+紡績	ぼうせき	spinning	 MediaMissing 
+呆然	ぼうぜん	dumbfounded, overcome with surprise	 MediaMissing 
+放置	ほうち	leave as is, leave alone, neglect	 MediaMissing 
+膨張	ぼうちょう	expansion, swelling, increase	 MediaMissing 
+法廷	ほうてい	courtroom	 MediaMissing 
+報道	ほうどう	coverage, report	 MediaMissing 
+冒頭	ぼうとう	beginning, start, outset	 MediaMissing 
+暴動	ぼうどう	insurrection, riot, uprising	 MediaMissing 
+褒美	ほうび	reward, prize	 MediaMissing 
+暴風	ぼうふう	storm, windstorm, gale	 MediaMissing 
+葬る	ほうむる	to bury, to entomb	 MediaMissing 
+放り込む	ほうりこむ	to throw into	 MediaMissing 
+放り出す	ほうりだす	to throw out, to give up, to abandon	 MediaMissing 
+暴力	ぼうりょく	violence	 MediaMissing 
+飽和	ほうわ	saturation	 MediaMissing 
+ホース	ホース	hose	 MediaMissing 
+ポーズ	ポーズ	pause	 MediaMissing 
+ホール	ホール	hall; hole	 MediaMissing 
+保温	ほおん	retaining warmth, keeping heat in, heat insulation	 MediaMissing 
+捕獲	ほかく	capture, seizure	 MediaMissing 
+保管	ほかん	custody, safekeeping, storage	 MediaMissing 
+補給	ほきゅう	supply, supplying, replenishment	 MediaMissing 
+補強	ほきょう	reinforcement	 MediaMissing 
+募金	ぼきん	fund-raising, collection of funds	 MediaMissing 
+牧師	ぼくし	pastor, minister, clergyman	 MediaMissing 
+捕鯨	ほげい	whaling	 MediaMissing 
+惚ける	ぼける	to grow senile, to fade	 MediaMissing 
+保険	ほけん	insurance, guarantee	 MediaMissing 
+母校	ぼこう	alma mater	 MediaMissing 
+母国	ぼこく	one's home country (same as 自分の国 (じぶんのくに))	 MediaMissing  Intermediate_Japanese_Ln.15 Intermediate_Japanese
+誇る	ほこる	to boast of, to be proud of	 MediaMissing 
+綻びる	ほころびる	to come apart at the seams, to smile broadly	 MediaMissing 
+干し～	ほし～	dried ~	 MediaMissing 
+ポジション	ポジション	position	 MediaMissing 
+干し物	ほしもの	dried washing (clothes	 MediaMissing 
+保守	ほしゅ	conservative, maintaining	 MediaMissing 
+補充	ほじゅう	supplementation, replenishment, replenishing	 MediaMissing 
+補助	ほじょ	assistance, support, auxiliary	 MediaMissing 
+舗装	ほそう	pavement, road surface	 MediaMissing 
+補足	ほそく	supplement, complement	 MediaMissing 
+墓地	ぼち	cemetery, graveyard	 MediaMissing 
+発作	ほっさ	fit, attack	 MediaMissing 
+没収	ぼっしゅう	forfeited	 MediaMissing 
+発足	ほっそく	starting, inauguration	 MediaMissing 
+ポット	ポット	pot	 MediaMissing 
+ほっぺた	ほっぺた	cheek	 MediaMissing 
+ぼつぼつ	ぼつぼつ	gradually, here and there, spots	 MediaMissing 
+没落	ぼつらく	ruin, fall, collapse	 MediaMissing 
+解ける	ほどける	to come untied, to come apart	 MediaMissing 
+施す	ほどこす	to give, to conduct, to perform	 MediaMissing 
+ほとり	ほとり	vicinity of lake; river	 MediaMissing 
+ぼやく	ぼやく	to grumble, to complain	 MediaMissing 
+ぼやける	ぼやける	to become dim, to become blurred	 MediaMissing 
+保養	ほよう	health preservation, recuperation, recreation	 MediaMissing 
+捕虜	ほりょ	prisoner of war	 MediaMissing 
+ボルト	ボルト	volt; bolt	 MediaMissing 
+滅びる	ほろびる	to be ruined, to perish, to be destroyed	 MediaMissing 
+滅ぼす	ほろぼす	to destroy, to overthrow, to ruin	 MediaMissing 
+本格	ほんかく	propriety, full-scale	 MediaMissing 
+本館	ほんかん	main building	 MediaMissing 
+本気	ほんき	seriousness, truth, sanctity	 MediaMissing 
+本国	ほんごく	one's own country	 MediaMissing 
+本質	ほんしつ	essence, true nature, reality	 MediaMissing 
+本体	ほんたい	substance, body, trunk	 MediaMissing 
+本音	ほんね	(one's) real intention, motive	 MediaMissing  Intermediate_Japanese_Ln.15 Intermediate_Japanese
+本能	ほんのう	instinct	 MediaMissing 
+本場	ほんば	home, best place, genuine	 MediaMissing 
+ポンプ	ポンプ	pump	 MediaMissing 
+本文	ほんぶん	text (of document), body (of letter)	 MediaMissing 
+本名	ほんみょう	real name	 MediaMissing 
+マーク	マーク	mark	 MediaMissing 
+マイ～	マイ～	my ~, one's own ~	 MediaMissing 
+マイクロフォン	マイクロフォン	microphone	 MediaMissing 
+埋蔵	まいぞう	buried property, treasure trove	 MediaMissing 
+舞う	まう	to dance, to flutter about, to revolve	 MediaMissing 
+真上	まうえ	just above, right overhead	 MediaMissing 
+前売	まえうり	advance sale, booking	 MediaMissing 
+前置き	まえおき	preface, introduction	 MediaMissing 
+任す	まかす	to entrust, to leave to a person	 MediaMissing 
+負かす	まかす	to defeat	 MediaMissing 
+賄う	まかなう	to give board to, to provide meals, to pay	 MediaMissing 
+紛らわしい	まぎらわしい	confusing, misleading, ambiguous	 MediaMissing 
+紛れる	まぎれる	to be diverted, to slip into	 MediaMissing 
+真心	まごころ	sincerity, devotion	 MediaMissing 
+まごつく	まごつく	to be confused, to be flustered	 MediaMissing 
+誠	まこと	truth, faith, fidelity	 MediaMissing 
+誠に	まことに	indeed, really (very polite), absolutely	 MediaMissing  Genki_Ln.20 Genki
+まさしく	まさしく	surely, no doubt, evidently	 MediaMissing 
+勝る	まさる	to excel, to surpass, to out-rival	 MediaMissing 
+～増し	～増し	~increase	 MediaMissing 
+交える	まじえる	to mix, to converse with, to cross (swords)	 MediaMissing 
+真下	ました	right under, directly below	 MediaMissing 
+まして	まして	still more, still less (with neg. verb), to say nothing of	 MediaMissing 
+交わる	まじわる	to cross, to intersect, to mingle with,	 MediaMissing 
+麻酔	ますい	anesthesia	 MediaMissing 
+またがる (うまを～)	またがる (うまを～)	to straddle	 MediaMissing 
+待ち合わせ	まちあわせ	appointment	 MediaMissing 
+待ち遠しい	まちどおしい	looking forward to	 MediaMissing 
+待ち望む	まちのぞむ	to look anxiously for, to wait eagerly for	 MediaMissing 
+まちまち	まちまち	various, different	 MediaMissing 
+末期	まっき	deathbed, hour of death	 MediaMissing 
+真っ二つ	まっぷたつ	in two equal parts	 MediaMissing 
+まと	まと	mark, target	 MediaMissing 
+纏まり	まとまり	conclusion, settlement, consistency	 MediaMissing 
+纏め	まとめ	settlement, conclusion	 MediaMissing 
+免れる	まぬがれる	to escape from, to be exempted	 MediaMissing 
+招き	まねき	invitation	 MediaMissing 
+瞬き	まばたき	wink, twinkling (of stars), flicker (of light)	 MediaMissing 
+麻痺	まひ	paralysis, palsy, numbness	 MediaMissing 
+～まみれ	～まみれ	covered with (by, in) ~	 MediaMissing 
+眉	まゆ	eyebrow	 MediaMissing 
+鞠	まり	ball	 MediaMissing 
+丸ごと	まるごと	in its entirety, whole, wholly	 MediaMissing 
+まるっきり	まるっきり	completely, perfectly, just as if	 MediaMissing 
+丸々	まるまる	completely	 MediaMissing 
+丸める	まるめる	to make round, to round off, to roll up	 MediaMissing 
+満月	まんげつ	full moon	 MediaMissing 
+満場	まんじょう	unanimous, whole audience	 MediaMissing 
+真ん前	まんまえ	right in front, under the nose	 MediaMissing 
+真ん丸い	まんまるい	perfectly circular	 MediaMissing 
+真ん円い	まんまるい	perfectly round	 MediaMissing 
+～味	～み	~ cast (sense of taste)	 MediaMissing 
+見合い	みあい	formal marriage interview	 MediaMissing 
+見合わせる	みあわせる	to exchange glances; to postpone	 MediaMissing 
+見落とす	みおとす	to overlook, to fail to notice	 MediaMissing 
+未開	みかい	savage land, backward region, uncivilized	 MediaMissing 
+味覚	みかく	taste, palate, sense of taste	 MediaMissing 
+幹	みき	(tree) trunk	 MediaMissing 
+見苦しい	みぐるしい	unsightly, ugly	 MediaMissing 
+見込み	みこみ	prospects, expectation, hope	 MediaMissing 
+未婚	みこん	unmarried	 MediaMissing 
+未熟	みじゅく	inexperience, unskilled, immature	 MediaMissing 
+微塵	みじん	particle, atom	 MediaMissing 
+水気	みずけ	moisture, dampness	 MediaMissing 
+ミスプリント	ミスプリント	misprint	 MediaMissing 
+みすぼらしい	みすぼらしい	shabby, seedy	 MediaMissing 
+ミセス	ミセス	Mrs.	 MediaMissing 
+見せびらかす	みせびらかす	to show off, to flaunt	 MediaMissing 
+見せ物	みせもの	show, exhibition	 MediaMissing 
+溝	みぞ	ditch, drain, gutter, gap	 MediaMissing 
+満たす	みたす	to satisfy, to ingratiate, to fill, to fulfill	 MediaMissing 
+乱す	みだす	to throw out of order, to disarrange, to disturb	 MediaMissing 
+乱れる	みだれる	to get confused, to be disordered, to be disturbed	 MediaMissing 
+未知	みち	not yet known	 MediaMissing 
+身近	みぢか	near oneself, close to one, familiar	 MediaMissing 
+導く	みちびく	to be guided, to be shown	 MediaMissing 
+密集	みっしゅう	crowd, close formation, dense	 MediaMissing 
+密接	みっせつ	connected, close, intimate	 MediaMissing 
+密度	みつど	density	 MediaMissing 
+見積もり	みつもり	estimation, quotation	 MediaMissing 
+未定	みてい	not yet fixed, undecided, pending	 MediaMissing 
+見通し	みとおし	perspective, unobstructed view, prospect	 MediaMissing 
+見なす	みなす	to consider as, to regard	 MediaMissing 
+源	みなもと	source, origin	 MediaMissing 
+見習う	みならう	to follow another's example	 MediaMissing 
+身なり	みなり	personal appearance	 MediaMissing 
+峰	みね	peak, ridge	 MediaMissing 
+身の上	みのうえ	one's future, one's welfare, one's personal history	 MediaMissing 
+見逃す	みのがす	to miss, to overlook, to leave at large	 MediaMissing 
+身の回り	みのまわり	one's personal appearance, personal belongings	 MediaMissing 
+見計らう	みはからう	to choose at one's own discretion	 MediaMissing 
+見晴らし	みはらし	view	 MediaMissing 
+身振り	みぶり	gesture	 MediaMissing  Intermediate_Japanese Intermediate_Japanese_Ln.11
+脈	みゃく	pulse	 MediaMissing 
+ミュージック	ミュージック	music	 MediaMissing 
+未練	みれん	lingering affection, attachment, regret(s)	 MediaMissing 
+見渡す	みわたす	to look out over, to survey (scene), to take an extensive view of	 MediaMissing 
+民宿	みんしゅく	private house providing lodging and meals to tourists	 MediaMissing  Intermediate_Japanese_Ln.10 Intermediate_Japanese
+民族	みんぞく	people, race	 MediaMissing 
+民俗	みんぞく	folk customs	 MediaMissing 
+無意味	むいみ	nonsense, no meaning	 MediaMissing 
+ムード	ムード	mood	 MediaMissing 
+無口	むくち	reticence	 MediaMissing 
+婿	むこ	son-in-law	 MediaMissing 
+無効	むこう	invalid, no effect, unavailable	 MediaMissing 
+無言	むごん	silence	 MediaMissing 
+無邪気	むじゃき	innocence, simple-mindedness	 MediaMissing 
+むしる	むしる	to pluck, to pick, to tear	 MediaMissing 
+結び	むすび	ending, conclusion, union	 MediaMissing 
+結び付き	むすびつき	connection, relation	 MediaMissing 
+結び付く	むすびつく	to be connected or related, to join together	 MediaMissing 
+結び付ける	むすびつける	to combine, to join, to tie on, to attach with a knot	 MediaMissing 
+無線	むせん	wireless, radio	 MediaMissing 
+無駄遣い	むだづかい	waste money on, squander money on	 MediaMissing  Genki_Ln.22 Genki
+無断	むだん	without permission, without notice	 MediaMissing 
+無知	むち	ignorance	 MediaMissing 
+無茶	むちゃ	absurd, unreasonable	 MediaMissing  Intermediate_Japanese_Ln.12 Intermediate_Japanese
+無茶苦茶	むちゃくちゃ	confused, jumbled, mixed up, unreasonable	 MediaMissing 
+空しい	むなしい	vacant, futile, vain	 MediaMissing 
+無念	むねん	chagrin, regret	 MediaMissing 
+無能	むのう	inefficiency, incompetence	 MediaMissing 
+無闇に	むやみに	unreasonably, absurdly, at random	 MediaMissing 
+無用	むよう	useless, needlessness, unnecessariness	 MediaMissing 
+斑	むら	unevenness, inconsistency, irregularity	 MediaMissing 
+群がる	むらがる	to swarm, to gather	 MediaMissing 
+無論	むろん	of course, naturally	 MediaMissing 
+名産	めいさん	noted product	 MediaMissing 
+名称	めいしょう	name	 MediaMissing 
+命中	めいちゅう	a hit	 MediaMissing 
+明白	めいはく	obvious, clear	 MediaMissing 
+名簿	めいぼ	register of names	 MediaMissing 
+名誉	めいよ	honor, credit, prestige	 MediaMissing 
+明瞭	めいりょう	clarity	 MediaMissing 
+明朗	めいろう	bright, clear, cheerful	 MediaMissing 
+メーカー	メーカー	manufacturer	 MediaMissing 
+目方	めかた	weight	 MediaMissing 
+恵み	めぐみ	blessing	 MediaMissing 
+恵む	めぐむ	to bless, to show mercy to	 MediaMissing 
+目覚しい	めざましい	brilliant, remarkable	 MediaMissing 
+目覚める	めざめる	to wake up	 MediaMissing 
+召す	めす	to call, to send for, to put on	 MediaMissing 
+雌	めす	female (animal)	 MediaMissing 
+目付き	めつき	look, expression of the eyes, eyes	 MediaMissing 
+滅亡	めつぼう	downfall, collapse, destruction	 MediaMissing 
+メディア	メディア	media	 MediaMissing 
+目途	めど	goal, outlook	 MediaMissing 
+目盛	めもり	scale, gradations	 MediaMissing 
+メロディー	メロディー	melody	 MediaMissing 
+面会	めんかい	interview	 MediaMissing 
+免除	めんじょ	exemption, exoneration, discharge	 MediaMissing 
+面する	めんする	to face on, to look out on to	 MediaMissing 
+面目	めんぼく	face, honor, reputation	 MediaMissing 
+面目	めんもく	face, honor, reputation	 MediaMissing 
+～網	～もう	~ network	 MediaMissing 
+設ける	もうける	to create, to establish	 MediaMissing 
+申し入れる	もうしいれる	to propose, to suggest	 MediaMissing 
+申込	もうしこみ	application, request, proposal	 MediaMissing 
+申出	もうしで	request, claim, report	 MediaMissing 
+申し出る	もうしでる	to report to, to tell, to suggest	 MediaMissing 
+申し分	もうしぶん	objection, shortcomings	 MediaMissing 
+盲点	もうてん	blind spot	 MediaMissing 
+猛烈	もうれつ	violent, vehement, rage	 MediaMissing 
+モーテル	モーテル	motel	 MediaMissing 
+もがく	もがく	to struggle, to wriggle, to be impatient	 MediaMissing 
+目録	もくろく	catalogue, catalog, list	 MediaMissing 
+目論見	もくろみ	a plan, a scheme, intention	 MediaMissing 
+模型	もけい	model, dummy, marquette	 MediaMissing 
+模索	もさく	groping (for)	 MediaMissing 
+もしかして	もしかして	perhaps, possibly	 MediaMissing 
+もしくは	もしくは	or, otherwise	 MediaMissing 
+もたらす	もたらす	to bring, to take, to bring about	 MediaMissing 
+持ち切り	もちきり	hot topic, talk of the town	 MediaMissing 
+目下	もっか	at present, now	 MediaMissing 
+専ら	もっぱら	wholly, solely, entirely	 MediaMissing 
+もてなす	もてなす	to entertain, to make welcome	 MediaMissing 
+もてる	もてる	to be well liked, to be popular	 MediaMissing 
+モニター	モニター	(computer) monitor	 MediaMissing 
+物好き	ものずき	(idle) curiosity	 MediaMissing 
+物足りない	ものたりない	unsatisfied, unsatisfactory	 MediaMissing 
+もはや	もはや	already, now	 MediaMissing 
+模範	もはん	model, example	 MediaMissing 
+模倣	もほう	imitation, copying	 MediaMissing 
+もめる	もめる	to disagree, to dispute	 MediaMissing 
+股	もも	thigh, femur	 MediaMissing 
+腿	もも	thigh, femur	 MediaMissing 
+催す	もよおす	to hold (a meeting), to give (a dinner)	 MediaMissing 
+漏らす	もらす	to let leak, to reveal	 MediaMissing 
+盛り上がる	もりあがる	to rouse, to swell, to rise	 MediaMissing 
+漏る	もる	to leak, to run out	 MediaMissing 
+漏れる	もれる	to leak out, to escape, to filter out	 MediaMissing 
+脆い	もろい	brittle, fragile, tender-hearted	 MediaMissing 
+もろに	もろに	completely, altogether, bodily	 MediaMissing 
+矢	や	arrow	 MediaMissing 
+野外	やがい	fields, outskirts, open air, suburbs	 MediaMissing 
+～薬	～やく	medicine	 MediaMissing 
+夜具	やぐ	bedding	 MediaMissing 
+役職	やくしょく	post, managerial position, official position	 MediaMissing 
+役場	やくば	town hall	 MediaMissing 
+やけに	やけに	sure, very	 MediaMissing 
+屋敷	やしき	mansion	 MediaMissing 
+養う	やしなう	to rear, to maintain, to cultivate	 MediaMissing 
+野心	やしん	ambition, aspiration	 MediaMissing 
+安っぽい	やすっぽい	cheap-looking, tawdry	 MediaMissing 
+休める	やすめる	to rest, to suspend, to give relief	 MediaMissing 
+野生	やせい	wild	 MediaMissing 
+奴	やつ	(vulg.) fellow, guy, chap	 MediaMissing 
+闇	やみ	darkness, shady, illegal	 MediaMissing 
+病む	やむ	to fall ill, to be ill	 MediaMissing 
+ややこしい	ややこしい	puzzling, tangled, complicated, complex	 MediaMissing 
+やりとおす	やりとおす	to carry through, to achieve, to complete	 MediaMissing 
+やりとげる	やりとげる	to accomplish	 MediaMissing 
+和らげる	やわらげる	to soften, to moderate, to relieve	 MediaMissing 
+ヤング	ヤング	young	 MediaMissing 
+～油	～ゆ	~ oil	 MediaMissing 
+優位	ゆうい	predominance, ascendancy, superiority	 MediaMissing 
+憂鬱	ゆううつ	depression, melancholy	 MediaMissing 
+有益	ゆうえき	beneficial, profitable	 MediaMissing 
+優越	ゆうえつ	supremacy, predominance, being superior to	 MediaMissing 
+勇敢	ゆうかん	bravery, heroism, gallantry	 MediaMissing 
+夕暮れ	ゆうぐれ	evening, (evening) twilight	 MediaMissing 
+融資	ゆうし	financing, loan	 MediaMissing 
+有する	ゆうする	to own, to be endowed with	 MediaMissing 
+優勢	ゆうせい	superiority, superior power, predominance	 MediaMissing 
+優先	ゆうせん	preference, priority	 MediaMissing 
+誘導	ゆうどう	guidance, leading, inducement	 MediaMissing 
+融通	ゆうずう	adaptability, versatility, finance	 MediaMissing 
+優美	ゆうび	grace, refinement, elegance	 MediaMissing 
+有望	ゆうぼう	good prospects, full of hope, promising	 MediaMissing 
+遊牧	ゆうぼく	nomadism	 MediaMissing 
+夕焼け	ゆうやけ	sunset	 MediaMissing 
+有力	ゆうりょく	influence, prominence; potent	 MediaMissing 
+幽霊	ゆうれい	ghost, specter, phantom	 MediaMissing 
+誘惑	ゆうわく	temptation, allurement, lure	 MediaMissing 
+故	ゆえ	reason, cause, circumstances	 MediaMissing 
+歪む	ゆがむ	to warp, to be crooked, to be distorted	 MediaMissing 
+揺さぶる	ゆさぶる	to shake, to jolt, to rock, to swing	 MediaMissing 
+濯ぐ	ゆすぐ	to rinse, to wash out	 MediaMissing 
+ゆとり	ゆとり	reserve, affluence, time (to spare)	 MediaMissing 
+ユニーク	ユニーク	unique	 MediaMissing 
+ユニフォーム	ユニフォーム	uniform	 MediaMissing 
+指差す	ゆびさす	to point at	 MediaMissing 
+弓	ゆみ	bow	 MediaMissing 
+揺らぐ	ゆらぐ	to swing, to sway, to shake	 MediaMissing 
+緩む	ゆるむ	to become loose, to slacken	 MediaMissing 
+緩める	ゆるめる	to loosen, to slow down	 MediaMissing 
+緩やか	ゆるやか	lenient	 MediaMissing 
+要因	よういん	primary factor, main cause	 MediaMissing 
+溶液	ようえき	solution	 MediaMissing 
+用件	ようけん	business	 MediaMissing 
+養護	ようご	protection, nursing, protective care	 MediaMissing 
+用紙	ようし	a form	 MediaMissing  Intermediate_Japanese Intermediate_Japanese_Ln.3
+様式	ようしき	style, form, pattern	 MediaMissing 
+要する	ようする	to demand, to require, to take	 MediaMissing 
+要請	ようせい	claim, demand, request, application	 MediaMissing 
+様相	ようそう	aspect	 MediaMissing 
+用品	ようひん	articles, supplies, parts	 MediaMissing 
+洋風	ようふう	western style	 MediaMissing 
+用法	ようほう	directions, rules of use	 MediaMissing 
+要望	ようぼう	demand for, request	 MediaMissing 
+余暇	よか	leisure, leisure time, spare time	 MediaMissing 
+予感	よかん	presentiment, premonition	 MediaMissing 
+余興	よきょう	side show, entertainment	 MediaMissing 
+預金	よきん	deposit, bank account	 MediaMissing 
+欲	よく	greed, wants	 MediaMissing 
+抑圧	よくあつ	restraint, oppression, suppression	 MediaMissing 
+浴室	よくしつ	bathroom, bath	 MediaMissing 
+抑制	よくせい	control, restraint, suppression	 MediaMissing 
+欲深い	よくふかい	greedy	 MediaMissing 
+欲望	よくぼう	desire, appetite	 MediaMissing  Intermediate_Japanese_Ln.13 Intermediate_Japanese
+避ける	よける	to avoid (physical contact with; to ward off, to avert	 MediaMissing 
+予言	よげん	prediction, promise, prognostication	 MediaMissing 
+横綱	よこづな	sumo grand champion	 MediaMissing 
+汚れ	よごれ	dirt, filth	 MediaMissing 
+よし (かん)	よし (かん)	all right!	 MediaMissing 
+良し	よし	all right!	 MediaMissing 
+善し悪し	よしあし	good or bad, merits or demerits, quality	 MediaMissing 
+余所見	よそみ	looking away, looking aside	 MediaMissing 
+余地	よち	place, room, margin	 MediaMissing 
+よって (よりどころ)	よって (よりどころ)	therefore, consequently	 MediaMissing 
+与党	よとう	government party, (ruling) party in power, government	 MediaMissing 
+呼び止める	よびとめる	to flag down	 MediaMissing Intermediate_Japanese_Ln.6  Intermediate_Japanese
+夜更し	よふかし	staying up late, keeping late hours	 MediaMissing 
+夜更け	よふけ	late at night	 MediaMissing 
+余程	よほど	very, much, to a large extent, quite	 MediaMissing 
+読み上げる	よみあげる	to read out loud (and clearly), to call a roll	 MediaMissing 
+～寄り	～より	near to ~ (e.g., North by East)	 MediaMissing 
+寄り掛かる	よりかかる	to lean against, to recline on, to lean on, to rely on	 MediaMissing 
+世論	よろん	public opinion	 MediaMissing 
+弱る	よわる	to weaken, to be troubled, to be emaciated	 MediaMissing 
+来場	らいじょう	attendance	 MediaMissing 
+ライス	ライス	rice	 MediaMissing 
+酪農	らくのう	dairy farming	 MediaMissing 
+落下	らっか	fall, drop, come down	 MediaMissing 
+楽観	らっかん	optimism	 MediaMissing 
+ランプ	ランプ	lamp; ramp	 MediaMissing 
+濫用	らんよう	abuse, misuse, using to excess	 MediaMissing 
+リード	リード	lead; reed	 MediaMissing 
+理屈	りくつ	theory, reason	 MediaMissing 
+利子	りし	interest (bank)	 MediaMissing 
+利潤	りじゅん	profit, returns	 MediaMissing 
+理性	りせい	reason, sense	 MediaMissing 
+利息	りそく	interest (bank)	 MediaMissing 
+立体	りったい	solid body	 MediaMissing 
+立方	りっぽう	cube	 MediaMissing 
+立法	りっぽう	legislation, lawmaking	 MediaMissing 
+利点	りてん	advantage, point in favor	 MediaMissing 
+略奪	りゃくだつ	pillage, looting, robbery	 MediaMissing 
+略語	りゃくご	abbreviation, acronym	 MediaMissing 
+流通	りゅうつう	circulation of money or goods, distribution	 MediaMissing 
+領域	りょういき	area, territory, region	 MediaMissing 
+了解	りょうかい	comprehension, consent, understanding	 MediaMissing 
+領海	りょうかい	territorial waters	 MediaMissing 
+両極	りょうきょく	both extremities, north and south poles	 MediaMissing 
+良好	りょうこう	favorable, satisfactory	 MediaMissing 
+良識	りょうしき	good sense	 MediaMissing 
+良質	りょうしつ	good quality, superior quality	 MediaMissing 
+了承	りょうしょう	acknowledgment, understanding	 MediaMissing 
+良心	りょうしん	conscience	 MediaMissing 
+領地	りょうち	territory	 MediaMissing 
+領土	りょうど	territory, possession	 MediaMissing 
+両立	りょうりつ	compatibility, coexistence, standing together	 MediaMissing 
+旅客	りょかく	passenger	 MediaMissing 
+旅券	りょけん	passport	 MediaMissing 
+履歴	りれき	personal history, background, log	 MediaMissing 
+理論	りろん	theory	 MediaMissing 
+林業	りんぎょう	forestry	 MediaMissing 
+類	るい	kind, class, family	 MediaMissing 
+類推	るいすい	analogy	 MediaMissing 
+類似	るいじ	analogous	 MediaMissing 
+ルーズ	ルーズ	loose	 MediaMissing 
+冷酷	れいこく	cruelty, coldheartedness, ruthless	 MediaMissing 
+冷蔵	れいぞう	refrigeration	 MediaMissing 
+冷淡	れいたん	coolness, indifference	 MediaMissing 
+レース	レース	race; lace	 MediaMissing 
+レギュラー	レギュラー	regular	 MediaMissing 
+レッスン	レッスン	lesson	 MediaMissing 
+レディー	レディー	lady	 MediaMissing 
+レバー	レバー	lever; liver	 MediaMissing 
+恋愛	れんあい	love, romance	 MediaMissing 
+連休	れんきゅう	consecutive holidays	 MediaMissing 
+レンジ	レンジ	range, stove	 MediaMissing 
+連日	れんじつ	every day	 MediaMissing 
+連帯	れんたい	solidarity	 MediaMissing 
+レンタカー	レンタカー	rented car	 MediaMissing 
+連中	れんちゅう	colleagues, company, a lot	 MediaMissing 
+レントゲン	レントゲン	X-ray (lit: Roentgen)	 MediaMissing 
+連邦	れんぽう	commonwealth, federation of states	 MediaMissing 
+連盟	れんめい	league, union, alliance	 MediaMissing 
+老衰	ろうすい	senility, senile decay	 MediaMissing 
+朗読	ろうどく	reading aloud, recitation	 MediaMissing 
+浪費	ろうひ	waste, extravagance	 MediaMissing 
+労力	ろうりょく	labor, effort, trouble	 MediaMissing 
+ロープウエイ	ロープウエイ	ropeway, aerial tram	 MediaMissing 
+ロープ	ロープ	rope	 MediaMissing 
+ろくな	ろくな	satisfactory, decent	 MediaMissing 
+露骨	ろこつ	blunt, outspoken; conspicuous; broad, suggestive	 MediaMissing 
+ロマンチック	ロマンチック	romantic	 MediaMissing 
+論議	ろんぎ	discussion	 MediaMissing 
+論理	ろんり	logic	 MediaMissing 
+惑星	わくせい	planet	 MediaMissing 
+技	わざ	art, technique	 MediaMissing 
+わざわざ	わざわざ	take the trouble (to do), doing something especially rather than incidentally	 MediaMissing  Intermediate_Japanese_Ln.9 Intermediate_Japanese
+煩わしい	わずらわしい	burdensome, troublesome, complicated	 MediaMissing  Intermediate_Japanese_Ln.15 Intermediate_Japanese
+渡り鳥	わたりどり	migratory bird, bird of passage	 MediaMissing 
+ワット	ワット	watt	 MediaMissing 
+詫び	わび	apology	 MediaMissing 
+和文	わぶん	Japanese text, sentence in Japanese	 MediaMissing 
+藁	わら	straw	 MediaMissing 
+～割	～わり	~ percent	 MediaMissing 
+割当	わりあて	allotment, allocation, quota	 MediaMissing 
+割込む	わりこむ	to cut in, to disturb	 MediaMissing 
+悪者	わるもの	bad fellow, rascal	 MediaMissing 
+我	われ	me, oneself, self, ego	 MediaMissing 

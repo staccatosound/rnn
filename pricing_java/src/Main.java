@@ -3,9 +3,17 @@ import Option.Binomial.*;
 import Option.MonteCarlo.*;
 import Option.MonteCarlo.Discretization.*;
 import Option.BlackScholes.*;
+import Swap.*;
+import Entity.*;
 
 import java.time.*;
 import java.time.format.*;
+import java.util.Date.*;
+import java.util.*;
+
+import Entity.DateValuePair;
+
+import java.text.*;
 
 public class Main{
 
@@ -59,12 +67,12 @@ public class Main{
     LocalDate to_date = LocalDate.of(2013, 5, 31);
     
     VanillaSwap vs = new VanillaSwap();
-    // vs.contructLIBORCurve();
-    // val swap_curve = vs.generateSwapCurve(from_date, to_date);
-    
-    // for(s <- swap_curve ){
-    //   System.out.println(s);
-    // }    
+    vs.contructLIBORCurve();
+    List<DateValuePair> swap_curve = vs.generateSwapCurve(from_date, to_date);
+    System.out.println(swap_curve.size());
+    for(DateValuePair s : swap_curve ){
+      System.out.println(s.value);
+    }    
   }
 
 }

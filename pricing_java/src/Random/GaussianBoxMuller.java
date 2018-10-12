@@ -5,7 +5,7 @@ public class GaussianBoxMuller {
   public static double random(){
     double x = 0.0;
     double y = 0.0;
-    double square = 0.0;
+    double square = 1.0;
     
     while(square >= 1){
      x = 2 * Math.random() - 1; 

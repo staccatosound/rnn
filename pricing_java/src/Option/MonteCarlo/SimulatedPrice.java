@@ -12,7 +12,7 @@ public class SimulatedPrice {
   public double[] simulatedPriceArray;  
   
   public SimulatedPrice(
-    double assertPrice,
+    double assetPrice,
     double maturity,
     double volatility,
     double riskFree,
@@ -28,7 +28,7 @@ public class SimulatedPrice {
 
   public void simulatePrice(){
     simulatedPriceArray = new double[steps];
-    simulatedPriceArray[0] = assetPrice;
+    simulatedPriceArray[0] = this.assetPrice;
   
     for(int i=1; i<simulatedPriceArray.length; i++){
      simulatedPriceArray[i] = scheme.increment(simulatedPriceArray[i-1], maturity, volatility, riskFree); 

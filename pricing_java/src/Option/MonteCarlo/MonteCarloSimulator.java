@@ -4,6 +4,7 @@ import Option.*;
 import Option.MonteCarlo.Discretization.*;
 import Common.*;
 import java.lang.Math.*;
+import java.util.*;
 import java.util.stream.*;
 
 public class MonteCarloSimulator {
@@ -19,8 +20,10 @@ public class MonteCarloSimulator {
   private IDiscretizationScheme scheme;    
   private SimulatedPrice[] priceSimArray;
   
+  public MonteCarloSimulator(){}
+
   public MonteCarloSimulator(
-    double assertPrice,
+    double assetPrice,
     double strike,
     double maturity,
     double volatility,
@@ -44,7 +47,7 @@ public class MonteCarloSimulator {
     priceSimArray = new SimulatedPrice[nSims];
 
     for(int i=0; i<nSims; i++){
-      SimulatedPrice simPrice = new SimulatedPrice(assetPrice, maturity, volatility, riskFree, steps, scheme);
+      SimulatedPrice simPrice = new SimulatedPrice(this.assetPrice, maturity, volatility, riskFree, steps, scheme);
       priceSimArray[i] = simPrice;
     }
 
@@ -59,7 +62,7 @@ public class MonteCarloSimulator {
     switch(optionType){
       case Call: 
         value = Stream.of(priceSimArray).map(a -> a.simulatedPriceArray[steps-1] - strike).filter(b -> b > 0).mapToDouble(d->d).sum() / nSims;
-        break;
+      break;
 
       case Put:
         value = Stream.of(priceSimArray).map(a -> strike - a.simulatedPriceArray[steps-1]).filter(b -> b > 0).mapToDouble(d->d).sum() / nSims;

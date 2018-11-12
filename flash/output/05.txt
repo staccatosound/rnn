@@ -1,0 +1,182 @@
+﻿皮革	つくりがわ	/(n) kanji "leather" radical (radical 177)/
+酢	す	/(n) vinegar/(P)/
+巣	す	/(n) (1) nest/rookery/breeding place/hive/(2) den/(3) haunt/(4) (spider's) web/(P)/
+墨	ぼく	/(n,n-pref,n-suf) (abbr) Mexico/
+隅	すみ	/(n,n-suf) corner/nook/recess/(P)/
+炭	すみ	/(n) (1) charcoal/(2) (obsc) charred remains/(P)/
+影	かげ	/(n) (1) shadow/silhouette/figure/shape/(2) reflection/image/(3) ominous sign/(4) light (stars, moon)/(5) trace/shadow (of one's former self)/(P)/
+影	かげ	/(n) (1) shadow/silhouette/figure/shape/(2) reflection/image/(3) ominous sign/(4) light (stars, moon)/(5) trace/shadow (of one's former self)/(P)/
+油	あぶら	/(n) oil/(P)/
+脂	やに	/(n) (1) resin/(2) (tobacco) resin/tar/nicotine/(3) sleep (in one's eyes, i.e. eye mucus)/
+熱い	あつい	/(adj-i) (1) hot (thing)/(2) passionate (feelings, etc.)/ardent/hot (e.g. gaze)/(3) hot (e.g. temper)/(4) zealous/enthusiastic/fired up/(5) intense/severe/extreme/(6) hot (topic)/of interest/(P)/
+厚い	あつい	/(adj-i) (1) thick/deep/heavy/(2) kind/cordial/hospitable/warm/faithful/(3) abundant/(P)/
+固い	かたい	/(adj-i) (1) hard/solid/tough/(2) stiff/tight/wooden/unpolished (e.g. writing)/(3) strong/firm (not viscous or easily moved)/(4) safe/steady/honest/steadfast/(5) obstinate/stubborn/(6) bookish/formal/stuffy/(P)/
+硬い	かたい	/(adj-i) (1) hard/solid/tough/(2) stiff/tight/wooden/unpolished (e.g. writing)/(3) strong/firm (not viscous or easily moved)/(4) safe/steady/honest/steadfast/(5) obstinate/stubborn/(6) bookish/formal/stuffy/(P)/
+口が堅い	くちがかたい	/(exp,adj-i) tight-lipped/able to keep a secret/
+気が荒い	きがあらい	/(exp,adj-i) (id) bad-tempered/aggressive/quarrelsome/
+粗い	あらい	/(adj-i) coarse/rough/(P)/
+移す	うつす	/(v5s,vt) (1) to change/to swap/to substitute/to transfer/(2) to change the object of one's interest or focus/(3) to spend or take time/(4) to infect/(5) to permeate something with the smell or colour of something/(6) to move on to the next or different stage of (a plan, etc.)/(P)/
+写す	うつす	/(v5s,vt) (1) to transcribe/to duplicate/to reproduce/to imitate/to trace/(2) to describe/(3) to film/to picture/to photograph/(P)/
+映す	うつす	/(v5s,vt) to project/to reflect/to cast (shadow)/(P)/
+聞く	きく	/(v5k,vt) (1) to hear/(2) to listen (e.g. to music)/(3) to ask/to enquire/to query/(4) to learn of/to hear about/(5) to follow (advice)/to comply with/(6) to smell (esp. incense)/to sample fragrance/(P)/
+聴く	きく	/(v5k,vt) (1) to hear/(2) to listen (e.g. to music)/(3) to ask/to enquire/to query/(4) to learn of/to hear about/(5) to follow (advice)/to comply with/(6) to smell (esp. incense)/to sample fragrance/(P)/
+効く	きく	/(v5k,vi) (1) to be effective/to show effect/(2) to do its work/to carry out its function well/(3) to be possible to use/(P)/
+効き目	ききめ	/(n) effect/virtue/efficacy/impression/(P)/
+気が利く	きがきく	/(exp,v5k) (1) to be sensible/to be smart/to be tasteful/(2) to be thoughtful/to be tactful/to be sensitive/
+左利き	ひだりきき	/(n,adj-no) (1) left-handedness/left-hander/(2) drinker/wine lover/(P)/
+探す	さがす	/(v5s,vt) (1) to search (for something desired, needed)/to look for/(2) to search (for something lost)/to seek (a suspect in a crime)/(P)/
+捜す	さがす	/(v5s,vt) (1) to search (for something desired, needed)/to look for/(2) to search (for something lost)/to seek (a suspect in a crime)/(P)/
+表す	ひょうす	/(v5s,vt) to express/to show/
+現す	あらわす	/(v5s,vt) (1) to represent/to signify/to stand for/(2) to reveal/to show/to display/(3) to express/(4) to make widely known/(P)/
+著す	あらわす	/(v5s,vt) to write/to publish/(P)/
+勤める	つとめる	/(v1,vt) (1) to work (for)/to be employed (at)/to serve (in)/(2) to serve (as)/to act (as)/to fill (the position of)/to play the role (of)/(3) to conduct a religious service/(P)/
+務める	つとめる	/(v1,vt) (1) to work (for)/to be employed (at)/to serve (in)/(2) to serve (as)/to act (as)/to fill (the position of)/to play the role (of)/(3) to conduct a religious service/(P)/
+努める	つとめる	/(v1,vt) to endeavor (endeavour)/to try/to strive/to make an effort/to exert oneself/to be diligent/to be committed (to doing something)/(P)/
+絶える	たえる	/(v1,vi) (1) to die out/to peter out/to become extinct/(2) to cease/to be stopped/to be discontinued/to be cut off/(P)/
+耐える	たえる	/(v1,vi,vt) (1) to bear/to stand/to endure/to put up with/(v1,vi) (2) to support/to withstand/to resist/to brave/(3) to be fit for/to be equal to/(P)/
+堪えない	たえない	/(exp) (1) unable to suppress one's emotions/(2) unable to cope with one's responsibilities/
+澄む	すむ	/(v5m,vi) (1) to become clear (water, air, etc.)/to become transparent/(2) to resonate clearly (e.g. voice)/(3) to become serene/to become tranquil/to be free of worries/(4) to pronounce as an unvoiced sound/(P)/
+住む	すむ	/(v5m,vi) to live (of humans)/to reside/to inhabit/to dwell/to abide/(P)/
+済む	すむ	/(v5m,vi) (1) to finish/to end/to be completed/(2) to merely result in something less severe than expected/(3) to feel at ease/(4) to feel unease or guilt for troubling someone/to be sorry/(P)/
+扇ぐ	あおぐ	/(v5g,vt) (1) to fan/(2) to incite/to instigate/(P)/
+仰ぐ	あおぐ	/(v5g,vt) (1) to look up (at)/(2) to look up to/to respect/to revere/(3) to ask for (e.g. guidance)/to seek/to turn to (someone) for/(4) to depend on/to rely on/(5) to gulp down/to quaff/to drink/(P)/
+打つ	ぶつ	/(v5t,vt) (1) (uk) to hit (a person)/to strike/to beat/(2) (uk) to deliver (a speech)/to give (an address)/(P)/
+撃つ	ぶつ	/(v5t,vt) (1) (uk) to hit (a person)/to strike/to beat/(2) (uk) to deliver (a speech)/to give (an address)/
+討つ	うつ	/(v5t) (1) to shoot (at)/(2) to attack/to defeat/to destroy/to avenge/(P)/
+謝る	あやまる	/(v5r) to apologize/to apologise/(P)/
+誤る	あやまる	/(v5r,vi) (1) to make a mistake/to err/(2) to mislead/to misguide/(P)/
+尋ねる	たずねる	/(v1,vt) (1) to ask/to enquire/to inquire/(2) to search/to look for/to look into/to investigate/(P)/
+訪ねる	たずねる	/(v1,vt) to visit/to call on/to pay a visit to/(P)/
+取る	とる	/(v5r,vt) (1) to take/to pick up/to harvest/to earn/to win/to choose/(2) to steal/(3) to eat/to have (a meal)/(4) to remove (one's glasses, etc.)/(5) to compete (in sumo, cards, etc.)/to play/(P)/
+撮る	とる	/(v5r,vt) (1) to take (a photo)/(2) to record (video, audio, etc.)/to make (a film)/(P)/
+採る	とる	/(v5r,vt) (1) to adopt (method, proposal, etc.)/to take (measure, course of action, etc.)/to decide on/(2) to pick (e.g. flowers)/to gather (e.g. mushrooms)/to catch (e.g. insects)/(3) to extract (e.g. juice)/to take (e.g. a sample)/(4) to assume (an attitude)/(5) to take on (workers, students)/to employ/to hire/(6) to draw in (e.g. water)/to let in (e.g. light from a window)/(P)/
+撮る	とる	/(v5r,vt) (1) to take (a photo)/(2) to record (video, audio, etc.)/to make (a film)/(P)/
+執る	とる	/(v5r,vt) to take (trouble)/to attend (to business)/to command (army)/(P)/
+避ける	よける	/(v1,vt) (1) to avoid (physical contact with)/(v1) (2) to ward off/to avert/(P)/
+裂ける	さける	/(v1,vi) to split/to tear/to burst/to be separated/to be divided/(P)/
+納める	おさめる	/(v1,vt) (1) to dedicate/to make an offering/to pay (fees)/(2) to supply/(3) to store/(4) to finish/to bring to a close/(5) to restore (something to its place)/(6) to achieve (e.g. a result)/(P)/
+収める	おさめる	/(v1,vt) (1) to dedicate/to make an offering/to pay (fees)/(2) to supply/(3) to store/(4) to finish/to bring to a close/(5) to restore (something to its place)/(6) to achieve (e.g. a result)/(P)/
+治める	おさめる	/(v1,vt) (1) to govern/to manage/(2) to subdue/(P)/
+修める	おさめる	/(v1,vt) (1) to study/to complete (a course)/to cultivate/to master/(2) to order (one's life)/(3) to repair (a fault one has committed)/(P)/
+望む	のぞむ	/(v5m,vt) (1) to desire/(2) to wish for/to expect/(3) to see/to command (a view of)/(P)/
+臨む	のぞむ	/(v5m,vi) (1) to look out on/to overlook/to front onto/(2) to face (a situation, crisis, etc.)/to meet (e.g. death)/to be confronted by/(3) to deal with (an issue)/(4) to attend (e.g. a function)/to appear (e.g. in court)/to be present at/to take part in/(P)/
+攻める	せめる	/(v1,vt) to attack/to assault/to assail/(P)/
+責める	せめる	/(v1,vt) (1) to condemn/to blame/to criticize/to criticise/to reproach/to accuse/(2) to urge/to press/to pester/(3) to torture/to torment/to persecute/(4) to break in (a horse)/(P)/
+差す	さす	/(v5s,vi) (1) to shine/(2) to be visible/(3) to be tinged with/(4) to rise (of water levels)/to flow in/(5) to be felt (i.e. as an emotion)/to come over one/(v5s,vt) (6) to hold up (an umbrella, etc.)/to put up/to raise/(7) to extend one's arm straight ahead (in dance)/(8) to insert/to put in/(9) to wear (a sword) in one's belt/to wear at one's side/to carry under one's arm/(10) (sumo) to insert one's arm under an opponent's arm/(11) to pole (a boat)/(12) to pour/to add (liquid)/to serve (drinks)/(13) to put on (lipstick, etc.)/to apply/to colour/to dye/(14) to light (a fire)/to burn/(15) to shut/to close/to lock/to fasten/(suf,v5s) (16) to stop in the midst of/to leave undone/(P)/
+挿す	さす	/(v5s,vt) (1) to insert/to put in/(2) to plant (a cutting)/to strike/(3) to arrange (flowers)/(4) to wear (a sword) in one's belt/(5) to shut/to close/to lock/to fasten/
+指す	さす	/(v5s,vt) (1) to point/(2) to nominate/to select someone/to specify some person/(3) to identify/to indicate/to point out/(4) (shogi) to play (a game of shogi)/to move (a piece)/(5) to extend one's arm straight ahead (in dance)/(P)/
+刺す	さす	/(v5s,vt) (1) to pierce/to stab/to prick/to stick/to thrust/(2) to sting/to bite/(3) to sew/to stitch/to embroider/(4) to pole (a boat)/(5) to catch (with a limed pole)/(6) (baseb) to put (a runner) out/to pick off/(P)/
+絶つ	たつ	/(v5t,vt) (1) to sever/to cut off/(2) to suppress/to eradicate/to exterminate/(3) to abstain (from)/to give up/(P)/
+断つ	たつ	/(v5t,vt) (1) to sever/to cut off/(2) to suppress/to eradicate/to exterminate/(3) to abstain (from)/to give up/(P)/
+裁つ	たつ	/(v5t,vt) to cut (cloth)/(P)/
+締める	しめる	/(v1,vt) (1) to tie/to fasten/to tighten/(2) to wear (necktie, belt)/to put on/(3) to total/to sum/(4) to be strict with/(5) to economize/to economise/to cut down on/(6) to salt/to marinate/to pickle/to make sushi adding a mixture of vinegar and salt/(P)/
+絞める	しめる	/(v1,vt) to strangle/to constrict/(P)/
+占める	しめる	/(v1,vt) (1) to occupy/to hold/(2) to account for/to make up/to take up/(P)/
+計る	はかる	/(v5r,vt) (1) to measure/to weigh/to survey/to time (sound, gauge, estimate)/(2) to conjecture/to infer/to surmise/(P)/
+測る	はかる	/(v5r,vt) (1) to measure/to weigh/to survey/to time (sound, gauge, estimate)/(2) to conjecture/to infer/to surmise/(P)/
+量る	はかる	/(v5r,vt) (1) to measure/to weigh/to survey/to time (sound, gauge, estimate)/(2) to conjecture/to infer/to surmise/(P)/
+諮る	はかる	/(v5r,vt) to consult with/to discuss/to confer/to deliberate/(P)/
+謀る	はかる	/(v5r,vt) (1) to plan/to attempt/to devise/(2) to plot/to conspire/to scheme/(3) to deceive/to trick/to take in/(P)/
+図る	はかる	/(v5r,vt) (1) to plan/to attempt/to devise/(2) to plot/to conspire/to scheme/(3) to aim for/to strive for/to work towards/to seek/(P)/
+犯す	おかす	/(v5s,vt) (1) to commit (e.g. crime)/to perpetrate/to make (e.g. mistake)/(2) to break (e.g. rule)/to violate/to transgress/to contravene/(3) to rape/to violate/to ravish/to deflower/(P)/
+冒す	おかす	/(v5s,vt) (1) to brave/to risk/to face/to venture/(2) to harm/to afflict/to affect/(3) to desecrate/to profane/(4) to assume (someone else's surname)/to take/(P)/
+侵す	おかす	/(v5s,vt) (1) to invade/to raid/to violate (airspace, etc.)/to intrude/to trespass/(2) to infringe/to encroach/(3) to harm/to afflict/to affect/(P)/
+顧みる	かえりみる	/(v1,vt) (1) to look back on (the past)/to reflect on/to reminisce about/(2) to look behind (at)/to turn round (and look)/to look over one's shoulder/(3) to consider/to concern oneself about/to take notice of/to pay attention to/to take into consideration/(P)/
+省みる	かえりみる	/(v1,vt) to reflect on (oneself, past conduct, etc.)/to contemplate/to examine/to think over/to introspect/(P)/
+反省	はんせい	/(n,vs) (1) reflection/reconsideration/introspection/meditation/contemplation/(2) regret/repentance/remorse/being sorry/(P)/
+対象	たいしょう	/(n,adj-no) target/object (of worship, study, etc.)/subject (of taxation, etc.)/(P)/
+対称	たいしょう	/(n,adj-no) (1) symmetry/(n) (2) second person/(P)/
+対照	たいしょう	/(n,vs) contrast/antithesis/comparison/(P)/
+招待	しょうだい	/(ok) (n,vs,adj-no) invitation/
+正体	しょうたい	/(n) (1) true character/true form/true colors (colours)/identity/truth (of a mystery, phenomenon, etc.)/origin/(2) consciousness/one's senses/(P)/
+最近	さいきん	/(n-adv,n-t,adj-no) (1) recently/lately/these days/nowadays/right now/(adj-no) (2) nearest/closest/(P)/
+細菌	さいきん	/(n) bacterium/bacteria/germ/(P)/
+後退	こうたい	/(n,vs) (1) retreat/falling back/moving backwards/reversing/retrogression/retraction/(2) recession/waning/(n) (3) (comp) backspace (key)/(P)/
+交代	こうたい	/(n,vs) alternation/change/relief/relay/shift/substitution (sports, etc.)/taking turns/(P)/
+交替	こうたい	/(n,vs) alternation/change/relief/relay/shift/substitution (sports, etc.)/taking turns/(P)/
+不審	ふしん	/(adj-na,n) incomplete understanding/doubt/question/distrust/suspicion/strangeness/infidelity/(P)/
+不振	ふしん	/(n,adj-no,adj-na) dullness/slump/stagnation/inactivity/depression/(P)/
+不信	ふしん	/(n) (1) distrust/mistrust/disbelief/discredit/(2) insincerity/(3) impiety/faithlessness/(P)/
+保証人	ほしょうにん	/(n) guarantor/surety/sponsor/reference/bondsman/(P)/
+保障	ほしょう	/(n,vs) guarantee/security/assurance/pledge/warranty/(P)/
+補償	ほしょう	/(n,vs) compensation/reparation/(P)/
+開放	かいほう	/(n,vs) (1) opening (a door, window, etc.)/leaving open/(2) opening up (e.g. to the public)/allowing (public) access/(P)/
+解放	かいほう	/(n,vs) (1) release/unleashing/liberation/emancipation/setting free/(2) (comp) deallocation (of computer memory)/(P)/
+介抱	かいほう	/(n,vs) nursing/looking after/
+加工	かこう	/(n,vs) manufacturing/processing/treatment/machining/(P)/
+下降	かこう	/(n,vs) descent/fall/drop/decline/downturn/subsidence/(P)/
+河口	かわぐち	/(n,adj-no) mouth of river/estuary/(P)/
+火口	ほくち	/(n) tinder/touchwood/charcloth/
+家庭	かてい	/(n,adj-no) home/family/household/(P)/
+過程	かてい	/(n) process/course/mechanism/(P)/
+仮定	かてい	/(n,vs) assumption/supposition/hypothesis/(P)/
+課程	かてい	/(n) course/curriculum/(P)/
+期限	きげん	/(n) (1) term/period/time frame/(2) time limit/deadline/cutoff (date)/(P)/
+機嫌	きげん	/(n) (1) humour/humor/temper/mood/spirits/(2) safety/health/well-being/one's situation/(adj-na) (3) in a good mood/in high spirits/happy/cheery/merry/chipper/(P)/
+起源	きげん	/(n,adj-no) origin/beginning/rise/(P)/
+進行	しんこう	/(n,vs) (1) moving forward (e.g. vehicle)/onward movement/(2) advance (work, procedure, etc)/advancement/progress/(3) progress (of a disease)/disease progression/(n) (4) (music) progression (harmonic, melodic)/(P)/
+振興	しんこう	/(n,vs) promotion/encouragement/(P)/
+新興	しんこう	/(adj-no) rising/developing/emergent/burgeoning/new/(P)/
+信仰	しんこう	/(n,vs) (religious) faith/belief/creed/(P)/
+避難	ひなん	/(n,vs) taking refuge/finding shelter/evacuation/escape/seeking safe haven/(P)/
+非難	ひなん	/(n,vs,adj-na) criticism/blame/censure/attack/reproach/(P)/
+普通	ふつう	/(adj-no) (1) general/ordinary/usual/(adv) (2) normally/generally/usually/(n) (3) (abbr) local train/train that stops at every station/(P)/
+不通	ふつう	/(n) suspension/interruption/stoppage/tie-up/cessation/(P)/
+保険	ほけん	/(n,adj-no) insurance/guarantee/(P)/
+保健	ほけん	/(n,adj-no) health preservation/hygiene/sanitation/(P)/
+形成	けいせい	/(n,vs) (1) formation/molding/making up/taking form/giving form to/(n) (2) (med) repair (e.g. plastic surgery)/replacement/-plasty/(P)/
+形勢	けいせい	/(n) condition/situation/prospects/(P)/
+衛星	えいせい	/(n,adj-no) satellite/(P)/
+衛生	えいせい	/(n) hygiene/sanitation/health/(P)/
+支給	しきゅう	/(n,vs) provision/supply/payment/allowance/grant/(P)/
+至急	しきゅう	/(adj-no,n) (1) urgent/pressing/immediate/prompt/express/(n-adv) (2) urgently/promptly/at once/right away/without delay/as soon as possible/(P)/
+企画	きかく	/(n,vs) planning/project/plan/design/(P)/
+規格	きかく	/(n) standard/norm/(P)/
+敬意	けいい	/(n) respect/honour/honor/(P)/
+経緯	たてよこ	/(ok) (n) warp and weft/warp and woof/
+公害問題	こうがいもんだい	/(n) pollution problem or issue/
+郊外	こうがい	/(n,adj-no) suburb/outskirts/(P)/
+指示	しじ	/(n,vs) (1) indication/denotation/designation/(2) instructions/directions/(P)/
+支持	しじ	/(n,vs) (1) support/backing/endorsement/approval/(2) support/holding up/propping/(P)/
+以前	いぜん	/(n-adv,n-t) ago/since/before/previous/(P)/
+依然	いぜん	/(adj-t,adv-to,adv) still/as yet/as it has been/(P)/
+意義	いぎ	/(n) meaning/significance/(P)/
+異議	いぎ	/(n) objection/dissent/protest/(P)/
+異義	いぎ	/(n) (1) different meaning/(2) different opinion/
+感覚	かんかく	/(n,vs) sense/sensation/feeling/intuition/(P)/
+間隔	かんかく	/(n) (1) space/interval/(2) (comp) space character/whitespace/(P)/
+操作	そうさ	/(n,vs) (1) operation/management/handling/(2) manipulating (to one's benefit)/manipulation/influencing/(P)/
+捜査	そうさ	/(n,vs,adj-no) search (esp. in criminal investigations)/investigation/inquiry/enquiry/(P)/
+公演	こうえん	/(n,vs) (1) public performance/(2) (sumo) exhibition in a foreign country/(P)/
+講演	こうえん	/(n,vs) lecture/address/speech/(P)/
+負債	ふさい	/(n) debt/liabilities/(P)/
+夫妻	ふさい	/(n) husband and wife/married couple/(P)/
+駐車	ちゅうしゃ	/(n,vs,adj-no) parking (e.g. car)/(P)/
+注射	ちゅうしゃ	/(n,vs) injection/(P)/
+平行	へいこう	/(n,vs,adj-na,adj-no) (1) parallelism/running parallel (to, with)/(n,vs,adj-no) (2) running concurrently/occurring at the same time/keeping pace with/(n,vs) (3) not reaching an agreement (e.g. of a debate)/(P)/
+並行	へいこう	/(n,vs,adj-no) (1) going side-by-side/going abreast/(2) running concurrently/occurring at the same time/keeping pace with/(P)/
+平衡	へいこう	/(n,vs) even scale/equilibrium/balance/equalization/equalisation/(P)/
+閉口	へいこう	/(n,vs,adj-no) (1) dumbfounded/stumped/at one's wits' end/nonplussed/(2) annoyed/(P)/
+街頭	がいとう	/(n) (on the) street/(P)/
+該当	がいとう	/(n,vs) corresponding to/being applicable to/being relevant to/coming under/falling under/fulfilling (requirements)/meeting (conditions)/qualifying for/(P)/
+血管	けっかん	/(n,adj-no) blood vessel/vein/(P)/
+欠陥	けっかん	/(n) defect/fault/flaw/deformity/deficiency/shortage/gap/(P)/
+汽車	きしゃ	/(n) (1) train (esp. long distance train)/(2) steam train/(P)/
+貴社	きしゃ	/(n) (1) (hon) your company/(2) (hon) your shrine/(P)/
+記者	きしゃ	/(n,adj-no) reporter/(P)/
+危険	きけん	/(n,adj-na) (1) danger/peril/hazard/(2) risk/(P)/
+棄権	きけん	/(n,vs) abstention (from voting)/renunciation (of a right)/withdrawal (from a contest)/(P)/
+化繊	かせん	/(n) (abbr) synthetic fiber/synthetic fibre/chemical fiber/chemical fibre/(P)/
+河川	かせん	/(n) rivers/(P)/
+下線	かせん	/(n) underline/underscore/
+契機	けいき	/(n) opportunity/chance/(P)/
+景気	けいき	/(n) (1) business conditions/the market/economic activity/economic climate/(2) good (economic) times/prosperity/boom/(3) liveliness/energy/vigour/vigor/spirit/(P)/
+計器	けいき	/(n) meter/gauge/(P)/
+刑期	けいき	/(n) prison term/
+抱負	ほうふ	/(n) aspiration/ambition/pretension/(P)/
+豊富	ほうふ	/(adj-na,n) abundance/wealth/plenty/bounty/(P)/
+凶作	きょうさく	/(n,adj-no) bad harvest/poor crop/(P)/
+共作	きょうさく	/(n,vs) joint work/collaboration/
+核心	かくしん	/(n) core/heart (of the matter)/point/crux/kernel/(P)/
+確信	かくしん	/(n,vs) conviction/belief/confidence/(P)/
+革新	かくしん	/(n,vs) reform/innovation/(P)/

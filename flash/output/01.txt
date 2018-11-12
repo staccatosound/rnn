@@ -1,0 +1,257 @@
+古典	こてん	/(n) classic (work, esp. book)/the classics/(P)/
+古代	こだい	/(adj-na,n-adv,n-t) ancient times/(P)/
+固有	こゆう	/(adj-no,adj-na) characteristic/traditional/peculiar/inherent/native/eigen-/(P)/
+個性	こせい	/(n) individuality/personality/idiosyncrasy/character/individual characteristic/(P)/
+個別	こべつ	/(n,adj-no) particular case/discrete/individual/separate/(P)/
+故人	こじん	/(n) the deceased/the departed/(P)/
+語句	ごく	/(n,adj-no) words/phrases/(P)/
+覚悟	かくご	/(n,vs) resolution/resignation/readiness/preparedness/(P)/
+未知	みち	/(adj-no,n) not yet known/unknown/strange/(P)/
+未定	みてい	/(adj-no,adj-na,n) not yet fixed/undecided/pending/(P)/
+味覚	みかく	/(adj-na,n) taste/palate/sense of taste/(P)/
+魅了	みりょう	/(n) (1) fascination/(vs) (2) to charm/to fascinate/to mesmerize/(P)/
+細工	さいく	/(n,vs) (1) work/workmanship/craftsmanship/handiwork/(2) artifice/trick/device/tampering/doctoring/(P)/
+功績	こうせき	/(n) achievements/merit/meritorious service/meritorious deed/(P)/
+精巧	せいこう	/(adj-na,n) elaborate/delicate/exquisite/(P)/
+事項	じこう	/(n) matter/item/facts/(P)/
+専攻	せんこう	/(n,vs,adj-no) major subject/special study/(P)/
+貢献	こうけん	/(n,vs) contribution (furthering a goal or cause)/services (to a cause)/(P)/
+取材	しゅざい	/(n,vs) (1) news coverage/collecting data (e.g. for an article)/covering (something for media)/(2) interview/(P)/
+趣向	しゅこう	/(n) plan/idea/design/plot/(P)/
+故障	こしょう	/(n,vs) (1) breakdown/failure/fault/accident/out of order/(2) damage/hurt/(3) objection/protest/(P)/
+障害	しょうがい	/(n,vs) (1) obstacle/impediment/hindrance/difficulty/barrier/(2) handicap/impairment/disability/disorder/malfunction/(P)/
+補足	ほそく	/(n,adj-no,vs) supplement/complement/(P)/
+捕獲	ほかく	/(n,vs) capture/seizure/(P)/
+舗装	ほそう	/(n,vs) pavement/road surface/(P)/
+故郷	ふるさと	/(n) (1) (uk) home town/birthplace/native place/one's old home/(2) (arch) ruins/historic remains/(P)/
+帰郷	ききょう	/(n,vs) homecoming/return to one's home/
+影響	えいきょう	/(n) (1) influence/effect/(vs) (2) to influence/to affect/to have an influence on/to impact/to have an effect on/(P)/
+反響	はんきょう	/(n,vs) (1) echo/reverberation/(2) repercussion/reaction/response/influence/(P)/
+世帯	せたい	/(n) household/home/family/housekeeping/(P)/
+渋滞	じゅうたい	/(n,vs) congestion (e.g. traffic)/delay/stagnation/(P)/
+真珠	しんじゅ	/(n) pearl/(P)/
+要旨	ようし	/(n) point/essentials/gist/summary/fundamentals/(P)/
+趣旨	しゅし	/(n) (1) meaning/point (e.g. of a statement)/gist/effect/(2) goal/intent/object/aim/point/(P)/
+指示	しじ	/(n,vs) (1) indication/denotation/designation/(2) instructions/directions/(P)/
+指摘	してき	/(n,vs) pointing out/identification/(P)/
+脂肪	しぼう	/(n) fat/grease/blubber/lard/suet/(P)/
+油脂	ゆし	/(n) fat/fats and oils/(P)/
+普及	ふきゅう	/(n,vs) diffusion/spread/popularization/promulgation/familiarization/(P)/
+追及	ついきゅう	/(n,vs) (1) investigation (e.g. into someone's guilt)/questioning/pressing/hounding/pinning down/(2) catching up/overtaking/(P)/
+吸収	きゅうしゅう	/(n,vs) absorption/suction/attraction/(P)/
+呼吸	こきゅう	/(n,vs) (1) breathing/respiration/(n) (2) knack/trick/secret (of doing something)/(3) harmony/balance/synchronization/accord/(4) short interval/short pause/(P)/
+巨大	きょだい	/(adj-na,n) huge/gigantic/enormous/(P)/
+距離	きょり	/(n) distance/range/(P)/
+拒否	きょひ	/(n,vs) refusal/rejection/denial/veto/(P)/
+拒絶	きょぜつ	/(n,vs) refusal/rejection/(P)/
+包装	ほうそう	/(n,vs) packing/wrapping/(P)/
+大砲	たいほう	/(n) gun/cannon/artillery/(P)/
+鉄砲	てっぽう	/(n) (1) gun/(2) (sumo) wooden pole that wrestlers strike in practice/(3) (col) fugu/(P)/
+細胞	さいぼう	/(n,adj-no) (biol) cell/(P)/
+介抱	かいほう	/(n,vs) nursing/looking after/
+水泡	みなわ	/(n) (1) foam/bubble/(2) nothing/
+飽和	ほうわ	/(n,vs,adj-no) saturation/satiation/(P)/
+召集	しょうしゅう	/(n,vs) convening/calling together (e.g. parliament)/call-up (for military service)/(P)/
+照合	しょうごう	/(n,vs) collation/comparison/
+照明	しょうめい	/(n,vs,adj-no) illumination/lighting/(P)/
+沼	ぬま	/(n) (1) marsh/swamp/wetland/bog/pond/(2) (sl) being hooked (on a video game, TV show, etc.)/(P)/
+大胆	だいたん	/(adj-na,n) bold/daring/audacious/(P)/
+兼用	けんよう	/(n,vs,adj-no) multi-use/combined use/combination/serving two purposes/
+謙虚	けんきょ	/(adj-na,n) modest/humble/(P)/
+謙遜	けんそん	/(n,vs,adj-na,adj-no) modesty/humility/being humble/(P)/
+嫌悪	けんお	/(n,vs,adj-no) disgust/hate/repugnance/(P)/
+干渉	かんしょう	/(n,vs) interference/intervention/meddling/(P)/
+発汗	はっかん	/(n,vs,adj-no) sweating/perspiration/sudation/hidrosis/diaphoresis/(P)/
+刊行	かんこう	/(n,vs) publication/issue/(P)/
+肝心	かんじん	/(adj-na,n,adj-no) essential/important/crucial/vital/main/(P)/
+肝臓	かんぞう	/(n) liver/(P)/
+幹部	かんぶ	/(n,adj-no) management/(executive) staff/leaders/leadership/top brass/upper echelons/(P)/
+理屈	りくつ	/(n) theory/reason/(P)/
+屈折	くっせつ	/(n,vs) (1) bending/indentation/(2) refraction/(3) inflection/(4) warping (e.g. of opinion, reasoning, etc.)/distortion/(P)/
+発掘	はっくつ	/(n,vs) (1) excavation/exhumation/(2) discovery (e.g. new talent)/(P)/
+掘り実験	じっけん	/(n,vs) experiment/(P)/
+険悪	けんあく	/(adj-na,n) (1) dangerous/perilous/threatening/stormy/volatile/tense/critical/serious/(2) stern (expression)/hostile (attitude)/sharp/harsh/(P)/
+真剣	しんけん	/(adj-na) (1) serious/earnest/(n) (2) real sword (as opposed to unsharpened or wooden practice weapon)/(P)/
+倹約	けんやく	/(n,vs,adj-na) thrift/economy/frugality/(P)/
+聴講	ちょうこう	/(n,vs) lecture attendance/auditing/(P)/
+構成	こうせい	/(n,vs,adj-no) organization/organisation/configuration/composition/(P)/
+構造	こうぞう	/(n) structure/construction/makeup/framework/organization/pattern/(P)/
+購買	こうばい	/(n,vs) (1) procurement/purchase/buying/(n) (2) (abbr) school store/co-op/school canteen/tuck shop/(P)/
+購入	こうにゅう	/(n,vs) purchase/buy/(P)/
+標準	ひょうじゅん	/(n) standard/level/norm/(P)/
+投票	とうひょう	/(n,vs,adj-no) voting/poll/(P)/
+漂流	ひょうりゅう	/(n,vs) drifting/drift/being adrift/(P)/
+低下	ていか	/(n,vs) fall/decline/lowering/deterioration/degradation/(P)/
+低気圧	ていきあつ	/(adj-na,n) (1) low (atmospheric) pressure/low-pressure system/depression/cyclone/(2) bad temper/foul mood/tense situation/(P)/
+徹底	てってい	/(n,vs) (1) thoroughness/completeness/consistency/(2) thorough enforcement/seeing to it that a policy, etc. is carried out without exception/(P)/
+抵抗	ていこう	/(n,vs) (1) resistance/opposition/standing up to/(2) reluctance/repulsion/repugnance/(3) (physics) resistance/drag/friction/(4) (abbr) electrical resistance/(n) (5) (abbr) resistor/(P)/
+大抵	たいてい	/(adj-na,adv,n) (1) (uk) mostly/ordinarily/usually/generally/(2) probably/(adj-no,n) (3) most/almost all/(4) ordinary/(adj-na) (5) proper/appropriate/moderate/(P)/
+邸宅	ていたく	/(n) mansion/residence/(P)/
+管底採算	さいさん	/(n) profit/(P)/
+色彩	しきさい	/(n) colour/color/hue/tints/(P)/
+多彩	たさい	/(adj-na,n,adj-no) variegated/varicoloured/varicolored/multi-coloured/multi-colored/diverse/(P)/
+同意	どうい	/(n,vs) (1) agreement/consent/approval/assent/(n,adj-no) (2) same opinion/same view/(3) same meaning/(P)/
+同情	どうじょう	/(n,vs) sympathy/compassion/feeling pity for/(P)/
+胴体	どうたい	/(n,adj-no) body/trunk/torso/hull (boat)/fuselage (aircraft)/(P)/
+履歴	りれき	/(n) (1) personal history/background/career/(2) log/record/(3) (abbr) hysteresis/(P)/
+経歴	けいれき	/(n,vs) personal history/career/(P)/
+西暦	せいれき	/(n) (1) Common Era/CE/Christian Era/anno domini/AD/(2) Western (Gregorian) calendar/(P)/
+還暦	かんれき	/(n) 60th birthday/(P)/
+県庁	けんちょう	/(n) prefectural office/(P)/
+都道府県	とどうふけん	/(n) administrative divisions of Japan: Tokyo-to, Hokkai-do, Osaka-fu, Kyoto-fu and remaining prefectures/(P)/
+懸命	けんめい	/(adj-na,n) eager/earnest/strenuous/fervent/assiduous/with utmost effort/(P)/
+懸賞	けんしょう	/(n) offering a prize/prize competition/prize/reward/(P)/
+懸念ん辞表	じひょう	/(n) letter of resignation/(P)/
+輸出入	ゆしゅつにゅう	/(n) export and import/(P)/
+運輸	うんゆ	/(n) transportation/(P)/
+愉快	ゆかい	/(adj-na,n) pleasant/delightful/enjoyable/joyful/cheerful/amusing/happy/(P)/
+治癒	ちゆ	/(n,vs) healing/cure/recovery/(P)/
+教諭	きょうゆ	/(n) (licensed) teacher/(P)/
+倉庫	そうこ	/(n) storehouse/warehouse/godown/(P)/
+創作	そうさく	/(n,vs) (1) creation/production/creative work (novel, film, etc.)/original work/(creative) writing/(2) fabrication/fiction/invention/(P)/
+議会	ぎかい	/(n) congress/parliament/diet/legislative assembly/(P)/
+義理	ぎり	/(n,adj-no) (1) duty/sense of duty/honor/honour/decency/courtesy/debt of gratitude/social obligation/(adj-no) (2) in-law/relation by marriage/(P)/
+義務	ぎむ	/(n,adj-no) duty/obligation/responsibility/(P)/
+礼儀	れいぎ	/(n) manners/courtesy/etiquette/(P)/
+行儀	ぎょうぎ	/(n) manners/behavior/behaviour/(P)/
+犠牲	ぎせい	/(n) (1) sacrifice/victim/scapegoat/(2) sacrifice (to the gods)/(P)/
+議長	ぎちょう	/(n) chairman/speaker (e.g. of assembly)/president (e.g. of council, senate, etc.)/moderator (e.g. of a newsgroup)/(P)/
+主張	しゅちょう	/(n,vs) claim/insistence/assertion/advocacy/emphasis/contention/opinion/tenet/(P)/
+手帳	てちょう	/(n) (1) notebook/memo pad/(pocket) diary/(2) (abbr) certificate/(3) (abbr) identification card/(P)/
+通帳	つうちょう	/(n) passbook/bankbook/(P)/
+胃腸	いちょう	/(n) stomach and intestines/gastrointestinal tract/digestive organs/(P)/
+盲腸	もうちょう	/(n,adj-no) (1) (anat) cecum/caecum/blind gut/(2) (col) (vermiform) appendix/(n) (3) (col) appendicitis/(P)/
+適応	てきおう	/(n,vs) adaptation/accommodation/conformity/(P)/
+摘発	てきはつ	/(n,vs) exposing/unmasking/laying bare/(P)/
+水滴	すいてき	/(n) (1) drop of water/(2) vessel for replenishing inkstone water/(P)/
+匹敵	ひってき	/(vs) to be a match for/to rival/to equal/to compare with/to be equivalent to/(P)/
+強敵	きょうてき	/(n) formidable enemy/strong enemy/tough enemy/(P)/
+混雑	こんざつ	/(n,vs) (1) congestion/crush/crowding/jam/(2) confusion/disorder/(P)/
+混乱	こんらん	/(n,vs) disorder/chaos/confusion/mayhem/(P)/
+昆虫	こんちゅう	/(n,adj-no) insect/bug/(P)/
+昆布	こんぶ	/(n) kombu (usu. Saccharina japonica) (ain:)/konbu/kelp/any edible species from the family Laminariaceae/(P)/
+法廷	ほうてい	/(n) court (of law)/courtroom/(P)/
+協定	きょうてい	/(n,vs) arrangement/pact/agreement/(P)/
+妥協	だきょう	/(n,vs) compromise/giving in/(P)/
+脅迫	きょうはく	/(n,vs) threat/menace/coercion/terrorism/(P)/
+脅威	きょうい	/(n,vs) threat/menace/(P)/
+普及	ふきゅう	/(n,vs) diffusion/spread/popularization/promulgation/familiarization/(P)/
+楽譜	がくふ	/(n) (music) score/sheet music/(P)/
+脱帽	だつぼう	/(n,vs) (1) removing one's hat/(2) admiring someone greatly/"taking off one's hat" to someone/
+冒険	ぼうけん	/(n,vs) (1) adventure/venture/(n,adj-na,vs) (2) venture which is unlikely to succeed/risky attempt/danger/hazard/risk/(P)/
+冒頭	ぼうとう	/(adv,n,adj-no) beginning/start/outset/(P)/
+塔	とう	/(n,n-suf) (1) tower/steeple/spire/(n) (2) (abbr) stupa/pagoda/dagoba/(P)/
+搭乗券	とうじょうけん	/(n) boarding passes/boarding tickets/
+一般	いっぱん	/(adj-no,adj-na,n) (1) general/universal/(2) ordinary/average/common/(adj-na,n) (3) (arch) the same/no different/(just) as if/(P)/
+運搬	うんぱん	/(n,vs) transport/transportation/conveyance/carriage/(P)/
+搬入	はんにゅう	/(n,vs) carrying in (esp. heavy objects, artwork, furniture)/bringing in/taking in/(P)/
+羊毛	ようもう	/(n,adj-no) wool/(P)/
+消耗	しょうもう	/(n,vs) exhaustion/consumption/using up/dissipation/waste/(P)/
+警戒	けいかい	/(n,vs) vigilance/caution/alertness/precaution/being on guard/(P)/
+戒厳令	かいげんれい	/(n) martial law/(P)/
+報酬	ほうしゅう	/(n) remuneration/recompense/reward/toll/(P)/
+応酬	おうしゅう	/(n,vs) (1) exchange/reciprocation/give-and-take/return/(2) reply/riposte/(P)/
+日程	にってい	/(n) schedule/program/programme/agenda/(P)/
+進呈	しんてい	/(n,vs,adj-no) presentation (e.g. of a gift)/(P)/
+贈呈	ぞうてい	/(n,vs,adj-no) presentation (e.g. of a gift, etc.)/(P)/
+家畜	かちく	/(n) domestic animals/livestock/cattle/(P)/
+畜産	ちくさん	/(n) animal husbandry/livestock industry/(P)/
+蓄積	ちくせき	/(n,vs,adj-no) accumulation/accumulate/store/(P)/
+貯蓄	ちょちく	/(n,vs) savings/(P)/
+治療	ちりょう	/(n,vs,adj-no) medical treatment/cure/(P)/
+療養	りょうよう	/(n,vs) recuperation/medical treatment/(P)/
+同僚	どうりょう	/(n) coworker/co-worker/colleague/associate/(P)/
+寮	りょう	/(n) (1) hostel/dormitory/(2) (arch) bureau (government department beneath a ministry under the ritsuryo system)/(P)/
+麻酔	ますい	/(n,adj-no) anaesthesia/anesthesia/(P)/
+麻薬	まやく	/(n) narcotic/drug/dope/(P)/
+摩擦	まさつ	/(n,vs) (1) friction/rubbing/chafing/(n) (2) discord/friction/strife/conflict/(P)/
+魔法	まほう	/(n) magic/witchcraft/sorcery/(P)/
+自慢	じまん	/(n,vs,adj-no) pride/boast/(P)/
+我慢	がまん	/(n,vs) patience/endurance/perseverance/tolerance/self-control/self-denial/(P)/
+漫画	まんが	/(n) cartoon/comic/comic strip/(P)/
+散漫	さんまん	/(adj-na,n) vague/desultory/distracted/loose/half-hearted/diffuse/scattered/(P)/
+歓迎	かんげい	/(n,vs,adj-no) welcome/reception/(P)/
+歓声	かんせい	/(n) cheer/shout of joy/(P)/
+勧誘	かんゆう	/(n,vs) invitation/solicitation/canvassing/canvasing/inducement/persuasion/encouragement/(P)/
+勧告	かんこく	/(n,vs,adj-no) advice/counsel/remonstrance/recommendation/(P)/
+譲渡	じょうと	/(n,vs) transfer/assignment/conveyance/(P)/
+譲歩	じょうほ	/(n,vs,adj-no) concession/conciliation/compromise/(P)/
+土壌	どじょう	/(n) (1) soil/(2) breeding ground/fertile ground (for)/foundation (for the development of ...)/(P)/
+醸造	じょうぞう	/(n,vs) brewing/distillation/(P)/
+組閣	そかく	/(n,vs) formation of a cabinet/(P)/
+祖父母	そふぼ	/(n) grandparents/(P)/
+祖先	そせん	/(n) ancestor/(P)/
+阻止	そし	/(n,vs) obstruction/check/hindrance/prevention/impediment/interdiction/preemption/blocking/(P)/
+粗品	そひん	/(n) (1) inferior goods/low-quality article/(2) (hum) trifling gift/(3) gift given out by companies to customers as a token of gratitude/marketing incentive/
+粗悪	そあく	/(adj-na,n,adj-no) coarse/crude/inferior/(P)/
+租税	そぜい	/(n) taxes/taxation/(P)/
+編集	へんしゅう	/(n,vs) editing/compilation/(P)/
+長編	ちょうへん	/(n,adj-no) long (e.g. novel, film)/(P)/
+普遍	ふへん	/(adj-no,n,vs) universal/general/ubiquitous/omnipresent/(P)/
+偏見	へんけん	/(n) prejudice/bias/distorted view/(P)/
+噴水	ふんすい	/(n) water fountain/(P)/
+噴火	ふんか	/(n,vs) eruption/volcanic eruption/(P)/
+憤慨	ふんがい	/(n,vs) indignation/resentment/(P)/
+古墳	こふん	/(n) ancient burial mound/barrow/tumulus/(P)/
+獲得	かくとく	/(n,vs,adj-no) acquisition/possession/(P)/
+捕獲	ほかく	/(n,vs) capture/seizure/(P)/
+収穫	しゅうかく	/(n,vs) (1) harvest/crop/ingathering/(2) fruits (of one's labors)/results/(P)/
+撲滅	ぼくめつ	/(n,vs) eradication/extermination/destruction/suppression/(P)/
+打撲	だぼく	/(n,vs) blow/hit (on the body)/beating/(P)/
+純粋	じゅんすい	/(adj-na,adj-no) pure/true/genuine/unmixed/(P)/
+栽培	さいばい	/(n,vs) cultivation/(P)/
+裁判	さいばん	/(n,vs,adj-no) trial/judgement/judgment/(P)/
+記載	きさい	/(n,vs) mention (in a document)/record/entry/statement/listing/(P)/
+掲載	けいさい	/(n) publication (e.g. of an article in a newspaper)/carrying (e.g. a story)/running (e.g. a serial)/insertion (e.g. of an advertisement)/printing/posting (e.g. on the web)/(P)/
+壮大	そうだい	/(adj-na,n) magnificent/grand/majestic/splendid/(P)/
+壮絶	そうぜつ	/(adj-na,n) grand/heroic/sublime/fierce/
+別荘	べっそう	/(n) (1) holiday house/vacation home/villa/(2) (col) prison/jail/(P)/
+山荘	さんそう	/(n) mountain villa/mountain retreat/mountain cottage/(P)/
+卑怯	ひきょう	/(adj-na,n) cowardice/meanness/unfairness/(P)/
+卑屈	ひくつ	/(adj-na,n) menial/meanness/servility/abject/(P)/
+石碑	せきひ	/(n) stone monument/(P)/
+合唱	がっしょう	/(n,vs,adj-no) chorus/singing in a chorus/(P)/
+提唱	ていしょう	/(n,vs) advocacy/proposal/(P)/
+結晶	けっしょう	/(n,vs) (1) crystal/crystallization/crystallisation/(2) fruits (of labor, union, etc.)/(P)/
+成熟	せいじゅく	/(n,vs,adj-no) maturity/ripeness/(P)/
+未熟	みじゅく	/(adj-na,n,adj-no) (1) unripe/green/(2) inexperienced/immature/unskilled/(P)/
+塾	じゅく	/(n) coaching school/cramming school/juku/(P)/
+従来	じゅうらい	/(n-adv,n-t) (1) up to now/so far/(adj-no) (2) traditional/conventional/usual/existing/(P)/
+従事	じゅうじ	/(n,vs) engaging in (work)/pursuing (e.g. studies)/following (a profession)/being involved in/(P)/
+操縦	そうじゅう	/(n,vs) (1) steering/piloting/flying/control/operation/handling/(2) management/handling/control/manipulation/(P)/
+縦断	じゅうだん	/(n,vs) (1) running through (north-south)/cutting across/travelling across/(2) cutting vertically/sectioning longitudinally/(P)/
+矛盾	むじゅん	/(n,vs,adj-no) contradiction/inconsistency/(P)/
+循環	じゅんかん	/(n,vs,adj-no) circulation/rotation/cycle/(P)/
+悪循環	あくじゅんかん	/(n) vicious circle/vicious cycle/(P)/
+需要	じゅよう	/(n) demand/request/(P)/
+必需品	ひつじゅひん	/(n) necessities/necessary article/requisite/essentials/(P)/
+儒教	じゅきょう	/(n,adj-no) Confucianism/(P)/
+孤独	こどく	/(n,adj-na,adj-no) solitude/loneliness/isolation/(P)/
+孤立	こりつ	/(n,vs) isolation/being alone/being friendless/(P)/
+括弧	かっこ	/(n,vs,adj-no) (uk) parentheses/brackets/(P)/
+補充	ほじゅう	/(n,vs) replenishment/supplementation/supplement/replacement/refilling/(P)/
+充実	じゅうじつ	/(n,vs) (1) fullness/completion/perfection/substantiality/(2) enhancement/improvement/enrichment/upgrading/(3) replenishment/repletion/(P)/
+銃	じゅう	/(n) gun/rifle/small arms/(P)/
+銃弾	じゅうだん	/(n) bullet (from a rifle)/(P)/
+沿岸	えんがん	/(n,adj-no) coast/shore/littoral/(P)/
+沿線	えんせん	/(n,adj-no) along railway line/(P)/
+鉛筆	えんぴつ	/(n) pencil/(P)/
+亜鉛	あえん	/(n) zinc (Zn)/(P)/
+紙幣	しへい	/(n) paper money/note/bill/(P)/
+貨幣	かへい	/(n,adj-no) money/currency/coinage/(P)/
+弊害	へいがい	/(n) harmful effect/harmful influence/evil practice/abuse/malady/(P)/
+弊社	へいしゃ	/(pn) (hum) our firm/our company/(P)/
+徹底	てってい	/(n,vs) (1) thoroughness/completeness/consistency/(2) thorough enforcement/seeing to it that a policy, etc. is carried out without exception/(P)/
+徹夜	てつや	/(n,vs,adj-no) staying up all night/(P)/
+撤去	てっきょ	/(n,vs) (1) withdrawal/revocation/repeal/(2) demolition/removal/(P)/
+撤回	てっかい	/(n,vs,adj-no) withdrawal/retraction/revocation/repeal/(P)/
+動揺	どうよう	/(n,vs) (1) shaking/trembling/pitching/rolling/oscillation/(2) disturbance/unrest/agitation/excitement/commotion/turmoil/discomposure/feeling shaken/(P)/
+民謡	みんよう	/(n) folk song/popular song/(P)/
+童謡	どうよう	/(n) children's song/nursery rhyme/(P)/
+随筆	ずいひつ	/(n) essays/miscellaneous writings/literary jottings/(P)/
+随分	ずいぶん	/(adv,adv-to) (1) (uk) very/extremely/surprisingly/considerably/awfully/terribly/(adj-na) (2) (uk) terrible/horrid/contemptible/reprehensible/(3) (uk) remarkable/extraordinary/(P)/
+真髄	しんずい	/(n,adj-no) essence/quintessence/spirit/soul/heart/pith/pith and marrow/(P)/
+娯楽	ごらく	/(n,vs,adj-no) pleasure/amusement/(P)/
+垂直	すいちょく	/(adj-na,n,adj-no) (1) vertical/(2) perpendicular/(P)/
+睡眠	すいみん	/(n,adj-no) sleep/(P)/
+熟睡	じゅくすい	/(n,vs) sound sleep/(P)/

@@ -1,0 +1,189 @@
+﻿弓矢	や	/(n) (1) arrow/(2) wedge/chock/(P)/
+盾	たて	/(n) shield/buckler/escutcheon/pretext/(P)/
+旗	はた	/(n) flag/(P)/
+綱	つな	/(n) (1) rope/(2) (sumo) grand champion's braided belt/(P)/
+縄	なわ	/(n) (1) rope/cord/(2) policeman's rope/(P)/
+鎖	じょう	/(n) (1) lock/padlock/(n,n-suf,ctr) (2) tablet/lozenge/pill/
+網	もう	/(suf) network/
+塊	かたまり	/(n) (1) lump/mass/bundle/clump/clod/cluster/(2) group/crowd/(3) embodiment (of an idea, quality, feeling etc.)/personification/(P)/
+渦	うず	/(n) whirlpool/swirl/eddy/vortex/maelstrom/(P)/
+泡	あわ	/(n) bubble/foam/froth/head on beer/(P)/
+穴	けつ	/(n) (1) (col) ass/arse/buttocks/(2) (col) rear/end/(3) acupuncture point/(ctr) (4) hole/notch/
+公	こう	/(n,suf) (1) public matter/governmental matter/(2) prince/duke/(n,n-suf) (3) lord/sir/(n-suf) (4) familiar or derogatory suffix/
+恥	はじ	/(n) shame/embarrassment/disgrace/(P)/
+罪	つみ	/(n,adj-na,adj-no) (1) crime/sin/wrongdoing/indiscretion/(n) (2) penalty/sentence/punishment/(3) fault/responsibility/culpability/(n,adj-na) (4) thoughtlessness/lack of consideration/(P)/
+趣	おもむき	/(n) (1) meaning/tenor/gist/(2) effect/influence/(3) appearance/aspect/(4) taste/(5) grace/charm/refinement/(P)/
+技	わざ	/(n) technique/art/skill/(P)/
+志	こころざし	/(n) (1) will/resolution/intention/ambition/aim/goal/(2) kindness/goodwill/kind offer/(3) gift (as a token of gratitude)/(P)/
+暇	ひま	/(adj-na,n) (1) spare time/free time/leisure/(n) (2) time (e.g. time it takes to do something)/(adj-na,n) (3) time off/day off/vacation/holiday/leave/(4) quitting (one's job)/firing someone/divorcing (one's spouse)/(adj-na) (5) (of one's time) free/(of one's business) slow/(P)/
+源	みなもと	/(n) (1) source (of a river)/fountainhead/(2) source/origin/root/(P)/
+魂	だましい	/(n) soul/spirit/
+幻	まぼろし	/(n,adj-no) phantom/vision/illusion/dream/apparition/(P)/
+雷	らい	/(n) lightning/thunder/thunderbolt/
+霧	きり	/(n) (1) fog/mist/(2) spray/(P)/
+霜	しも	/(n) frost/(P)/
+舌	した	/(n) (1) tongue/(2) tongue-like object/clapper (of a bell)/talon (of a lock)/(P)/
+唇	くちびる	/(n) lips/(P)/
+姿	すがた	/(n) (1) figure/form/shape/(2) appearance/dress/guise/(3) state/condition/picture/image/(4) form (of a waka)/(n-suf) (5) dressed in .../wearing .../(P)/
+襟	えり	/(n) (1) collar/lapel/neckband/neck/(2) nape of the neck/scruff of the neck/(P)/
+丈	だけ	/(prt) (1) (uk) only/just/merely/simply/no more than/nothing but/alone/(2) (uk) as (e.g. as soon as, as much as)/(3) (uk) worth/(P)/
+絹	きぬ	/(n) silk/(P)/
+紫	むらさき	/(n) (1) purple/violet/(2) (uk) Lithospermum erythrorhizon (species of gromwell)/(3) type of soy sauce/(P)/
+紺色	こんいろ	/(n,adj-no) deep blue/navy blue/
+復旧	ふっきゅう	/(n,vs,adj-no) restoration/restitution/rehabilitation/(P)/
+回復	かいふく	/(n,vs) (1) restoration/rehabilitation/recovery/return/replevin/improvement/(2) recovery (from an illness)/recuperation/convalescence/(P)/
+復帰	ふっき	/(n,vs,adj-no) (1) return/comeback/reinstatement/(2) carriage return/CR/(P)/
+復活	ふっかつ	/(n,vs,adj-no) (1) revival (e.g. musical)/come-back/(2) restoration/rebirth/resurrection/(P)/
+復興	ふっこう	/(n,vs) revival/renaissance/reconstruction/restoration/(P)/
+返済	へんさい	/(n,vs) repayment/reimbursement/refund/redemption/(P)/
+返却	へんきゃく	/(n,vs) return of something/repayment/(P)/
+返還	へんかん	/(n,vs) return/restoration/(P)/
+遠慮	えんりょ	/(n,vs) (1) reserve/constraint/restraint/modesty/diffidence/hesitation/holding back/discretion/tact/thoughtfulness/(2) declining/refraining/(3) forethought/foresight/(P)/
+配慮	はいりょ	/(n,vs) consideration/concern/attention/thoughtfulness/making arrangements/care/trouble/(P)/
+改正	かいせい	/(n,vs,adj-no) revision/amendment/alteration/(P)/
+訂正	ていせい	/(n,vs,adj-no) correction/revision/amendment/(P)/
+是正	ぜせい	/(n,vs) correction/revision/redressing/rectifying/(P)/
+申告	しんこく	/(n,vs) report/return (e.g. tax)/statement/declaration/notification/filing/(P)/
+翻訳	ほんやく	/(n,vs) (1) translation/(2) de-encryption/deciphering/(3) rendering/(P)/
+通訳	つうやく	/(n,vs) interpretation (i.e. oral translation)/interpreter/(P)/
+消化	しょうか	/(n,vs) (1) digestion (of food)/(2) digestion (of information)/assimilation/thorough understanding/(3) consumption/absorption/using up/meeting (e.g. a quota)/completion/(4) (arch) losing one's form and turning into something else/(P)/
+消費	しょうひ	/(n,vs,adj-no) consumption/expenditure/(P)/
+消耗	しょうもう	/(n,vs) exhaustion/consumption/using up/dissipation/waste/(P)/
+推薦	すいせん	/(n,vs,adj-no) recommendation/referral/endorsement/(P)/
+推奨	すいしょう	/(n,vs) recommendation/endorsement/(P)/
+障害	しょうがい	/(n,vs) (1) obstacle/impediment/hindrance/difficulty/barrier/(2) handicap/impairment/disability/disorder/malfunction/(P)/
+支障	ししょう	/(n) obstacle/hindrance/impediment/difficulty/(P)/
+規定	きてい	/(n,adj-no,vs) stipulation/prescription/provision/regulation/rule/(P)/
+窮屈な退屈な怠慢な緩慢な散漫な爛漫	らんまん	/(adj-t,adv-to) glorious/luxuriant/splendid/in full bloom/in full glory/
+承諾	しょうだく	/(n,vs) consent/approval/acceptance/agreement/compliance/(P)/
+了承	りょうしょう	/(n,vs) acknowledgement/acknowledgment/understanding (e.g. "please be understanding of the mess during our renovation")/noting/acceptance/(P)/
+認証	にんしょう	/(n,vs) (1) certification/attestation/authentication/confirmation/(2) Imperial attestation/(P)/
+分解	ぶんかい	/(n,vs,adj-no) (1) disassembly/dismantling/disaggregating/analysis/disintegrating/decomposing/degrading/(2) (math) factorization/(3) (chem) decomposition/resolution/(4) (comp) deblocking/(P)/
+分析	ぶんせき	/(n,vs) analysis/(P)/
+分類	ぶんるい	/(n,vs) classification/categorization/sorting/(P)/
+分配	ぶんぱい	/(n,vs) division/splitting/sharing/distribution/dissemination/allocation/(P)/
+観覧	かんらん	/(n,vs) viewing/(P)/
+回覧	かいらん	/(n,vs,adj-no) circulation (esp. documents)/sending round/(P)/
+閲覧	えつらん	/(n,vs) (1) inspection/reading/perusal/(2) browsing (the web)/(P)/
+展覧	てんらん	/(n,vs,adj-no) exhibition/show/
+沈没	ちんぼつ	/(n,vs) (1) sinking/foundering/going down/submersion/(2) (col) getting dead drunk/(3) (col) having too much fun (esp. in a red-light district, etc.) and missing work or neglecting one's duties/(4) (sl) staying in one place for a long time/(P)/
+没落	ぼつらく	/(n,vs) ruin/fall/collapse/(P)/
+没収	ぼっしゅう	/(n,vs,adj-no) forfeiture/seizure/confiscation/impounding/(P)/
+埋没	まいぼつ	/(n,vs) (1) being buried/(2) remaining unknown/being forgotten/(3) being absorbed (e.g. in research)/being immersed/(P)/
+交渉	こうしょう	/(n,vs,adj-no) (1) negotiations/discussions/(2) connection/(P)/
+干渉	かんしょう	/(n,vs) interference/intervention/meddling/(P)/
+交際	こうさい	/(n,vs) company/friendship/association/society/acquaintance/(P)/
+交流	こうりゅう	/(n,vs) (1) (cultural) exchange/interchange/interaction/(inter-) mingling/(social, etc.) networking/intercourse/(2) alternating current/AC/(P)/
+墜落	ついらく	/(n,vs) fall/crash (e.g. aircraft)/(P)/
+堕落	だらく	/(n,vs) depravity/corruption/degradation/(P)/
+転落	てんらく	/(n,vs) (1) fall/tumble/spill/plunge/dive/(2) degradation/comedown/demotion/slump/(P)/
+暴落	ぼうらく	/(n,vs) slump/crash/heavy fall/sudden decline/(P)/
+緊急	きんきゅう	/(n,adj-no,adj-na) urgency/emergency/(P)/
+至急	しきゅう	/(adj-no,n) (1) urgent/pressing/immediate/prompt/express/(n-adv) (2) urgently/promptly/at once/right away/without delay/as soon as possible/(P)/
+応急	おうきゅう	/(n,adj-no) emergency/first-aid/(P)/
+早急	そうきゅう	/(adj-na,adj-no,n) immediate/prompt/quick/rapid/urgent/pressing/
+原点	げんてん	/(n) origin (coordinates)/starting point/(P)/
+焦点	しょうてん	/(n,adj-no) focus (e.g. photographic)/focal point/(P)/
+視点	してん	/(n) opinion/point of view/visual point/(P)/
+盲点	もうてん	/(n) blind spot/(P)/
+静脈	じょうみゃく	/(n,adj-no) vein/(P)/
+文脈	ぶんみゃく	/(n) (ling) context/(P)/
+人脈	じんみゃく	/(n) personal connections/(P)/
+山脈	やまなみ	/(n) mountain range/
+便宜	べんぎ	/(n) convenience/accommodation/advantage/benefit/expediency/(P)/
+唱える	となえる	/(v1,vt) (1) to recite/to chant/(2) to cry/to yell/to shout/(3) to advocate/to advance/to preach/to insist/(P)/
+誤解	ごかい	/(n,vs) misunderstanding/(P)/
+招く	まねく	/(v5k,vt) (1) to invite/to ask/(2) to beckon/to wave someone in/to gesture to/(3) to call in/to send for/to summon/(4) to bring on oneself/to cause/to incur/to lead to/to result in/(P)/
+最善を尽くす	さいぜんをつくす	/(exp,v5s) to do one's best/to do something to the best of one's ability/
+屈辱	くつじょく	/(n) disgrace/humiliation/(P)/
+愚痴	ぐち	/(n) (1) idle complaint/grumble/(n,adj-na) (2) (Buddh) moha (ignorance, folly)/(P)/
+維持	いじ	/(n,vs) maintenance/preservation/improvement/(P)/
+迫る	せる	/(ok) (v5r,vi) (1) to approach/to draw near/to be imminent/(v5r,vt) (2) to press (someone for something)/to urge/to compel/
+錯覚	さっかく	/(n,vs,adj-no) (1) optical illusion/hallucination/(2) misapprehension/delusion/(P)/
+錯誤	さくご	/(n) (1) mistake/error/discrepancy/(2) (law) discrepancy between one's actions and intentions/(P)/
+疑う	うたがう	/(v5u,vt) to doubt/to distrust/to be suspicious of/to suspect/(P)/
+据えかねる起伏	きふく	/(n,vs) (1) undulation/(2) ups and downs/highs and lows/(P)/
+露にする	あらわにする	/(exp,vs-i) (uk) to lay bare/to expose/to reveal/
+軌道	きどう	/(n,adj-no) (1) (astron) (physics) orbit/trajectory/(n) (2) railroad track/(3) (right) track/proper course/(P)/
+陣中	じんちゅう	/(n,adj-no) in camp/at the front/(P)/
+謹賀	きんが	/(n) (hum) wishes of happiness/
+娯楽	ごらく	/(n,vs,adj-no) pleasure/amusement/(P)/
+妥協	だきょう	/(n,vs) compromise/giving in/(P)/
+扶養	ふよう	/(n,vs) support (e.g. of one's dependents)/maintenance/(P)/
+養う	やしなう	/(v5u,vt) (1) to support/to maintain/to provide for/(2) to bring up/to raise/to rear/to feed/(3) to adopt (a child)/(4) to cultivate (a habit, a quality, etc.)/to develop/to build up/to foster/(5) to recuperate (from injury, illness, etc.)/(P)/
+不吉	ふきつ	/(adj-na,n) ominous/sinister/unlucky/inauspicious/(P)/
+予感	よかん	/(n) (1) presentiment/premonition/hunch/(vs) (2) to have a premonition/to have a hunch/(P)/
+拝啓	はいけい	/(n) Dear (so and so)/Dear Sir/Dear Madam/To Whom It May Concern/(P)/
+敬具	けいぐ	/(exp) Yours sincerely/Yours truly/Sincerely yours/(P)/
+炊事	すいじ	/(n,vs) cooking/kitchen work/(P)/
+洗濯	せんたく	/(n,vs) (1) washing/laundry/(2) relaxing/taking a break/(P)/
+選択	せんたく	/(n,vs) selection/choice/option/(P)/
+案の定	あんのじょう	/(exp,adv) just as one thought/as usual/sure enough/(P)/
+懲りない	こりない	/(adj-i) (someone who) doesn't learn their lesson/obstinate/
+勇敢	ゆうかん	/(adj-na) brave/heroic/gallant/(P)/
+臆病	おくびょう	/(adj-na,n) cowardice/timidity/(P)/
+敏感	びんかん	/(adj-na,n) sensitive/alert/aware/susceptible/(P)/
+鈍感	どんかん	/(adj-na,n) thickheaded/insensitive/dull/thick-skinned/(P)/
+大胆	だいたん	/(adj-na,n) bold/daring/audacious/(P)/
+慎重	しんちょう	/(adj-na,n) careful/cautious/prudent/discreet/deliberate/(P)/
+質素	しっそ	/(adj-na,n) (1) simple/plain/(2) modest/frugal/reserved/(P)/
+豪華	ごうか	/(adj-na,n) wonderful/gorgeous/splendor/splendour/pomp/extravagance/(P)/
+頑固	がんこ	/(adj-na,n) stubborn/obstinate/pigheaded/(P)/
+柔軟	じゅうなん	/(adj-na,n) flexible/lithe/soft/pliable/(P)/
+寛容	かんよう	/(n,adj-na,vs) tolerance/open-mindedness/forbearance/generosity/magnanimity/(P)/
+厳格	げんかく	/(adj-na,n) strict/severe/stern/rigid/rigorous/tough/(P)/
+迅速	じんそく	/(adj-na,n) quick/fast/rapid/swift/prompt/streamlined/expedited/expeditious/(P)/
+悠長	ゆうちょう	/(adj-na,n) leisurely/slow/deliberate/easygoing/(P)/
+淡泊	たんぱく	/(adj-na,n) (1) light (color, colour, taste)/simple/plain/(2) frank/candid/ingenuous/indifferent/(P)/
+濃厚	のうこう	/(adj-na) (1) rich (in flavor, color, smell, etc.)/thick/dense/strong/(2) very likely/highly possible/(3) passionate/hot/(P)/
+愚か	おろか	/(adj-na,n) foolish/stupid/(P)/
+賢い	かしこい	/(adj-i) wise/clever/smart/(P)/
+几帳面	きちょうめん	/(adj-na) (1) methodical/precise/meticulous/scrupulous/regular/punctual/(n) (2) wooden post that has been carved to have a rounded corner with grooves running along either side of it/(P)/
+大ざっぱ	おおざっぱ	/(adj-na,n) rough (as in not precise)/broad/sketchy/(P)/
+冷酷	れいこく	/(adj-na,n) cruelty/coldheartedness/relentless/ruthless/(P)/
+慈悲深い	じひぶかい	/(adj-i) compassionate/merciful/benevolent/charitable/humane/
+没落	ぼつらく	/(n,vs) ruin/fall/collapse/(P)/
+繁栄	はんえい	/(n,vs) prospering/prosperity/thriving/flourishing/(P)/
+膨張	ぼうちょう	/(n,vs) expansion/swelling/increase/growth/(P)/
+収縮	しゅうしゅく	/(n,vs) deflation/contraction/shrinking/constriction/(P)/
+一括	いっかつ	/(n,vs) lumping together/summing up/bundle/lump/batch/(P)/
+分割	ぶんかつ	/(n,vs) partition/division/separation/segmenting/splitting/(P)/
+天国	てんごく	/(n,adj-no) paradise/heaven/Kingdom of Heaven/(P)/
+地獄	じごく	/(n) hell/(P)/
+吉	きつ	/(n,adj-no) good fortune (esp. omikuji fortune-telling result)/good luck/auspiciousness/
+凶	きょう	/(n) (1) bad luck/bad fortune/(2) evil/wickedness/
+嫁	よめ	/(n) (1) wife/bride/(2) (one's) daughter-in-law/(P)/
+婿	むこ	/(n) (1) husband/groom/(2) (one's) son-in-law/(P)/
+肯定	こうてい	/(n,vs) (1) affirmation/(n) (2) affirmative (logic)/(P)/
+否定	ひてい	/(n,vs,adj-no) (1) denial/negation/repudiation/disavowal/(n) (2) negation (logic)/(3) (comp) NOT operation/(P)/
+理論	りろん	/(n) theory/(P)/
+実践	じっせん	/(n,vs) (1) practice/putting into practice/implementation/(n) (2) praxis (philosophy)/(P)/
+虚偽	こぎ	/(ok) (n,adj-no) (1) falsehood/untruth/lie/misinformation/(n) (2) fallacy (logic)/
+真実	しんじつ	/(adj-na,adv,n,adj-no) truth/reality/(P)/
+喜び	よろこび	/(n) joy/delight/rapture/pleasure/gratification/rejoicing/congratulations/felicitations/(P)/
+憂い	うれい	/(n) (1) sorrow/grief/anguish/distress/(2) trouble/affliction/anxiety/fear/misgivings/(P)/
+喜劇	きげき	/(n,adj-no) comedy/funny show/(P)/
+悲劇	ひげき	/(n) (1) tragedy/tragic drama/tragic play/(2) tragedy/calamity/disaster/(P)/
+傑作	けっさく	/(adj-na,n) (1) masterpiece/best work/(2) amusing blunder/funny mistake/boner/(P)/
+駄作	ださく	/(n) poor piece of work/rubbish/trash/
+酷評	こくひょう	/(n,vs,adj-no) severe criticism/damnation/(P)/
+絶賛	ぜっさん	/(n,vs) high praise/great admiration/rave reviews/
+劣等感	れっとうかん	/(n) inferiority complex/(P)/
+優越感	ゆうえつかん	/(n) superiority complex/sense of superiority/(P)/
+酸性	さんせい	/(n) (1) (chem) acidity/(adj-no) (2) (chem) acidic/(P)/
+陰性	いんせい	/(adj-na,n,adj-no) negative/(P)/
+陽性	ようせい	/(n,adj-no) positivity/(P)/
+慢性	まんせい	/(n,adj-no) chronicity/chronic/(P)/
+急性	きゅうせい	/(n,adj-no) acute (e.g. illness)/(P)/
+紫外線	しがいせん	/(n) ultra-violet rays/(P)/
+赤外線	せきがいせん	/(n) infrared rays/(P)/
+清音	せいおん	/(n) (ling) unvoiced consonant (except p) in Japanese/
+濁音	だくおん	/(n) (ling) voiced consonant in Japanese/
+唯一無二	ゆいつむに	/(adj-na,n,adj-no) (yoji) one and only/unique/
+無色透明	むしょくとうめい	/(n,adj-na,adj-no) (yoji) colorless and transparent/
+喜怒哀楽	きどあいらく	/(n) (yoji) human emotions (joy, anger, pathos, and humor) (humour)/(P)/
+危機一髪	ききいっぱつ	/(exp,n) (yoji) by a hair's breadth/in the nick of time/touch and go/close call/critical moment/
+錯誤	さくご	/(n) (1) mistake/error/discrepancy/(2) (law) discrepancy between one's actions and intentions/(P)/
+喪失	そうしつ	/(n,vs) loss/forfeit/(P)/
+油断大敵	ゆだんたいてき	/(exp) (yoji) Unpreparedness is one's greatest enemy/He that is too secure is not safe/
+霧中	むちゅう	/(n) in the fog/

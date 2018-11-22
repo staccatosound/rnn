@@ -1,0 +1,104 @@
+﻿選挙内閣	ないかく	/(n) cabinet (of a government)/ministry/(P)/
+組閣	そかく	/(n,vs) formation of a cabinet/(P)/
+退陣	たいじん	/(n,vs) (1) resignation/stepping down/retirement/(2) retreat/decamping/withdrawal/(P)/
+報道陣	ほうどうじん	/(n) press corps/(P)/
+金銭	きんせん	/(n,adj-no) money/cash/(P)/
+貢献	こうけん	/(n,vs) contribution (furthering a goal or cause)/services (to a cause)/(P)/
+献金	けんきん	/(n,vs) donation/contribution/offering/(P)/
+大統領	だいとうりょう	/(n) (1) president (of a nation or company)/chief executive/(2) (fam) big man/boss/buddy/mate/(P)/
+統治	とうち	/(n,vs,adj-no) rule/reign/government/governing/(P)/
+統合	とうごう	/(n,vs) integration/unification/unity/combination/consolidation/synthesis/(P)/
+同盟	どうめい	/(n,vs,adj-no) alliance/union/league/(P)/
+連盟	れんめい	/(n,adj-no) league/federation/union/alliance/(P)/
+更迭	こうてつ	/(n,vs) change (of personnel)/reshuffle (e.g. of a cabinet)/shake-up/dismissal (e.g. of a minister)/replacement/(P)/
+罷免	ひめん	/(n,vs) dismissal (from a position)/discharge/(P)/
+憲法	けんぽう	/(n,adj-no) constitution/(P)/
+違憲	いけん	/(n) unconstitutionality/(P)/
+合憲	ごうけん	/(n,adj-no) constitutionality/(P)/
+総務省	そうむしょう	/(n) Ministry of Internal Affairs and Communications (formerly Ministry of Public Management, Home Affairs, Posts and Telecommunications)/
+債務省官邸	かんてい	/(n) official residence (e.g. of the prime minister)/(P)/
+官僚	かんりょう	/(n) bureaucrat/government official/bureaucracy/(P)/
+政権	せいけん	/(n) (political) administration/political power/(P)/
+候補	こうほ	/(n) (1) candidate/contender/prospect/pick/choice/list/(2) candidacy/candidature/nomination/(P)/
+疑惑	ぎわく	/(n,adj-no,n-suf) doubt/misgivings/distrust/suspicion/(P)/
+保護	ほご	/(n,vs) (1) protection/safeguard/guardianship/custody/patronage/(2) preservation/conservation/(P)/
+介護	かいご	/(n,vs,adj-no) nursing/care/caregiving/caring/(P)/
+弁護	べんご	/(n,vs) defense/defence/pleading/advocacy/(P)/
+対策	たいさく	/(n) measure/provision/step/countermeasure/counterplan/countermove/(P)/
+政策	せいさく	/(n) political measures/policy/(P)/
+支援	しえん	/(n,vs) support/backing/aid/assistance/(P)/
+救援	きゅうえん	/(n,vs) relief/rescue/(P)/
+伐採	ばっさい	/(n,vs) felling timber/cutting down trees/logging/lumbering/(P)/
+食糧	しょくりょう	/(n) food (esp. staple food such as rice or wheat)/provisions/rations/food supply/(P)/
+飢きん	ききん	/(n) famine/drought/shortage/crop failure/
+飢餓	きが	/(n) starvation/famine/hunger/(P)/
+擁護	ようご	/(n) (1) protection/advocacy/support/defence/championship/vindication/(vs) (2) to protect (e.g. rights, etc.)/to advocate (e.g. free trade, etc.)/to support/(P)/
+洪水	こうずい	/(n) flood/flooding/(P)/
+津波	つなみ	/(n) tsunami/tidal wave/(P)/
+浸水	しんすい	/(n,vs,adj-no) inundation/submersion/flood/(P)/
+災害	さいがい	/(n) calamity/disaster/misfortune/(P)/
+被災地	ひさいち	/(n) area struck (by some disaster)/location of a disaster/
+請求	せいきゅう	/(n,vs) claim/demand/charge/application/request/billing (for a service)/(P)/
+要請	ようせい	/(n,vs) (1) appeal/call for something/request/claim/demand/(n) (2) axiom/(P)/
+紛争	ふんそう	/(n,vs,adj-no) dispute/trouble/strife/(P)/
+紛糾	ふんきゅう	/(n,vs) complication/confusion/disorder/(P)/
+宗教	しゅうきょう	/(n) (1) religion/religious affiliation/belief/faith/creed/(2) religious activity/(P)/
+連邦	れんぽう	/(n,adj-no) commonwealth/federation of states/confederation/union/(P)/
+邦人	ほうじん	/(n) (1) Japanese national (esp. one living overseas)/(2) fellow countryman/(P)/
+邦楽	ほうがく	/(n) Japanese music (esp. traditional Japanese music)/(P)/
+核兵器	かくへいき	/(n) nuclear weapon/(P)/
+制裁	せいさい	/(n,vs) sanctions/punishment/(P)/
+裁判	さいばん	/(n,vs,adj-no) trial/judgement/judgment/(P)/
+措置	そち	/(n,vs) measure/step/action/(P)/
+利益	りやく	/(n,vs) (1) profit/gains/(2) benefit/advantage/interest (of the public, etc.)/(3) grace (of God, Buddha, etc.) (esp. as attained through rightful actions, prayer, adherence to one's faith, etc.)/blessing/miracle/
+差益	さえき	/(n) marginal profits/(P)/
+還元	かんげん	/(n,vs) (1) restoration/return/(2) (chem) reduction/resolution/deoxidization/deoxidation/(P)/
+返還	へんかん	/(n,vs) return/restoration/(P)/
+金融	きんゆう	/(n) (1) finance/financing/credit transacting/loaning of money/circulation of money/(adj-no) (2) monetary/financial/credit/(P)/
+融資	ゆうし	/(n,vs) financing/loan/(P)/
+国際	こくさい	/(adj-no,n) (1) international/(n) (2) (obs) diplomatic intercourse/(P)/
+債務	さいむ	/(n) debt/liabilities/obligation to a person or party (usu. legal or contractual)/(P)/
+削減	さくげん	/(n,vs) cut/reduction/curtailment/(P)/
+削除	さくじょ	/(n,vs) deletion/elimination/erasure/striking out/(P)/
+斡旋	あっせん	/(n,vs) (1) kind offices/services/through the good offices of/influence/(2) intercession/mediation/(P)/
+検討	けんとう	/(n,vs) consideration/examination/investigation/study/scrutiny/discussion/analysis/review/(P)/
+討議	とうぎ	/(n,vs) debate/discussion/(P)/
+鉄鋼	てっこう	/(n) iron and steel/(P)/
+合併	がっぺい	/(n,vs) merger (of companies, towns, etc.)/combination/union/amalgamation/consolidation/coalition/fusion/annexation/affiliation/incorporation/(P)/
+開拓	かいたく	/(n,vs) (1) reclamation (e.g. wasteland)/cultivation/development/(2) pioneering/opening up (e.g. new market)/breaking new ground/trailblazing/(P)/
+庶民	しょみん	/(n) common people/ordinary people/masses/(P)/
+打撃	だげき	/(n) (1) blow/shock/strike/damage/(2) (baseb) batting/(P)/
+雇用	こよう	/(n,vs) employment (long term)/hire/(P)/
+解雇	かいこ	/(n,vs) discharge/dismissal/(P)/
+好況	こうきょう	/(n) prosperous conditions/healthy economy/(P)/
+不況	ふきょう	/(adj-na,n,adj-no) recession/depression/slump/(P)/
+業績	ぎょうせき	/(n) achievement/performance/results/work/contribution/(P)/
+業界	ぎょうかい	/(n) business world/business circles/(the) industry/(P)/
+倒産	とうさん	/(n,vs) (corporate) bankruptcy/insolvency/commercial failure/failed business/(P)/
+負債	ふさい	/(n) debt/liabilities/(P)/
+仲介	ちゅうかい	/(n,vs,adj-no) agency/intermediation/(P)/
+再建	さいこん	/(n,vs) (temple or shrine) rebuilding/
+再編	さいへん	/(n,vs) reorganization/reorganisation/reshuffle/(P)/
+福祉	ふくち	/(n) welfare/well-being/social welfare/social security/social service/
+猛威	もうい	/(n) fury/power/menace/(P)/
+猛烈	もうれつ	/(adj-na) fierce/intense/severe/violent/strong/vehement/terrific/terrible/(P)/
+威力	いりょく	/(n) power/might/authority/influence/(P)/
+振るう	ふるう	/(v5u,vt) (1) to swing/to wield (physically)/to exert/(2) to exercise (e.g. power, ability)/to exhibit/to display/to wield (metaphorically)/(3) to flourish/to prosper/to thrive/
+患者	かんじゃ	/(n) patient/(P)/
+基礎	きそ	/(n,adj-no) foundation/basis/(P)/
+感染	かんせん	/(n,vs,adj-no) infection/contagion/(P)/
+伝染	でんせん	/(n,vs) contagion/infection/(P)/
+汚染	おせん	/(n,vs) pollution/contamination/(P)/
+診療	しんりょう	/(n,vs) diagnosis and treatment/medical care/(P)/
+診断	しんだん	/(n,vs,adj-no) diagnosis/medical examination/(P)/
+検診	けんしん	/(n,vs) (abbr) physical examination/medical examination/health checkup/health screening/(P)/
+奨励	しょうれい	/(n,vs) encouragement/promotion/inducement/incitement/stimulation/(P)/
+激励	げきれい	/(n,vs,adj-no) encouragement/(P)/
+菌	たけ	/(n) (uk) mushroom/
+細菌	さいきん	/(n) bacterium/bacteria/germ/(P)/
+肺	はい	/(n) lung/(P)/
+肺炎	はいえん	/(n,adj-no) pneumonia/(P)/
+炎症	えんしょう	/(n) inflammation/irritation/(P)/
+胃腸炎	いちょうえん	/(n) gastroenteritis/
+腸	わた	/(n) guts/bowels/intestines/
+胃腸	いちょう	/(n) stomach and intestines/gastrointestinal tract/digestive organs/(P)/
